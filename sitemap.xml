@@ -1,135 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>/</loc>
+        <loc>/static-site/</loc>
     </url>
     <url>
-        <loc>/about/</loc>
+        <loc>/static-site/about/</loc>
     </url>
     <url>
-        <loc>/blog/</loc>
+        <loc>/static-site/blog/</loc>
     </url>
     <url>
-        <loc>/blog/2019-edge-of-clouds/</loc>
+        <loc>/static-site/blog/2019-edge-of-clouds/</loc>
     </url>
     <url>
-        <loc>/blog/2019-gender-markers/</loc>
+        <loc>/static-site/blog/2019-gender-markers/</loc>
         <lastmod>2019-08-13</lastmod>
     </url>
     <url>
-        <loc>/blog/2019-hi-queer-trans/</loc>
+        <loc>/static-site/blog/2019-hi-queer-trans/</loc>
         <lastmod>2019-01-28</lastmod>
     </url>
     <url>
-        <loc>/blog/2019-in-review/</loc>
+        <loc>/static-site/blog/2019-in-review/</loc>
         <lastmod>2019-12-31</lastmod>
     </url>
     <url>
-        <loc>/blog/2019-jeeping-about/</loc>
+        <loc>/static-site/blog/2019-jeeping-about/</loc>
     </url>
     <url>
-        <loc>/blog/2019-job-hunt-is-over/</loc>
+        <loc>/static-site/blog/2019-job-hunt-is-over/</loc>
         <lastmod>2019-10-05</lastmod>
     </url>
     <url>
-        <loc>/blog/2019-politics-of-machine-learning/</loc>
+        <loc>/static-site/blog/2019-politics-of-machine-learning/</loc>
     </url>
     <url>
-        <loc>/blog/2019-rebuilding-my-miniserver/</loc>
+        <loc>/static-site/blog/2019-rebuilding-my-miniserver/</loc>
         <lastmod>2019-05-29</lastmod>
     </url>
     <url>
-        <loc>/blog/2019-transitioning-is-strength/</loc>
+        <loc>/static-site/blog/2019-transitioning-is-strength/</loc>
         <lastmod>2019-12-15</lastmod>
     </url>
     <url>
-        <loc>/blog/2019-what-happened-openstack/</loc>
+        <loc>/static-site/blog/2019-what-happened-openstack/</loc>
         <lastmod>2019-03-02</lastmod>
     </url>
     <url>
-        <loc>/blog/2019-whats-in-a-name/</loc>
+        <loc>/static-site/blog/2019-whats-in-a-name/</loc>
         <lastmod>2019-03-15</lastmod>
     </url>
     <url>
-        <loc>/blog/2020-being-a-better-ally/</loc>
+        <loc>/static-site/blog/2020-being-a-better-ally/</loc>
         <lastmod>2020-07-16</lastmod>
     </url>
     <url>
-        <loc>/blog/2020-identity-vectors/</loc>
+        <loc>/static-site/blog/2020-identity-vectors/</loc>
         <lastmod>2020-09-27</lastmod>
     </url>
     <url>
-        <loc>/blog/2020-six-to-eight-weeks/</loc>
+        <loc>/static-site/blog/2020-six-to-eight-weeks/</loc>
         <lastmod>2020-05-26</lastmod>
     </url>
     <url>
-        <loc>/blog/2021-newsite/</loc>
+        <loc>/static-site/blog/2021-newsite/</loc>
         <lastmod>2021-02-01</lastmod>
     </url>
     <url>
-        <loc>/blog/page/1/</loc>
+        <loc>/static-site/blog/page/1/</loc>
     </url>
     <url>
-        <loc>/blog/page/2/</loc>
+        <loc>/static-site/blog/page/2/</loc>
     </url>
     <url>
-        <loc>/blog/page/3/</loc>
+        <loc>/static-site/blog/page/3/</loc>
     </url>
     <url>
-        <loc>/contact/</loc>
+        <loc>/static-site/contact/</loc>
     </url>
     <url>
-        <loc>/media/</loc>
+        <loc>/static-site/media/</loc>
     </url>
     <url>
-        <loc>/tags/</loc>
+        <loc>/static-site/tags/</loc>
     </url>
     <url>
-        <loc>/tags/career/</loc>
+        <loc>/static-site/tags/career/</loc>
     </url>
     <url>
-        <loc>/tags/cloud/</loc>
+        <loc>/static-site/tags/cloud/</loc>
     </url>
     <url>
-        <loc>/tags/covid/</loc>
+        <loc>/static-site/tags/covid/</loc>
     </url>
     <url>
-        <loc>/tags/friends/</loc>
+        <loc>/static-site/tags/friends/</loc>
     </url>
     <url>
-        <loc>/tags/gender/</loc>
+        <loc>/static-site/tags/gender/</loc>
     </url>
     <url>
-        <loc>/tags/job/</loc>
+        <loc>/static-site/tags/job/</loc>
     </url>
     <url>
-        <loc>/tags/kubernetes/</loc>
+        <loc>/static-site/tags/kubernetes/</loc>
     </url>
     <url>
-        <loc>/tags/legislation/</loc>
+        <loc>/static-site/tags/legislation/</loc>
     </url>
     <url>
-        <loc>/tags/mentoring/</loc>
+        <loc>/static-site/tags/mentoring/</loc>
     </url>
     <url>
-        <loc>/tags/microsoft/</loc>
+        <loc>/static-site/tags/microsoft/</loc>
     </url>
     <url>
-        <loc>/tags/new-years/</loc>
+        <loc>/static-site/tags/new-years/</loc>
     </url>
     <url>
-        <loc>/tags/openstack/</loc>
+        <loc>/static-site/tags/openstack/</loc>
     </url>
     <url>
-        <loc>/tags/tech/</loc>
+        <loc>/static-site/tags/tech/</loc>
     </url>
     <url>
-        <loc>/tags/trans/</loc>
+        <loc>/static-site/tags/trans/</loc>
     </url>
     <url>
-        <loc>/tags/update/</loc>
+        <loc>/static-site/tags/update/</loc>
     </url>
     <url>
-        <loc>/tags/website/</loc>
+        <loc>/static-site/tags/website/</loc>
     </url>
 </urlset>

@@ -2,17 +2,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Adventures in Self</title>
-        <link>/</link>
+        <link>/static-site/</link>
         <description>An Unfinished Story</description>
         <generator>Zola</generator>
         <language>en</language>
-        <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="/static-site/rss.xml" rel="self" type="application/rss+xml"/>
         <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
         <item>
             <title>New Site, Who Dis?</title>
             <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-            <link>/blog/2021-newsite/</link>
-            <guid>/blog/2021-newsite/</guid>
+            <link>/static-site/blog/2021-newsite/</link>
+            <guid>/static-site/blog/2021-newsite/</guid>
             <description>&lt;p&gt;Yep, I&#x27;m finally making the time to catch up with the times -- and learn Rust.&lt;&#x2F;p&gt;
 &lt;p&gt;tldr;&lt;&#x2F;p&gt;
 &lt;ul&gt;
@@ -26,16 +26,16 @@
         <item>
             <title>identity vectors</title>
             <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
-            <link>/blog/2020-identity-vectors/</link>
-            <guid>/blog/2020-identity-vectors/</guid>
+            <link>/static-site/blog/2020-identity-vectors/</link>
+            <guid>/static-site/blog/2020-identity-vectors/</guid>
             <description>&lt;p&gt;It’s hard to believe that I’ve been at Microsoft for almost a year now — and that I came down with COVID-19 six and a half months ago. When I look back at the tumultuous political landscape that is 2020, these two events will doubtless color my memories of this year in ways that I can not yet really understand.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Being a Better Ally: 2020</title>
             <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
-            <link>/blog/2020-being-a-better-ally/</link>
-            <guid>/blog/2020-being-a-better-ally/</guid>
+            <link>/static-site/blog/2020-being-a-better-ally/</link>
+            <guid>/static-site/blog/2020-being-a-better-ally/</guid>
             <description>&lt;p&gt;As we go into the next decade, many men are looking for advice on how to better support their non-cis-gendered employees, coworkers, neighbors, friends, and&#x2F;or family.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;Editor’s note: I wrote this post in the first weeks of 2020, but didn’t publish it for six months. It feels simultaneously out of date and yet still full of relevant advice as I publish it now, in July.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;new-years-eve&quot;&gt;New Years’ Eve&lt;a class=&quot;zola-anchor&quot; href=&quot;#new-years-eve&quot; aria-label=&quot;Anchor link for: new-years-eve&quot;&gt;§&lt;&#x2F;a&gt;
@@ -137,8 +137,8 @@ but I’m actually very comfortable with being a white man.&lt;&#x2F;p&gt;
         <item>
             <title>Six to Eight Weeks</title>
             <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-            <link>/blog/2020-six-to-eight-weeks/</link>
-            <guid>/blog/2020-six-to-eight-weeks/</guid>
+            <link>/static-site/blog/2020-six-to-eight-weeks/</link>
+            <guid>/static-site/blog/2020-six-to-eight-weeks/</guid>
             <description>&lt;p&gt;The doctors told me that it takes six to eight weeks – on average – for healthy folks with my symptoms to recover. &lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;p&gt;Friday, April 10th, my work team had our first Virtual Happy Hour, so I was enjoying a little sun in my back yard and a tumbler of Scotch. We’re a relatively new team, and only had a few months to get to know each other before quarantine-in-place orders went into effect in Washington, so the social time together was very welcome.&lt;&#x2F;p&gt;
@@ -176,11 +176,11 @@ but I’m actually very comfortable with being a white man.&lt;&#x2F;p&gt;
         <item>
             <title>2019 in Review</title>
             <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
-            <link>/blog/2019-in-review/</link>
-            <guid>/blog/2019-in-review/</guid>
+            <link>/static-site/blog/2019-in-review/</link>
+            <guid>/static-site/blog/2019-in-review/</guid>
             <description>&lt;p&gt;It&#x27;s been two years since I came out. So much has changed. So much has improved.&lt;&#x2F;p&gt;
 &lt;p&gt;If 2018 was about &lt;em&gt;accepting&lt;&#x2F;em&gt; that truth, 2019 was about &lt;em&gt;taking action on it&lt;&#x2F;em&gt;..&lt;&#x2F;p&gt;
-&lt;p&gt;For starters, I changed all my online profiles this year. I &lt;em&gt;&lt;a href=&quot;&#x2F;blog&#x2F;2019-in-review&#x2F;whats-in-a-name.html&quot;&gt;changed my name&lt;&#x2F;a&gt;&lt;&#x2F;em&gt; this year.&lt;&#x2F;p&gt;
+&lt;p&gt;For starters, I changed all my online profiles this year. I &lt;em&gt;&lt;a href=&quot;&#x2F;static-site&#x2F;blog&#x2F;2019-in-review&#x2F;whats-in-a-name.html&quot;&gt;changed my name&lt;&#x2F;a&gt;&lt;&#x2F;em&gt; this year.&lt;&#x2F;p&gt;
 &lt;p&gt;I realized that my career choices over the past several years had led me uncomfortably far from my ethics. (More on that later…)&lt;&#x2F;p&gt;
 &lt;p&gt;The result? I spent eight months of 2019 uninsured and underemployed, but still &lt;em&gt;very&lt;&#x2F;em&gt; busy.&lt;&#x2F;p&gt;
 &lt;p&gt;I interviewed at dozens of tech companies … and only got one offer.&lt;&#x2F;p&gt;
@@ -261,8 +261,8 @@ but I’m actually very comfortable with being a white man.&lt;&#x2F;p&gt;
         <item>
             <title>Transitioning Is an Act of Strength</title>
             <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
-            <link>/blog/2019-transitioning-is-strength/</link>
-            <guid>/blog/2019-transitioning-is-strength/</guid>
+            <link>/static-site/blog/2019-transitioning-is-strength/</link>
+            <guid>/static-site/blog/2019-transitioning-is-strength/</guid>
             <description>&lt;blockquote&gt;
 &lt;p&gt;You gave up everything I’ve spent my life fighting for. I can’t imagine how much you must have been hurting inside to choose to do that.&lt;&#x2F;p&gt;
 &lt;p&gt;-&lt;em&gt;Sarah Novotny&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
@@ -326,8 +326,8 @@ but I’m actually very comfortable with being a white man.&lt;&#x2F;p&gt;
         <item>
             <title>The Job Hunt Is Over</title>
             <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
-            <link>/blog/2019-job-hunt-is-over/</link>
-            <guid>/blog/2019-job-hunt-is-over/</guid>
+            <link>/static-site/blog/2019-job-hunt-is-over/</link>
+            <guid>/static-site/blog/2019-job-hunt-is-over/</guid>
             <description>&lt;p&gt;It’s been a month now since I signed an employment contract with Microsoft.&lt;&#x2F;p&gt;
 &lt;p&gt;You read that correctly — the giant tech company which I swore, back in the 90’s, I would never work for. Even though most of my colleagues have been very encouraging, even reminding me that Microsoft isn’t as monopolistic or walled-off as it once was, there are still some things which bear clarification (especially for any readers that have known me during the OpenStack or MySQL days).&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
@@ -349,8 +349,8 @@ but I’m actually very comfortable with being a white man.&lt;&#x2F;p&gt;
         <item>
             <title>Gender Markers</title>
             <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
-            <link>/blog/2019-gender-markers/</link>
-            <guid>/blog/2019-gender-markers/</guid>
+            <link>/static-site/blog/2019-gender-markers/</link>
+            <guid>/static-site/blog/2019-gender-markers/</guid>
             <description>&lt;p&gt;&lt;em&gt;(content warning: gender issues and gender-based violence, no specifics but still may be difficult for some)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;p&gt;Yesterday, the Washington State Department of Licensing held a public hearing for comments on the proposed legislation to add an ‘X’ gender marker option on state-issued ID’s. I chose to go and stand up for all the non-binary, intersex, and transgender members of my communities.&lt;&#x2F;p&gt;
@@ -397,16 +397,16 @@ Thank you.
         <item>
             <title>Rebuilding my miniserver</title>
             <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
-            <link>/blog/2019-rebuilding-my-miniserver/</link>
-            <guid>/blog/2019-rebuilding-my-miniserver/</guid>
+            <link>/static-site/blog/2019-rebuilding-my-miniserver/</link>
+            <guid>/static-site/blog/2019-rebuilding-my-miniserver/</guid>
             <description>&lt;p&gt;CONTENT MISSING&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>What&#x27;s in a Name?</title>
             <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
-            <link>/blog/2019-whats-in-a-name/</link>
-            <guid>/blog/2019-whats-in-a-name/</guid>
+            <link>/static-site/blog/2019-whats-in-a-name/</link>
+            <guid>/static-site/blog/2019-whats-in-a-name/</guid>
             <description>&lt;p&gt;A MAN IN A frock held up his right hand and said a few words, and I got to fill out some paperwork. It is strange that this process makes me feel better about myself. I abhor paperwork.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;p&gt;&lt;em&gt;Rites of Passage&lt;&#x2F;em&gt; have been sociologically and psychologically important to humans for, well, as long as recorded history. As someone who grew up without cultural roots (or rather, with roots in several different major world cultures) and never identified with any specific culture, I’ve often been a little jealous of folks who get to have a bar&#x2F;batmitzva, a big ol’ denominational wedding, or the like. I never had those. Heck, I didn’t even have a graduation ceremony!&lt;&#x2F;p&gt;
@@ -419,8 +419,8 @@ Thank you.
         <item>
             <title>What Happened To OpenStack</title>
             <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
-            <link>/blog/2019-what-happened-openstack/</link>
-            <guid>/blog/2019-what-happened-openstack/</guid>
+            <link>/static-site/blog/2019-what-happened-openstack/</link>
+            <guid>/static-site/blog/2019-what-happened-openstack/</guid>
             <description>&lt;p&gt;The project is still quite healthy and is following the usual hype curve: OpenStack is finally mature enough that it’s less interesting to talk about, so it’s understandable that people think &lt;em&gt;something&lt;&#x2F;em&gt; happened.&lt;&#x2F;p&gt;
 &lt;p&gt;The folks asking me this question are generally curios and good intentioned, and I think my answer says a lot about my professional background, so even during an interview I indulge in a short ramble.&lt;&#x2F;p&gt;
 &lt;p&gt;I know, I know … I should have written about it at the time, but I had other things going on and wasn’t making space in my life to write. So I’ve decided to revisit the topic today. Next time someone asks me, I’ll just point them here 😉&lt;&#x2F;p&gt;
@@ -462,8 +462,8 @@ Thank you.
         <item>
             <title>Hi, I&#x27;m queer and trans</title>
             <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
-            <link>/blog/2019-hi-queer-trans/</link>
-            <guid>/blog/2019-hi-queer-trans/</guid>
+            <link>/static-site/blog/2019-hi-queer-trans/</link>
+            <guid>/static-site/blog/2019-hi-queer-trans/</guid>
             <description>&lt;p&gt;There’s something I need to get off my chest.&lt;&#x2F;p&gt;
 &lt;p&gt;I’ve used a lot of different labels to describe myself over the years – geek, goth, autodidact, polyglot, kinkster, polyamorous, third-culture kid, dharma bum, database admin, software developer, cloud architect, VP. None feel as risky to claim as #trans, and yet, none of those other labels are as authentic, none require as much vulnerability to share.&lt;&#x2F;p&gt;
 &lt;p&gt;Reflecting on my childhood reveals a difficult truth: when I was in primary school, I was one of the girls. Everyone (except me) knew it, but in a small southern California town in 1992, none of us had the social vocabulary to talk about gender fluidity, least of all me. By the time I turned 16, I had figured out how to pass as though I was over 21, and very clearly “a man”, because this made it much safer to exist in public.&lt;&#x2F;p&gt;
