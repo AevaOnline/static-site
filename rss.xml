@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Adventures in Self</title>
+        <link>/</link>
+        <description>An Unfinished Story</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>New Site, Who Dis?</title>
+            <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+            <link>/blog/2021-newsite/</link>
+            <guid>/blog/2021-newsite/</guid>
+            <description>&lt;p&gt;Yep, I&#x27;m finally making the time to catch up with the times -- and learn Rust.&lt;&#x2F;p&gt;
+&lt;p&gt;tldr;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;better memory safety than C&#x2F;C++&lt;&#x2F;li&gt;
+&lt;li&gt;already has a rich ecosystem of modules, both low-level and (to my surprise) for web services&lt;&#x2F;li&gt;
+&lt;li&gt;doesn&#x27;t make me hate programming&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Might do more of a writeup in the future.&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>identity vectors</title>
+            <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+            <link>/blog/2020-identity-vectors/</link>
+            <guid>/blog/2020-identity-vectors/</guid>
+            <description>&lt;p&gt;It’s hard to believe that I’ve been at Microsoft for almost a year now — and that I came down with COVID-19 six and a half months ago. When I look back at the tumultuous political landscape that is 2020, these two events will doubtless color my memories of this year in ways that I can not yet really understand.&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Being a Better Ally: 2020</title>
+            <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+            <link>/blog/2020-being-a-better-ally/</link>
+            <guid>/blog/2020-being-a-better-ally/</guid>
+            <description>&lt;p&gt;As we go into the next decade, many men are looking for advice on how to better support their non-cis-gendered employees, coworkers, neighbors, friends, and&#x2F;or family.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Editor’s note: I wrote this post in the first weeks of 2020, but didn’t publish it for six months. It feels simultaneously out of date and yet still full of relevant advice as I publish it now, in July.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;new-years-eve&quot;&gt;New Years’ Eve&lt;a class=&quot;zola-anchor&quot; href=&quot;#new-years-eve&quot; aria-label=&quot;Anchor link for: new-years-eve&quot;&gt;§&lt;&#x2F;a&gt;
+&lt;&#x2F;h1&gt;
+&lt;p&gt;I only went to one NYE party this year. It was nice to catch up with a few friends… but I did not expect a gender inquisition!&lt;&#x2F;p&gt;
+&lt;p&gt;It’s been a while since those acquaintances last saw me, and I guess they had a whole lot of ideas about gender, trans*rights, and allyship that they just had to ask me …&lt;&#x2F;p&gt;
+&lt;p&gt;In light of that evening’s conversations (which I quote throughout this article), I have compiled a list of things you can do to be a better ally to the trans* people in your life.&lt;&#x2F;p&gt;
+&lt;p&gt;I humbly offer this post that it may provide some benefit to the world.&lt;&#x2F;p&gt;
+&lt;p&gt;May the 2020s be a more inclusive and equitable decade than the one that came before, and may that growth ease the suffering of people of all genders and sexualities.&lt;&#x2F;p&gt;
+&lt;p&gt;🙏&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I’m frustrated that the most I can do is to shut up
+– or get other men to shut up – so folks like you can speak.
+I wish I could do more.&lt;&#x2F;p&gt;
+&lt;p&gt;– Manager In Tech&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;So this guy is a successful manager at a tech company, and he wants to feel like he’s doing a good job managing a team that includes a black woman. Despite what you may believe, making space for women at work is not just about shutting up — ensuring that diverse viewpoints are represented in a meeting is very important, to be sure, but making space for everyone is about so much more than just being quiet!&lt;&#x2F;p&gt;
+&lt;p&gt;If you are in a management role, here are some things you can do.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;1-don-t-be-a-selfish-boss&quot;&gt;(1) Don’t be a selfish boss&lt;a class=&quot;zola-anchor&quot; href=&quot;#1-don-t-be-a-selfish-boss&quot; aria-label=&quot;Anchor link for: 1-don-t-be-a-selfish-boss&quot;&gt;§&lt;&#x2F;a&gt;
+&lt;&#x2F;h1&gt;
+&lt;p&gt;Since you’re a good boss, I’m certain that you have healthy emotional boundaries, take criticism gracefully, and never take credit for other people’s work. Right?&lt;&#x2F;p&gt;
+&lt;p&gt;Right.&lt;&#x2F;p&gt;
+&lt;p&gt;Sure, you may be measured by the output of your team, but because you’re a good boss, you know better than to take credit for the code your team wrote, or the service they operate. I’m sure your management chain is only praising you for what you created – an environment wherein your team succeeded.&lt;&#x2F;p&gt;
+&lt;p&gt;This is important.&lt;&#x2F;p&gt;
+&lt;p&gt;Minorities are less likely to get the credit they deserve, and more likely to get blame they do not, than their majority peers. So if you’re taking credit for your team’s work, you are disproportionately affecting the minorities in your team — and you’re a bad boss. &lt;em&gt;Don’t be a bad boss.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Show up for your team in the ways that they need. If you don’t know what that is, ask them. Create spaces that you don’t directly benefit from, and they will know you support them even when you’re not in the room.&lt;&#x2F;p&gt;
+&lt;p&gt;For example, even though you can’t participate in a women-only meetup, that doesn’t exclude you (or excuse you) from the responsibility of creating it! You are the team’s leader. Don’t know what to do?&lt;&#x2F;p&gt;
+&lt;p&gt;Here’s a tip: allocate a budget and empower someone else to create the spaces that you can’t.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;2-examine-the-styles-of-work-you-value&quot;&gt;(2) Examine the styles of work you value&lt;a class=&quot;zola-anchor&quot; href=&quot;#2-examine-the-styles-of-work-you-value&quot; aria-label=&quot;Anchor link for: 2-examine-the-styles-of-work-you-value&quot;&gt;§&lt;&#x2F;a&gt;
+&lt;&#x2F;h1&gt;
+&lt;p&gt;I’m sure you value the &lt;a href=&quot;https:&#x2F;&#x2F;hbr.org&#x2F;2017&#x2F;03&#x2F;how-to-push-your-team-to-take-risks-and-experiment&quot;&gt;“risk takers”&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;hypatia.ca&#x2F;2016&#x2F;06&#x2F;21&#x2F;no-more-rock-stars&#x2F;&quot;&gt;“rock stars”&lt;&#x2F;a&gt; on your team even while you’re trying find and hire those &lt;a href=&quot;https:&#x2F;&#x2F;www.openstack.org&#x2F;summit&#x2F;austin-2016&#x2F;summit-schedule&#x2F;events&#x2F;7965&#x2F;hunting-for-purple-squirrels-hiring-openstack-contributors-in-the-wild&quot;&gt;elusive purple squirrels&lt;&#x2F;a&gt;. (That’s my old team she’s talking about in the video, by the way!).&lt;&#x2F;p&gt;
+&lt;p&gt;And you probably already compensate your amazing team with great bonuses and unlimited PTO — because gym memberships and unlimited La Croix is so 2010’s!&lt;&#x2F;p&gt;
+&lt;p&gt;Here’s a revelation: to find them, look no further than the team you already have 😉&lt;&#x2F;p&gt;
+&lt;p&gt;Risk taking requires emotional safety, so make sure you see and value the emotional labor that goes into building an environment for everyone to experiment, fail, learn, and grow. Want your team to take risks? Look in the damn mirror. Examine the ways you value contributions to your team. Examine your behavior and find ways to create more emotional safety among your employees. Give folks more time to be creative and create a culture of growth and sharing. Be the parent who shows up with bandaids and a candy when someone gets a scraped knee (metaphorically speaking – I hope your dev team isn’t literally scraping their knees!).&lt;&#x2F;p&gt;
+&lt;p&gt;Then – and this is critical – &lt;strong&gt;share that self-examination both vertically and horizontally!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Share it with your team (transparency). Share it with your peers (collaboration). Share it with your leaders (accountability).&lt;&#x2F;p&gt;
+&lt;p&gt;Sounds scary? Too vulnerable for you? Great! Do it anyway. It’ll be good for you, I promise.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;3-do-service-work-for-your-team&quot;&gt;(3) Do service work for your team&lt;a class=&quot;zola-anchor&quot; href=&quot;#3-do-service-work-for-your-team&quot; aria-label=&quot;Anchor link for: 3-do-service-work-for-your-team&quot;&gt;§&lt;&#x2F;a&gt;
+&lt;&#x2F;h1&gt;
+&lt;p&gt;I’m sure you know already know that it’s inappropriate to ask the one woman on your dev team to go get coffee. For everyone. Again.&lt;&#x2F;p&gt;
+&lt;p&gt;I’m sure you’re already woke to that injustice. Read on to learn how to level up.&lt;&#x2F;p&gt;
+&lt;p&gt;Show everyone that getting coffee and tidying up after a meeting isn’t “women’s work” by doing it yourself, you manly man!&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;4-educate-yourself-on-other-perspectives&quot;&gt;(4) Educate yourself on other perspectives&lt;a class=&quot;zola-anchor&quot; href=&quot;#4-educate-yourself-on-other-perspectives&quot; aria-label=&quot;Anchor link for: 4-educate-yourself-on-other-perspectives&quot;&gt;§&lt;&#x2F;a&gt;
+&lt;&#x2F;h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I really appreciate that the [burner] community
+has given me the space to explore my gender,
+but I’m actually very comfortable with being a white man.&lt;&#x2F;p&gt;
+&lt;p&gt;– a man who actually said this&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Put in the time to examine your own social identity – starting with your gender and race, starting with your childhood. Starting with &lt;em&gt;gasp&lt;&#x2F;em&gt; your privilege…&lt;&#x2F;p&gt;
+&lt;p&gt;When you were a kid, did you see folks in media that looked like you? Did you go to school surrounded by people that share your holiday traditions? Were you encouraged to play with the toys, wear the clothes, or take the classes that you wanted to? Did you feel safe walking around your neighborhood?&lt;&#x2F;p&gt;
+&lt;p&gt;Now think forward to the present day. Are you prohibited from speaking your cradle-language language at work? Do your kids (if you have them) go to a school where they learn about traditions that are foreign to you? Do you have to take time off work just to recognize the holidays that matter to you? Do you constantly devote mental attention to tracking every person near you on the street because that’s how you stay safe?&lt;&#x2F;p&gt;
+&lt;p&gt;No?&lt;&#x2F;p&gt;
+&lt;p&gt;It’s ok. I didn’t think so.&lt;&#x2F;p&gt;
+&lt;p&gt;You could learn so much from people of different backgrounds.&lt;&#x2F;p&gt;
+&lt;p&gt;There’s a little nuance in that sentence, so let me make it clear: learn from us, do not merely learn about us.&lt;&#x2F;p&gt;
+&lt;p&gt;And since you’re a great guy, I know you want to become a great manager!&lt;&#x2F;p&gt;
+&lt;p&gt;Make the time to listen to, and learn from, the experiences of folks who’ve survived things you never had to face.&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I know I have life on easy mode, on the easiest mode.&lt;&#x2F;p&gt;
+&lt;p&gt;– guy who thinks he’s clever&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h1 id=&quot;5-value-strengths-different-from-your-own&quot;&gt;(5) Value strengths different from your own&lt;a class=&quot;zola-anchor&quot; href=&quot;#5-value-strengths-different-from-your-own&quot; aria-label=&quot;Anchor link for: 5-value-strengths-different-from-your-own&quot;&gt;§&lt;&#x2F;a&gt;
+&lt;&#x2F;h1&gt;
+&lt;p&gt;If you don’t know what “privilege” means, or you feel like this word is thrown around as some sort of insult, then I offer you this &lt;em&gt;manalogy.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;If life were a video game, then privilege would be starting the game on “easy mode”.&lt;&#x2F;p&gt;
+&lt;p&gt;But there’s a twist: you aren’t allowed to know that until part-way through the game when (surprise!) it morphs from a single-player action game to a massively multiplayer online RPG, you meet other players, and they’ve developed a bunch of skills you never even thought about.&lt;&#x2F;p&gt;
+&lt;p&gt;When those players share stories of their journey and it sounds waaaaaay harder than your journey, well, they were born into a life on “hard” mode, banded together, and developed tactics you never had to.&lt;&#x2F;p&gt;
+&lt;p&gt;Your lack of those skills doesn’t make you a bad player – and it doesn’t mean they’re lying!&lt;&#x2F;p&gt;
+&lt;p&gt;It’s simply important to recognize the differences in your experiences.&lt;&#x2F;p&gt;
+&lt;p&gt;Just imagine how much better a player you’ll be after learning survival tips from folks that have been dominating the game on a higher difficulty setting!&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;6-learn-from-your-mistakes&quot;&gt;(6) Learn from your mistakes&lt;a class=&quot;zola-anchor&quot; href=&quot;#6-learn-from-your-mistakes&quot; aria-label=&quot;Anchor link for: 6-learn-from-your-mistakes&quot;&gt;§&lt;&#x2F;a&gt;
+&lt;&#x2F;h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You’re so much more interesting now…
+&lt;waves vaguely at my chest&gt;
+… that you’re not just another man in tech!&lt;&#x2F;p&gt;
+&lt;p&gt;– a very nice man who says nice things &lt;em&gt;while staring at women&#x27;s breasts&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Yes, someone actually said that to me. &lt;&#x2F;p&gt;
+&lt;p&gt;If you’ve been avoiding the internet for several years and it’s not immediately clear why this is a gross thing to say to someone, regardless of how well you know them, well, go think about that for a while. The implication – I’ll spell it out in case it’s not obvious – is that I’m interesting now precisely &lt;strong&gt;because I’m T R A N S.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;So. First of all.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Don’t say shit like that!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;When you put your foot in your mouth (as we all do from time to time) and say something that offends a colleague, pray that they have the grace to gently tell you — &lt;em&gt;&lt;strong&gt;and then open your heart, close your mouth, and listen.&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Earlier I pointed out that you can do a lot more than shutting up, but this – &lt;em&gt;this&lt;&#x2F;em&gt; – is a time to just listen.&lt;&#x2F;p&gt;
+&lt;p&gt;When you offend someone, and they are brave enough to tell you, &lt;em&gt;listen to them.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Honor the gift they are offering, honor the emotional work they are doing, and receive what ever they choose to share in that moment of vulnerability.&lt;&#x2F;p&gt;
+&lt;p&gt;Listen when they tell you why those words stung them. What ever you do, &lt;em&gt;&lt;strong&gt;don’t try to minimize their feelings.&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Just listen.&lt;&#x2F;p&gt;
+&lt;p&gt;Respect the growth opportunity that you’ve been given. Learn from their example.&lt;&#x2F;p&gt;
+&lt;p&gt;This will make you a better manager.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;And a better human.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Now go out there, be awesome, and make the world a little easier for someone playing the game on hard mode! &lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Six to Eight Weeks</title>
+            <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+            <link>/blog/2020-six-to-eight-weeks/</link>
+            <guid>/blog/2020-six-to-eight-weeks/</guid>
+            <description>&lt;p&gt;The doctors told me that it takes six to eight weeks – on average – for healthy folks with my symptoms to recover. &lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Friday, April 10th, my work team had our first Virtual Happy Hour, so I was enjoying a little sun in my back yard and a tumbler of Scotch. We’re a relatively new team, and only had a few months to get to know each other before quarantine-in-place orders went into effect in Washington, so the social time together was very welcome.&lt;&#x2F;p&gt;
+&lt;p&gt;When I woke up Saturday morning, I thought I had a hang-over at first, but by 9am I had a 103F fever. Anxiety was making my heart race — I had been jogging a couple times that week, and had ordered takeout on Monday and Tuesday. Can joggers really spread the ‘rona? Could it be food poisoning from take-out left-overs? Maybe this is something else…&lt;&#x2F;p&gt;
+&lt;p&gt;With Tylenol, my fever went down to 101.5. As I spent the day resting, it started getting harder to breathe, and I’m grateful that my phone has a pulse oximeter built in. It didn’t feel like any flu I’ve ever had … my partner Tam was getting worried, so she came over. I remember saying to her that it felt like a Maine Coon curled up on my chest, minus the purring. It was hard to breathe. My hands, feet, and face were tingly, like I was hyper-ventilating, except I wasn’t, and my SpO2 stats were dropping…&lt;&#x2F;p&gt;
+&lt;p&gt;By 4pm, I had a temp of 104.1 – I was still taking Tylenol – and my SpO2 had gone down to 93. Talking made everything worse and I didn’t want to call 911, so Tam started calling around for tele-health options that were open on the weekend. We reached someone. At 7pm, my SpO2 dipped below 90, and the tele-doctor said it was time to go to the Emergency Room.&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The hallway was completely devoid of life – save for the nurse on a radio behind me, narrating my progress to invisible people.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;In hindsight, the strangest thing about the ER visit is that they drew blood and ran a liver&#x2F;kidney panel before they did the nasal swab for COVID-19. At the time, the hardest thing was simply being cold and alone. The staff informed me that they needed to minimize the use of PPE, but also needed to change PPE when leaving the room, and therefore were going to come in to see me as few times as possible — and only one at a time. They gave me the thinnest of blankets. I’m glad I brought my winter coat.&lt;&#x2F;p&gt;
+&lt;p&gt;A machine hooked to my right ear monitored my SpO2, but I think it’s real purpose was just to keep me on edge. Every time I relaxed my SpO2 would drop again and trigger more squawking, putting me back on high alert. No one ever came to check on it.&lt;&#x2F;p&gt;
+&lt;p&gt;After about five hours, a nasal swab, some x-rays, two cups of apple juice, a blood draw, and anxiously trying not to pass out, the attending doctor came in. I could tell because she wore the best PPE and she introduced herself instead of prepping me for another test. My x-rays showed some occlusions and my bloodwork was “ok”. The COVID-19 test came back negative, but she said it was only accurate about 70% of the time, and with the x-ray and all my other symptoms they were confident it was COVID… But, because I didn’t need a ventilator and my kidneys were doing OK, she said I should go home, get lots of rest, and come back if anything got worse.&lt;&#x2F;p&gt;
+&lt;p&gt;When I finally left, the hallway was completely devoid of life – save for the voice of the nurse on a radio behind me, narrating my progress down the hall to invisible people.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;I rested at home for a week — really rested. I didn’t work, because it was too difficult just to sit up for long. I binged on netflix while my housemate brought me food, wearing a mask and bleach-wiping every dish I had touched. After about ten days, I slowly started working again, and by day 14 I felt well enough that I thought I could leave the house. Yes, I checked with my doctor and followed the CDC guidelines. On day 15, I tried to do a little gardening – about 20 minutes of gentle weeding. I collapsed, light-headed and woosy, my ears ringing and my heart pounding, and I needed help getting inside.&lt;&#x2F;p&gt;
+&lt;p&gt;I crashed the next day. My fever came back. The inhaler they gave me after the ER wasn’t helping enough any more, so I went in to Swedish’s COVID Respiratory Center, where they gave me two more scripts and a kind-yet-stern talking to for not resting enough. I spent the next few weeks at home, resting, with the hospital staff checking in on me by text message every day and by phone every couple days.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;I started writing this post around week three. As I finish the post now, the calendar tips into week seven. This was, by all accounts, a “mild” case because I never needed to be on any life-assisting devices. I’ve been sharing status updates on social media in the hopes that, maybe, a few more people will take this seriously, wear a mask, and a few less people get sick.&lt;&#x2F;p&gt;
+&lt;p&gt;I shared a summary on Twitter today and it feels appropriate to repost it here –&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Week 1: ER, very high fevers, bed rest, Rx to help cough&lt;&#x2F;li&gt;
+&lt;li&gt;Week 2: false recovery, collapsed in yard&lt;&#x2F;li&gt;
+&lt;li&gt;Week 3: unstable HR, more Rx, bed rest&lt;&#x2F;li&gt;
+&lt;li&gt;Week 4: bed rest, no fevers, still coughing&lt;&#x2F;li&gt;
+&lt;li&gt;Week 5: able to sit up at my computer for most of the day!&lt;&#x2F;li&gt;
+&lt;li&gt;Week 6: I cooked for myself, and went for an hour-long walk! I’m almost crying with joy and relief&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;I can’t believe it’s been 45 days since I went to the ER. It feels like last week and at the same time it feels like a year ago.&lt;&#x2F;p&gt;
+&lt;p&gt;I’m finally getting back a little sense of homeostasis – I cooked dinner last night, and brunch today, and did some baking. Took a drive while it was sunny yesterday. I’m starting to pack, and hopefully moving in a month. Relative to dark times in my past, I’m doing pretty damn well — I was terrified this was going to be like Lyme disease, leaving me with a multi-year recovery, but it seems I’m able to start exercise again.&lt;&#x2F;p&gt;
+&lt;p&gt;Thanks for reading, y’all.&lt;&#x2F;p&gt;
+&lt;p&gt;Stay safe out there &amp;amp; tell the ones you love how you really feel. This life is too brief not to.&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>2019 in Review</title>
+            <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+            <link>/blog/2019-in-review/</link>
+            <guid>/blog/2019-in-review/</guid>
+            <description>&lt;p&gt;It&#x27;s been two years since I came out. So much has changed. So much has improved.&lt;&#x2F;p&gt;
+&lt;p&gt;If 2018 was about &lt;em&gt;accepting&lt;&#x2F;em&gt; that truth, 2019 was about &lt;em&gt;taking action on it&lt;&#x2F;em&gt;..&lt;&#x2F;p&gt;
+&lt;p&gt;For starters, I changed all my online profiles this year. I &lt;em&gt;&lt;a href=&quot;&#x2F;blog&#x2F;2019-in-review&#x2F;whats-in-a-name.html&quot;&gt;changed my name&lt;&#x2F;a&gt;&lt;&#x2F;em&gt; this year.&lt;&#x2F;p&gt;
+&lt;p&gt;I realized that my career choices over the past several years had led me uncomfortably far from my ethics. (More on that later…)&lt;&#x2F;p&gt;
+&lt;p&gt;The result? I spent eight months of 2019 uninsured and underemployed, but still &lt;em&gt;very&lt;&#x2F;em&gt; busy.&lt;&#x2F;p&gt;
+&lt;p&gt;I interviewed at dozens of tech companies … and only got one offer.&lt;&#x2F;p&gt;
+&lt;p&gt;I burned through 😱 $30,000 😱 of savings because I kept thinking, &lt;em&gt;surely I’ll land the next interview!&lt;&#x2F;em&gt; I would have reorganized my life sooner, had I known I’d be without regular work for a total of 20 months.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;I underestimated how much misogyny and transphobia still rule the tech industry.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;I wrestled with an increasing understanding of a contextual, intersectional identity, and adjusted to the embrace of my gender.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Yeah, I’m trans, so what?&lt;&#x2F;em&gt; If you don’t like it, please get off this ride right now.&lt;&#x2F;p&gt;
+&lt;p&gt;One might say, 2019 was a year of course correction.&lt;&#x2F;p&gt;
+&lt;p&gt;I’m much more involved in things that matter to me now, and also more aware of what I will not compromise on in order to earning a living. Straddling between a day job in the tech industry and a vow I took years ago that I would work to benefit all sentient beings … continues to be a challenge in time and emotional management.&lt;&#x2F;p&gt;
+&lt;p&gt;This means realigning my financial goals and re-prioritizing my time … but let’s look back at 2019 a little more.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;i-did-a-few-things&quot;&gt;I did a &lt;em&gt;few&lt;&#x2F;em&gt; things!&lt;a class=&quot;zola-anchor&quot; href=&quot;#i-did-a-few-things&quot; aria-label=&quot;Anchor link for: i-did-a-few-things&quot;&gt;§&lt;&#x2F;a&gt;
+&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;img src=&quot;at-defcon-2019.jpeg&quot;
+ alt=&quot;Photo of me in a leather hat with a side-pulled hairdo standing in front of a colourful sign that reads: DEFCON&quot;
+ style=&quot;float: right;&quot; width=&quot;400&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;It wasn’t all just rumination and navel-gazing… I actually did a few things in 2019!&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;started this blog&lt;&#x2F;li&gt;
+&lt;li&gt;grew tits (heck yeah I’m proud of them!)&lt;&#x2F;li&gt;
+&lt;li&gt;joined a podcast for my first time (that was fun!)&lt;&#x2F;li&gt;
+&lt;li&gt;got a chapter published in a book about the intersection of the buddha-dharma &amp;amp; my experience being trans&lt;&#x2F;li&gt;
+&lt;li&gt;joined the Kubernetes community &amp;amp; accepted a nomination to their Code of Conduct Committee&lt;&#x2F;li&gt;
+&lt;li&gt;continued my role as a board member on Seattle’s local sex-positive 501(c)3&lt;&#x2F;li&gt;
+&lt;li&gt;worked behind the scenes with the QueerCon board to improve their trans inclusivity&lt;&#x2F;li&gt;
+&lt;li&gt;got a job at Microsoft (ikr? they’ve changed… but still… it’s weird)&lt;&#x2F;li&gt;
+&lt;li&gt;spoke at a few conferences
+&lt;ul&gt;
+&lt;li&gt;ML4ALL, one of the best regional conferences I’ve ever been to. I hope it continues!&lt;&#x2F;li&gt;
+&lt;li&gt;OpenInfra Summit. I stressed about being back after two years. After &lt;em&gt;transitioning&lt;&#x2F;em&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;SeaGL, local opensource enthusiasts’ group, lotsa greybeards in the rooms&lt;&#x2F;li&gt;
+&lt;li&gt;and IgniteSeattle was perhaps the singularly most pivotal talk experience of my career to date&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;in a rare turn of events, I attended several conferences &lt;em&gt;without&lt;&#x2F;em&gt; speaking at them!
+&lt;ul&gt;
+&lt;li&gt;WomenInCloud&lt;&#x2F;li&gt;
+&lt;li&gt;LesbiansWhoTech&lt;&#x2F;li&gt;
+&lt;li&gt;BSidesSF&lt;&#x2F;li&gt;
+&lt;li&gt;DefCon&lt;&#x2F;li&gt;
+&lt;li&gt;KubeCon&lt;&#x2F;li&gt;
+&lt;li&gt;HushCon&lt;&#x2F;li&gt;
+&lt;li&gt;KinkFest&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;oh, and I went on a few camping trips:
+&lt;ul&gt;
+&lt;li&gt;me &amp;amp; a girlfriend in the Utah desert&lt;&#x2F;li&gt;
+&lt;li&gt;just me in the Cascades – I had intended to do more than one solo offroad trip, but then other things happened&lt;&#x2F;li&gt;
+&lt;li&gt;CriticalNW – it’s like camping, only with 1,500 of my closest friends!&lt;&#x2F;li&gt;
+&lt;li&gt;BurningMan – 😂 &amp;amp; 😭 this year as I handled the transfer and purging of all the gear from Camp Potluck. I found the yearbooks we made in 2012, ’13, and ’14, then met up &amp;amp; shared them a few old friends …&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;i-never-feel-like-i-ve-done-enough&quot;&gt;I never feel like I&#x27;ve done enough&lt;a class=&quot;zola-anchor&quot; href=&quot;#i-never-feel-like-i-ve-done-enough&quot; aria-label=&quot;Anchor link for: i-never-feel-like-i-ve-done-enough&quot;&gt;§&lt;&#x2F;a&gt;
+&lt;&#x2F;h1&gt;
+&lt;p&gt;… until I look back at what I &lt;em&gt;have&lt;&#x2F;em&gt; done.&lt;&#x2F;p&gt;
+&lt;p&gt;This helps me to know what I’m capable of, helps me set goals for the next cycle. It helps me overcome imposture syndrome.&lt;&#x2F;p&gt;
+&lt;p&gt;So, about next year …&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;goals-for-2020&quot;&gt;Goals for 2020&lt;a class=&quot;zola-anchor&quot; href=&quot;#goals-for-2020&quot; aria-label=&quot;Anchor link for: goals-for-2020&quot;&gt;§&lt;&#x2F;a&gt;
+&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;survive the election cycle – emotional health is key. I’m continuing to reduce my consumption of social media &amp;amp; curate where I’m creating media. be the change you want to see in the world means increasingly relying on decentralized platforms – my blog, mastodon, etc.&lt;&#x2F;li&gt;
+&lt;li&gt;rebuild my image &#x2F; brand &#x2F; career – openly transitioning changed everything in ways I’m deeply grateful for, and in ways I’m still learning to see.&lt;&#x2F;li&gt;
+&lt;li&gt;finally get that tattoo I’ve been dreaming of since 2015 😀&lt;&#x2F;li&gt;
+&lt;li&gt;continue rebuilding my health – more camping trips, more hiking, and more routines&lt;&#x2F;li&gt;
+&lt;li&gt;write more, on this blog and elsewhere. I’d like to publish a book of my own.&lt;&#x2F;li&gt;
+&lt;li&gt;join more podcasts, and maybe start one. Who wants to join my podcast?&lt;&#x2F;li&gt;
+&lt;li&gt;continue supporting and learning from younger queers in tech&lt;&#x2F;li&gt;
+&lt;li&gt;attend less, speak more at tech conferences. I can do one a month if I reuse content, less if each talk is brand new.&lt;&#x2F;li&gt;
+&lt;li&gt;follow through on activism that I’ve become engaged with. I see windows of opportunity that could be incredibly impactful &amp;amp; need to keep up my energy to move on them.&lt;&#x2F;li&gt;
+&lt;li&gt;continue building intimate partnerships&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Hmm… I didn’t mean for that list to be in any particular order, but apparently I put “relationship” at the bottom and maybe that’s be a bad sign? 🤷&lt;&#x2F;p&gt;
+&lt;p&gt;Anyway, that’s all for now! ✨&lt;&#x2F;p&gt;
+&lt;p&gt;See you in 2020 &lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Transitioning Is an Act of Strength</title>
+            <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+            <link>/blog/2019-transitioning-is-strength/</link>
+            <guid>/blog/2019-transitioning-is-strength/</guid>
+            <description>&lt;blockquote&gt;
+&lt;p&gt;You gave up everything I’ve spent my life fighting for. I can’t imagine how much you must have been hurting inside to choose to do that.&lt;&#x2F;p&gt;
+&lt;p&gt;-&lt;em&gt;Sarah Novotny&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;life-changes&quot;&gt;Life, Changes&lt;a class=&quot;zola-anchor&quot; href=&quot;#life-changes&quot; aria-label=&quot;Anchor link for: life-changes&quot;&gt;§&lt;&#x2F;a&gt;
+&lt;&#x2F;h1&gt;
+&lt;p&gt;A few days ago, I was having dinner with Sarah at one of our old haunts — it’s been four years since she moved away from Seattle, and the same Ethiopian restaurant is still here, still serving up the same delicious dinners on platters of Teff Injera. Somehow, it seems longer than four years. So much has changed in that time.&lt;&#x2F;p&gt;
+&lt;p&gt;We’ve both built our careers around open source, and I have respected and admired her tenacity and her compassion for as long as I’ve known her. Sarah is several years my senior in the community, with considerably more reputation and public visibility, and yet in the past decade we’ve both moved through roles as project leads and VPs, sharing stories along the way.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;city-mouse-or-country-mouse&quot;&gt;City Mouse or Country Mouse?&lt;a class=&quot;zola-anchor&quot; href=&quot;#city-mouse-or-country-mouse&quot; aria-label=&quot;Anchor link for: city-mouse-or-country-mouse&quot;&gt;§&lt;&#x2F;a&gt;
+&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;img src=&quot;sunset-downtown.jpeg&quot;
+ alt=&quot;a beautiful picture I took of sunset over Puget Sound from my Downtown apartment in 2015&quot;
+ style=&quot;float: right;&quot; width=&quot;400&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;As dinner went on, conversation turned to housing, to dreams of future plans.&lt;&#x2F;p&gt;
+&lt;p&gt;Just after she moved away, I lived for a year in a beautiful downtown penthouse with a water view over the ferry docks, and the farmer’s market just three blocks away… Living there taught me how much my sleep cycle and mental health benefit from being connected to the sunset, and how much I enjoy an urban lifestyle that’s hard to find in the US. I’d like to find that again.&lt;&#x2F;p&gt;
+&lt;p&gt;I also want to have land in the countryside again. I used to have five acres, but gave it up in a divorce; I think twenty acres would be good — enough space for friends, some chickens, dogs, and farms to grow our own food. &lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Who wants to start a queer commune with me?&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;And we talked about rebuilding our lives, the ongoing process of figuring out who we are in light of physical changes. We’ve each given Ignite Talks about what a changing identity means at the intersection of technology, public perception, and personal change.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;is-perception-identity&quot;&gt;Is Perception == Identity?&lt;a class=&quot;zola-anchor&quot; href=&quot;#is-perception-identity&quot; aria-label=&quot;Anchor link for: is-perception-identity&quot;&gt;§&lt;&#x2F;a&gt;
+&lt;&#x2F;h1&gt;
+&lt;p&gt;I say &lt;em&gt;I came out as trans&lt;&#x2F;em&gt; because I wasn’t willing to give up my social and professional network, so the only option was to ask everyone to change their perception of my identity. I wasn’t willing to sever ties with my coding history even as I changed my name and online handles, though I’m still struggling with this. Everyone’s journey is radically unique, and I learned that there’s no playbook for transitioning as a mid-career professional in open source. My reputation is a valuable assets built over fifteen years, with ties to a global &amp;amp; multicultural community. That reputation, it’s part of my identity.&lt;&#x2F;p&gt;
+&lt;p&gt;The &lt;em&gt;me&lt;&#x2F;em&gt; that my network knew &lt;em&gt;&lt;strong&gt;wasn’t me any more&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;, and that left only one option: accept the risks that come from telling everyone.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;a-coming-out-plan&quot;&gt;A Coming Out Plan&lt;a class=&quot;zola-anchor&quot; href=&quot;#a-coming-out-plan&quot; aria-label=&quot;Anchor link for: a-coming-out-plan&quot;&gt;§&lt;&#x2F;a&gt;
+&lt;&#x2F;h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Why don&#x27;t you just dress like a guy for the interview?&lt;&#x2F;p&gt;
+&lt;p&gt;-&lt;em&gt;well-meaning male colleague&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;I began this gender-journey with a vague plan — I couldn’t transition within the VP role that I had in 2017, so I left.&lt;&#x2F;p&gt;
+&lt;p&gt;I took six months off work before starting a role as Staff Researcher in the Samsung Open Source Group. I had a supportive manager, and would be paid well to work from home and guide their open source cloud contributions. This should have set me up for several years – enough time for my plan – but circumstances unrelated to me ended that very suddenly ….&lt;&#x2F;p&gt;
+&lt;p&gt;By this time, I’d had a year of HRT and donated most of my pre-transition clothes. I call this time the Uncanny Valley. &lt;&#x2F;p&gt;
+&lt;h1 id=&quot;the-uncanny-gender-valley&quot;&gt;The Uncanny (Gender) Valley&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-uncanny-gender-valley&quot; aria-label=&quot;Anchor link for: the-uncanny-gender-valley&quot;&gt;§&lt;&#x2F;a&gt;
+&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;img src=&quot;uncanny_valley.jpeg&quot;
+ alt=&quot;graph of the uncanny valley of human-to-machine likeness&quot;
+ style=&quot;float: right;&quot; width=&quot;400&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Interviewing in 2019 was a nightmare – my resume and my reputation got me dozens of in-person interviews for roles as a director, or as a principal &#x2F; staff engineer… and even though I’d held roles at that level for the past five years, no one would make an offer! Almost every interviewer was a man in their late 40’s, and they were all suddenly, &lt;em&gt;visibly&lt;&#x2F;em&gt;, uncomfortable around me.&lt;&#x2F;p&gt;
+&lt;p&gt;Hearing of my struggles, a few well-meaning male colleagues suggested that I just dress like a guy for interviews….&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Ouch&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;They didn’t know how much that hurt.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;my-gender-is-not-armor-any-more&quot;&gt;My Gender Is Not Armor Any More&lt;a class=&quot;zola-anchor&quot; href=&quot;#my-gender-is-not-armor-any-more&quot; aria-label=&quot;Anchor link for: my-gender-is-not-armor-any-more&quot;&gt;§&lt;&#x2F;a&gt;
+&lt;&#x2F;h1&gt;
+&lt;p&gt;So after almost a year without health insurance and two years without steady income, my transition plan was a wreck in the rear-view mirror. I had a dwindling savings account and a shrinking network, and I settled for the first tangible offer I got. It’s the same career level I held in 2012, &lt;em&gt;but it’ll pay the rent and the doctor’s bills&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;You know what’s more important than my career?&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;I’m happy in my own body for the first time in 20 years.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;You know what I want back?&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;My career.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;strength-in-vulnerability&quot;&gt;Strength In Vulnerability&lt;a class=&quot;zola-anchor&quot; href=&quot;#strength-in-vulnerability&quot; aria-label=&quot;Anchor link for: strength-in-vulnerability&quot;&gt;§&lt;&#x2F;a&gt;
+&lt;&#x2F;h1&gt;
+&lt;p&gt;When I had finished sharing my story with Sarah, she shook her head and, with all the kindness in the world, said words I’ll never forget:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“You gave up everything I’ve spent my life fighting for. I can’t imagine how much you must have been hurting inside to choose to do that.” &lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Yeah. You get it.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;I’ve learned through experience how much our identity is defined by others, how &lt;em&gt;who we are&lt;&#x2F;em&gt; exists in relation to &lt;em&gt;how we’re perceived&lt;&#x2F;em&gt;, and how painful it is to live with the cognitive dissonance of an identity that looks nothing like one’s sense of self.&lt;&#x2F;p&gt;
+&lt;p&gt;I’m not wearing armor to hide any more.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;And it feels so good to be seen.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>The Job Hunt Is Over</title>
+            <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
+            <link>/blog/2019-job-hunt-is-over/</link>
+            <guid>/blog/2019-job-hunt-is-over/</guid>
+            <description>&lt;p&gt;It’s been a month now since I signed an employment contract with Microsoft.&lt;&#x2F;p&gt;
+&lt;p&gt;You read that correctly — the giant tech company which I swore, back in the 90’s, I would never work for. Even though most of my colleagues have been very encouraging, even reminding me that Microsoft isn’t as monopolistic or walled-off as it once was, there are still some things which bear clarification (especially for any readers that have known me during the OpenStack or MySQL days).&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;First off, no, I’m not leaving open source. I believe that &lt;em&gt;humanity’s growth accelerates by sharing our tools&lt;&#x2F;em&gt;. For any business, it is important to delineate which software provides specific &amp;amp; unique value, and then to weigh the cost of privately maintaining those tools vs. the cost of participating in shared development of those tools. In my experience, it’s almost always better to share the tools.&lt;&#x2F;p&gt;
+&lt;p&gt;I look forward to bringing this view with me to work every day, and (as far as I can tell) my current employer appreciates this view more than many other companies I’ve worked for in the past.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Since the end of 2016, I haven’t been active in any particular upstream community. Between trying to run an OpenStack-based cloud hosting company, the end of that position, &lt;em&gt;coming out as trans&lt;&#x2F;em&gt;, and my dreadful job hunt ever since (which I &lt;em&gt;rarely talk about&lt;&#x2F;em&gt;) … I haven’t had the funding to travel to a lot of conferences that I used to.&lt;&#x2F;p&gt;
+&lt;p&gt;I am exceedingly grateful to travel support programs and generous friends that gave me places to crash so I could get to #LesbiansWhoTech, #ML4ALL, #OpenStackSummit, and #DEFCON this year. And it was delightful to see friends when I made it out to OpenStack Denver, even if I’m not an active contributor any longer. &amp;lt;3’s to you all!&lt;&#x2F;p&gt;
+&lt;p&gt;In this time, my focus has shifted away from “do F&#x2F;OSS for F&#x2F;OSS’s sake” to accommodate a more nuanced view of the impact we – software developers – have. I spent a lot of time reflecting on how ML&#x2F;AI is reshaping our society, and on how cloud technology already has.&lt;&#x2F;p&gt;
+&lt;p&gt;I’ve seen OpenStack Ironic used in places that I would never have wanted my creations to be: surveillance industries and even a foreign military.&lt;&#x2F;p&gt;
+&lt;p&gt;I also have the incredible satisfaction of knowing some amazing scientific research powered by that same code: Ironic is enabling scientists to study particle collisions and work on cancer cures.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;So anyway… my attention has shifted towards social and societal issues: trans rights, surveillance capitalism, digital freedoms, the right of all humans to self-determination and self-expression. I’m trying to catch up and learning a lot from others’ research in this area, and have begun giving talks on the impact of Machine Learning. I also hold a seat on the board of a non-profit that teaches about consent culture, and I was just elected to a seat on the Kubernetes Code of Conduct Committee.&lt;&#x2F;p&gt;
+&lt;p&gt;Being paid specifically to build open source software is just one way I can work to make the world more open and inclusive. Having enough money and time that I can support causes is another path, as is advocating for change from within a large organization.&lt;&#x2F;p&gt;
+&lt;p&gt;2020 is going to see me doing all three of these…&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Wish me luck!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Gender Markers</title>
+            <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+            <link>/blog/2019-gender-markers/</link>
+            <guid>/blog/2019-gender-markers/</guid>
+            <description>&lt;p&gt;&lt;em&gt;(content warning: gender issues and gender-based violence, no specifics but still may be difficult for some)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Yesterday, the Washington State Department of Licensing held a public hearing for comments on the proposed legislation to add an ‘X’ gender marker option on state-issued ID’s. I chose to go and stand up for all the non-binary, intersex, and transgender members of my communities.&lt;&#x2F;p&gt;
+&lt;p&gt;I was blown away by the stories that I heard, and, to be honest, a little surprised that not a single nay-sayer chose to speak up. At the very end a 16-year old high school student, who hadn’t planned to speak, bravely chose to stand up and tell their story …&lt;&#x2F;p&gt;
+&lt;p&gt;I made it through all the other testimonies without tears, but to see a student facing the same struggle that I did as a teenager and having the language to understand it, support from adults, and the courage to speak out … Well, that student reminded me why I’m adding my voice to the chorus of change. I’m grateful for that reminder. I won’t forget it for a long time.&lt;&#x2F;p&gt;
+&lt;p&gt;I’m also very grateful for the friends there to hold my hand while I cried, remembering the verbal and physical assaults I faced at that age – just for being different in ways that I had no context to understand.&lt;&#x2F;p&gt;
+&lt;p&gt;One of those friends recorded my testimony, which I’ve uploaded below. Transcription follows. &lt;&#x2F;p&gt;
+&lt;p&gt;BROKEN LINK -- https:&#x2F;&#x2F;aeva.online&#x2F;wp-content&#x2F;uploads&#x2F;2019&#x2F;08&#x2F;Dol-gender-x-testimony.mp4&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;pre style=&quot;background-color:#191919;&quot;&gt;
+&lt;code&gt;I identified as other than the gender assigned at birth since I was
+very young, and faced discrimination, both when I was younger and as an
+adult, for that.
+
+In that time, I’ve held senior and executive positions in the tech
+industry. I’ve seen how a lack of representation, of identification,
+even in the &amp;lt;hand wave&amp;gt; shining example of the tech industry. It’s
+affected friends. It’s affected peers. And it’s affected me.
+
+As others have said, it also affects our ability to travel. I used to
+travel a lot for work [and] I’ve been questioned and challenged at the
+border because that border agent didn’t think I matched the gender
+marker on my documentation. I know that affects colleagues of mine.
+
+There’s one more aspect of this that is not particular to the tech
+industry, but rather affects all of industry.
+
+Because I hid that part of my identity at work for a while, I’ve seen
+how the fear of disclosure affects people. Imagine, if you will, being
+intersex or non-binary, knowing that the marker on your identification
+doesn’t match how you look or how you are, and the fear of that being
+disclosed to your employer without any legal protection. That
+potential, that fear affects people. It puts their jobs at risk, and it
+puts our companies at risk.
+
+I unambiguously support this measure so that legal documentation in our
+state accurately represents the people that work in our state. This
+will reduce the stigma and reduce discrimination for intersex and
+non-binary people.
+
+Thank you.
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;</description>
+        </item>
+        <item>
+            <title>Rebuilding my miniserver</title>
+            <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+            <link>/blog/2019-rebuilding-my-miniserver/</link>
+            <guid>/blog/2019-rebuilding-my-miniserver/</guid>
+            <description>&lt;p&gt;CONTENT MISSING&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>What&#x27;s in a Name?</title>
+            <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+            <link>/blog/2019-whats-in-a-name/</link>
+            <guid>/blog/2019-whats-in-a-name/</guid>
+            <description>&lt;p&gt;A MAN IN A frock held up his right hand and said a few words, and I got to fill out some paperwork. It is strange that this process makes me feel better about myself. I abhor paperwork.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Rites of Passage&lt;&#x2F;em&gt; have been sociologically and psychologically important to humans for, well, as long as recorded history. As someone who grew up without cultural roots (or rather, with roots in several different major world cultures) and never identified with any specific culture, I’ve often been a little jealous of folks who get to have a bar&#x2F;batmitzva, a big ol’ denominational wedding, or the like. I never had those. Heck, I didn’t even have a graduation ceremony!&lt;&#x2F;p&gt;
+&lt;p&gt;So a few years ago I started &lt;em&gt;making my own sacred rites&lt;&#x2F;em&gt;, celebrating the milestones of life in my own way. Fuck society and fuck your burn — by which I mean, &lt;em&gt;&lt;strong&gt;you should make your own rules, too.&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;In 2017, I threw myself an &lt;em&gt;unwedding&lt;&#x2F;em&gt; (complete with a tiered cake) to mark the end of one era of my life and celebrate the formation of so many new connections to my chosen family.&lt;&#x2F;p&gt;
+&lt;p&gt;2017 was also the year I started to come out. To present. &lt;em&gt;To be present&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;I wonder how I’ll look back on this day and celebrate it next year….&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>What Happened To OpenStack</title>
+            <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+            <link>/blog/2019-what-happened-openstack/</link>
+            <guid>/blog/2019-what-happened-openstack/</guid>
+            <description>&lt;p&gt;The project is still quite healthy and is following the usual hype curve: OpenStack is finally mature enough that it’s less interesting to talk about, so it’s understandable that people think &lt;em&gt;something&lt;&#x2F;em&gt; happened.&lt;&#x2F;p&gt;
+&lt;p&gt;The folks asking me this question are generally curios and good intentioned, and I think my answer says a lot about my professional background, so even during an interview I indulge in a short ramble.&lt;&#x2F;p&gt;
+&lt;p&gt;I know, I know … I should have written about it at the time, but I had other things going on and wasn’t making space in my life to write. So I’ve decided to revisit the topic today. Next time someone asks me, I’ll just point them here 😉&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;We all knew that, for the long-term success of the OpenStack ecosystem, we needed a hyper-scale OpenStack public cloud to succeed, and a healthy set of SaaS applications to be built upon the IaaS&#x2F;PaaS layers that we had. We knew there needed to be at more than one hyperscale implementation to avoid a gravity problem (in the early days, that was RackSpace).&lt;&#x2F;p&gt;
+&lt;p&gt;Publicly, lots of folks were talking about this; common headlines compared &lt;a href=&quot;http:&#x2F;&#x2F;blogs.forrester.com&#x2F;press-newsroom&#x2F;openstack-is-positioned-to-become-one-of-five-public-cloud-camps&#x2F;&quot;&gt;OpenStack to AWS&lt;&#x2F;a&gt;, and every VC and analyst &lt;a href=&quot;https:&#x2F;&#x2F;superuser.openstack.org&#x2F;articles&#x2F;forrester-says-ready-set-openstack&#x2F;&quot;&gt;wanted to know&lt;&#x2F;a&gt; &lt;a href=&quot;https:&#x2F;&#x2F;www.zdnet.com&#x2F;article&#x2F;getting-openstack-ready-for-the-enterprise&#x2F;&quot;&gt;if it was ready&lt;&#x2F;a&gt; for &lt;a href=&quot;https:&#x2F;&#x2F;redhatstackblog.redhat.com&#x2F;2014&#x2F;11&#x2F;10&#x2F;openstack-2015-the-year-of-the-enterprise&#x2F;&quot;&gt;the Enterprise&lt;&#x2F;a&gt; &lt;a href=&quot;https:&#x2F;&#x2F;www.mirantis.com&#x2F;blog&#x2F;ask-whether-openstack-ready-enterprise&#x2F;&quot;&gt;yet&lt;&#x2F;a&gt;. I even &lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;KX1AQCJrhQs&quot;&gt;sat on a panel to discuss this&lt;&#x2F;a&gt; very question! &lt;em&gt;(edit: updated with link)&lt;&#x2F;em&gt; &lt;&#x2F;p&gt;
+&lt;p&gt;But over time, this key component of our success never materialized. Why was that?&lt;&#x2F;p&gt;
+&lt;p&gt;Back in 2014 I was working at HP Cloud. Money was pouring into OpenStack and we were all riding high on that. This was the year that OpenStack hype peaked, and I will never forget the Carnival at the Paris Summit. &lt;em&gt;Tre magnifique!&lt;&#x2F;em&gt; From outside, however, it may not have been obvious that this was coming from Telcos and Hardware Vendors seeking to influence the direction of OpenStack. Specifically, these companies wanted to create the technological basis for integrated private cloud solutions they could take to market quickly.&lt;&#x2F;p&gt;
+&lt;p&gt;Privately, we could see that these market forces were opposed to actually achieving hyperscale. &lt;a href=&quot;https:&#x2F;&#x2F;docs.openstack.org&#x2F;project-team-guide&#x2F;introduction.html#the-project-structure-reform-a-k-a-the-big-tent&quot;&gt;The Big Tent&lt;&#x2F;a&gt; was a bold move to try and address some of these issues. We (that is, the Technical Committee) did what we could, but in the end we couldn’t fix the problem because we didn’t control the purse strings.&lt;&#x2F;p&gt;
+&lt;p&gt;You see, almost every company contributing substantially to OpenStack at that time relied on &lt;em&gt;Enterprise customers&lt;&#x2F;em&gt;. That’s a nice way of saying well-known brands who spend a lot of money on each other every year. Unlike the hyper-scalers, Enterprise customers generally do not have an interest in building their own servers or writing their own switch firmware. They buy these things (and the support contracts for them) from other Enterprise companies that make them, and &lt;em&gt;those&lt;&#x2F;em&gt; companies want to keep making money from these deals.&lt;&#x2F;p&gt;
+&lt;p&gt;Meanwhile, distros and operators struggled to make OpenStack installable so that they could roll out deployments to satisfy the market demand. And the Enterprise demand for new private cloud regions was &lt;em&gt;incredibly&lt;&#x2F;em&gt; high! A lot of internal pressure was being put on the OpenStack developer teams (at the Distros, Telco’s, HW vendors) to create software that worked well at a scale these Enterprise Customers needed, roughly in the 1,000’s to 10,000’s of cores with a small number of regions for geographic resiliency.&lt;&#x2F;p&gt;
+&lt;p&gt;However, building a distributed system for a scale of 10,000 cores is fundamentally different than building for 10,000,000 cores. Besides just changing the code, scaling up by another three orders of magnitude requires fundamental changes in how any business operate. The margins would need to become much, much smaller. Gone would be the 3rd party support contracts, the B2B deals, the value-added software – the grease in the sales’ teams wheels. The enterprise hardware &amp;amp; software giants were not willing to restructure their businesses that much, and the organic growth of companies &lt;a href=&quot;https:&#x2F;&#x2F;ovh.com&#x2F;&quot;&gt;like OVH&lt;&#x2F;a&gt; was too slow (even though I think they are still on the right track).&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Creating a viable, open source, hyperscale cloud software solution was &lt;strong&gt;against the best interest&lt;&#x2F;strong&gt; of the companies most heavily investing in OpenStack’s development.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;In my usual fashion, I tried to draw this on a napkin one day. The original is long since lost, so I’ve redrawn it from memory below.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;openstack-influence-chart.png&quot;
+ alt=&quot;a black and white drawing that reads: telcos to hardware vendors to distros to operators to application developers, with a subtext indicating greatest influence on the side of telcos and least influence on the side of application developers&quot;
+ &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Influence was flowing from the wrong direction. Product management within the Telco, Hardware, and Distro space — that is, companies like ATT, Cisco, Dell, and RedHat — were pouring in money to pay developers to have influence and write code, funding lavish parties and inflating salaries (in full disclosure, I certainly enjoyed the parties, and while I got paid well, I didn’t make out nearly as well as a lot of folks did). Meanwhile, Operators were getting further and further behind the release-train, had little voice (they were busy operating the clouds, after all) … and the end-users of the cloud (app developers) had almost no voice at all.&lt;&#x2F;p&gt;
+&lt;p&gt;Eventually, revenues would need to come from the growth of supported businesses on top of the cloud (ie, app developers’ success), but we couldn’t get there because operators weren’t able to scale up enough, or maintain cross-cloud compatibility well enough, for a healthy market to flourish on top of the cloud. Everyone on the left-hand side of that diagram was too busy trying to differentiate to win deals against each other.&lt;&#x2F;p&gt;
+&lt;p&gt;With this going on, the upstream technical team leads — who could see the problem — were lobbying inside our respective companies to change the priorities. We convinced some managers and executives to get onboard with tactical investments in code and infrastructure, but we couldn’t get enough backing for the larger changes that were needed.&lt;&#x2F;p&gt;
+&lt;p&gt;As long as the financial influencers were focused on the business models of mid-sized customers (MSP’s and Enterprise markets), they were not willing to invest in the massive strategic efforts needed to make OpenStack competitive in the hyperscale market. The vast majority of developers, whose project goals were dictated by PMs and executives within their employers, were thus busy driving features (designed to take advantage of “value-added integrations”, the grease of the Enterprise sales cycle) into the codebase, and no one could fix the core issues that had become apparent to all the deployers who were busily trying to scale up their clouds.&lt;&#x2F;p&gt;
+&lt;p&gt;You see, the successful hyperscalers had already removed middleware marginal cost. Google, AWS, even Facebook, all make their own servers, switches, storage, etc. They fork open source projects then pay developers to maintain and improve private versions so that they can stay ahead (some projects are now &lt;a href=&quot;https:&#x2F;&#x2F;www.theregister.co.uk&#x2F;2018&#x2F;10&#x2F;16&#x2F;mongodb_licensning_change&#x2F;&quot;&gt;trying to prevent this&lt;&#x2F;a&gt;). These companies pioneered scale by shaving the costs off their infrastructure, but those efficiencies have not made it back to the Enterprise market. They became the behemoths they are, in no small part, by building processes, teams, and hardware to break any reliance on 3rd parties for software, hardware, or support.&lt;&#x2F;p&gt;
+&lt;p&gt;So, you see, creating a viable, open source, hyperscale cloud software solution was against the best interest of the companies most heavily investing in OpenStack’s development.&lt;&#x2F;p&gt;
+&lt;p&gt;When you’re looking at other cloud products, think about similar conflicts of interest that might be affecting your favorite spokespersons today… (&lt;em&gt;I’m looking at you, kubernetes&lt;&#x2F;em&gt;)&lt;&#x2F;p&gt;
+&lt;p&gt;Those of us who joined OpenStack early and dreamed big, well, we had no chance of building those dreams within OpenStack. It became something less hype-worthy but perhaps even more useful: &lt;strong&gt;an extensible tool for mid-scale infrastructure automation, powering thousands of businesses around the world, including many non-profit and public-good institutions&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;And – just to be clear – I’m very glad to have been able to help in my small way to build a tool that has been used so widely for good.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;I am publishing this now in the hope that it can serve as a warning to everyone out there who is investing in Kubernetes. You’ll never be able to run it as effectively, at the same scale, as GKE does – unless you also invest in a holistic change to your organization.&lt;&#x2F;p&gt;
+&lt;p&gt;Even then, if you’re using Kubernetes, you probably won’t succeed, because it isn’t in Google’s best interest to let anyone else actually compete with GKE.&lt;&#x2F;p&gt;
+&lt;p&gt;And that’s probably OK. In fact, OpenStack + Kubernetes is probably just fine for what ever you’re building, and neither project is going anywhere any time soon.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;If another company wants to stand a chance in the hyperscale space, it will need to look holistically at its entire business apparatus, and either repeat the Google&#x2F;Facebook&#x2F;Amazon model of privatizing open source and investing in your own server fabrication &lt;em&gt;or band together with other vertically-focused, open source businesses in order to compete.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;If you do that, please drop me a line.&lt;&#x2F;p&gt;
+&lt;p&gt;I’d love to help.&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Hi, I&#x27;m queer and trans</title>
+            <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+            <link>/blog/2019-hi-queer-trans/</link>
+            <guid>/blog/2019-hi-queer-trans/</guid>
+            <description>&lt;p&gt;There’s something I need to get off my chest.&lt;&#x2F;p&gt;
+&lt;p&gt;I’ve used a lot of different labels to describe myself over the years – geek, goth, autodidact, polyglot, kinkster, polyamorous, third-culture kid, dharma bum, database admin, software developer, cloud architect, VP. None feel as risky to claim as #trans, and yet, none of those other labels are as authentic, none require as much vulnerability to share.&lt;&#x2F;p&gt;
+&lt;p&gt;Reflecting on my childhood reveals a difficult truth: when I was in primary school, I was one of the girls. Everyone (except me) knew it, but in a small southern California town in 1992, none of us had the social vocabulary to talk about gender fluidity, least of all me. By the time I turned 16, I had figured out how to pass as though I was over 21, and very clearly “a man”, because this made it much safer to exist in public.&lt;&#x2F;p&gt;
+&lt;p&gt;In essence, to survive childhood, I traded the freedom to express myself authentically for a thinly-constructed sense of safety, and I’ve been paying an internal cost for that choice ever since. My close friends have all known … to some degree or another. I’ve always done little things to honor my feminine side, even as my career took off and I became modestly well known in Open Source as a guy. That exposure, that network, helped me learn a lot about who I am and connect with an amazingly beautiful &amp;amp; diverse network of people.&lt;&#x2F;p&gt;
+&lt;p&gt;Now I’m done holding back who I am.&lt;&#x2F;p&gt;
+&lt;p&gt;Yesterday’s #WomenInTech Summit was incredible for a lot of reasons, and it was the firs second time that I’ve been at an event with my F&#x2F;OSS community since openly starting this transition. Most notable for me was the message (carried by several speakers) that we women bring a power, an opportunity, to tech companies through our ability to share our authentic, vulnerable selves. That strength isn’t unique to women.&lt;&#x2F;p&gt;
+&lt;p&gt;However, &lt;em&gt;it is the only way forward for me.&lt;&#x2F;em&gt; I know that I won’t be able to succeed in my next professional endeavor unless I embrace this truth.&lt;&#x2F;p&gt;
+&lt;p&gt;So, hi there, internet.&lt;&#x2F;p&gt;
+&lt;p&gt;I’m a queer trans woman in tech.&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>
