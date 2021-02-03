@@ -13,14 +13,10 @@
             <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
             <link>https://aeva.online/blog/2021-newsite/</link>
             <guid>https://aeva.online/blog/2021-newsite/</guid>
-            <description>&lt;p&gt;Yep, I&#x27;m finally making the time to catch up with the times -- and learn Rust.&lt;&#x2F;p&gt;
-&lt;p&gt;tldr;&lt;&#x2F;p&gt;
-&lt;ul&gt;
-&lt;li&gt;better memory safety than C&#x2F;C++&lt;&#x2F;li&gt;
-&lt;li&gt;already has a rich ecosystem of modules, both low-level and (to my surprise) for web services&lt;&#x2F;li&gt;
-&lt;li&gt;doesn&#x27;t make me hate programming&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;p&gt;Might do more of a writeup in the future.&lt;&#x2F;p&gt;
+            <description>&lt;p&gt;Learning Rust is a great excuse to move to a static site gen! All posts before this post have been copied in from my last blog site, which was (though I&#x27;m ashamed to admit it) still running WordPress in 2020.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;rust-ifying-my-life&quot;&gt;Rust&#x27;ifying my life&lt;a class=&quot;zola-anchor&quot; href=&quot;#rust-ifying-my-life&quot; aria-label=&quot;Anchor link for: rust-ifying-my-life&quot;&gt;§&lt;&#x2F;a&gt;
+&lt;&#x2F;h1&gt;
+&lt;p&gt;So I&#x27;m finally making the time to learn another programming language -- Rust. At least that&#x27;s what I&#x27;m telling myself, even though most of my days are spent in back-to-back meetings.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
@@ -29,109 +25,6 @@
             <link>https://aeva.online/blog/2020-identity-vectors/</link>
             <guid>https://aeva.online/blog/2020-identity-vectors/</guid>
             <description>&lt;p&gt;It’s hard to believe that I’ve been at Microsoft for almost a year now — and that I came down with COVID-19 six and a half months ago. When I look back at the tumultuous political landscape that is 2020, these two events will doubtless color my memories of this year in ways that I can not yet really understand.&lt;&#x2F;p&gt;
-</description>
-        </item>
-        <item>
-            <title>Being a Better Ally: 2020</title>
-            <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
-            <link>https://aeva.online/blog/2020-being-a-better-ally/</link>
-            <guid>https://aeva.online/blog/2020-being-a-better-ally/</guid>
-            <description>&lt;p&gt;As we go into the next decade, many men are looking for advice on how to better support their non-cis-gendered employees, coworkers, neighbors, friends, and&#x2F;or family.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;em&gt;Editor’s note: I wrote this post in the first weeks of 2020, but didn’t publish it for six months. It feels simultaneously out of date and yet still full of relevant advice as I publish it now, in July.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
-&lt;h1 id=&quot;new-years-eve&quot;&gt;New Years’ Eve&lt;a class=&quot;zola-anchor&quot; href=&quot;#new-years-eve&quot; aria-label=&quot;Anchor link for: new-years-eve&quot;&gt;§&lt;&#x2F;a&gt;
-&lt;&#x2F;h1&gt;
-&lt;p&gt;I only went to one NYE party this year. It was nice to catch up with a few friends… but I did not expect a gender inquisition!&lt;&#x2F;p&gt;
-&lt;p&gt;It’s been a while since those acquaintances last saw me, and I guess they had a whole lot of ideas about gender, trans*rights, and allyship that they just had to ask me …&lt;&#x2F;p&gt;
-&lt;p&gt;In light of that evening’s conversations (which I quote throughout this article), I have compiled a list of things you can do to be a better ally to the trans* people in your life.&lt;&#x2F;p&gt;
-&lt;p&gt;I humbly offer this post that it may provide some benefit to the world.&lt;&#x2F;p&gt;
-&lt;p&gt;May the 2020s be a more inclusive and equitable decade than the one that came before, and may that growth ease the suffering of people of all genders and sexualities.&lt;&#x2F;p&gt;
-&lt;p&gt;🙏&lt;&#x2F;p&gt;
-&lt;hr &#x2F;&gt;
-&lt;blockquote&gt;
-&lt;p&gt;I’m frustrated that the most I can do is to shut up
-– or get other men to shut up – so folks like you can speak.
-I wish I could do more.&lt;&#x2F;p&gt;
-&lt;p&gt;– Manager In Tech&lt;&#x2F;p&gt;
-&lt;&#x2F;blockquote&gt;
-&lt;p&gt;So this guy is a successful manager at a tech company, and he wants to feel like he’s doing a good job managing a team that includes a black woman. Despite what you may believe, making space for women at work is not just about shutting up — ensuring that diverse viewpoints are represented in a meeting is very important, to be sure, but making space for everyone is about so much more than just being quiet!&lt;&#x2F;p&gt;
-&lt;p&gt;If you are in a management role, here are some things you can do.&lt;&#x2F;p&gt;
-&lt;h1 id=&quot;1-don-t-be-a-selfish-boss&quot;&gt;(1) Don’t be a selfish boss&lt;a class=&quot;zola-anchor&quot; href=&quot;#1-don-t-be-a-selfish-boss&quot; aria-label=&quot;Anchor link for: 1-don-t-be-a-selfish-boss&quot;&gt;§&lt;&#x2F;a&gt;
-&lt;&#x2F;h1&gt;
-&lt;p&gt;Since you’re a good boss, I’m certain that you have healthy emotional boundaries, take criticism gracefully, and never take credit for other people’s work. Right?&lt;&#x2F;p&gt;
-&lt;p&gt;Right.&lt;&#x2F;p&gt;
-&lt;p&gt;Sure, you may be measured by the output of your team, but because you’re a good boss, you know better than to take credit for the code your team wrote, or the service they operate. I’m sure your management chain is only praising you for what you created – an environment wherein your team succeeded.&lt;&#x2F;p&gt;
-&lt;p&gt;This is important.&lt;&#x2F;p&gt;
-&lt;p&gt;Minorities are less likely to get the credit they deserve, and more likely to get blame they do not, than their majority peers. So if you’re taking credit for your team’s work, you are disproportionately affecting the minorities in your team — and you’re a bad boss. &lt;em&gt;Don’t be a bad boss.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;Show up for your team in the ways that they need. If you don’t know what that is, ask them. Create spaces that you don’t directly benefit from, and they will know you support them even when you’re not in the room.&lt;&#x2F;p&gt;
-&lt;p&gt;For example, even though you can’t participate in a women-only meetup, that doesn’t exclude you (or excuse you) from the responsibility of creating it! You are the team’s leader. Don’t know what to do?&lt;&#x2F;p&gt;
-&lt;p&gt;Here’s a tip: allocate a budget and empower someone else to create the spaces that you can’t.&lt;&#x2F;p&gt;
-&lt;h1 id=&quot;2-examine-the-styles-of-work-you-value&quot;&gt;(2) Examine the styles of work you value&lt;a class=&quot;zola-anchor&quot; href=&quot;#2-examine-the-styles-of-work-you-value&quot; aria-label=&quot;Anchor link for: 2-examine-the-styles-of-work-you-value&quot;&gt;§&lt;&#x2F;a&gt;
-&lt;&#x2F;h1&gt;
-&lt;p&gt;I’m sure you value the &lt;a href=&quot;https:&#x2F;&#x2F;hbr.org&#x2F;2017&#x2F;03&#x2F;how-to-push-your-team-to-take-risks-and-experiment&quot;&gt;“risk takers”&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;hypatia.ca&#x2F;2016&#x2F;06&#x2F;21&#x2F;no-more-rock-stars&#x2F;&quot;&gt;“rock stars”&lt;&#x2F;a&gt; on your team even while you’re trying find and hire those &lt;a href=&quot;https:&#x2F;&#x2F;www.openstack.org&#x2F;summit&#x2F;austin-2016&#x2F;summit-schedule&#x2F;events&#x2F;7965&#x2F;hunting-for-purple-squirrels-hiring-openstack-contributors-in-the-wild&quot;&gt;elusive purple squirrels&lt;&#x2F;a&gt;. (That’s my old team she’s talking about in the video, by the way!).&lt;&#x2F;p&gt;
-&lt;p&gt;And you probably already compensate your amazing team with great bonuses and unlimited PTO — because gym memberships and unlimited La Croix is so 2010’s!&lt;&#x2F;p&gt;
-&lt;p&gt;Here’s a revelation: to find them, look no further than the team you already have 😉&lt;&#x2F;p&gt;
-&lt;p&gt;Risk taking requires emotional safety, so make sure you see and value the emotional labor that goes into building an environment for everyone to experiment, fail, learn, and grow. Want your team to take risks? Look in the damn mirror. Examine the ways you value contributions to your team. Examine your behavior and find ways to create more emotional safety among your employees. Give folks more time to be creative and create a culture of growth and sharing. Be the parent who shows up with bandaids and a candy when someone gets a scraped knee (metaphorically speaking – I hope your dev team isn’t literally scraping their knees!).&lt;&#x2F;p&gt;
-&lt;p&gt;Then – and this is critical – &lt;strong&gt;share that self-examination both vertically and horizontally!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;Share it with your team (transparency). Share it with your peers (collaboration). Share it with your leaders (accountability).&lt;&#x2F;p&gt;
-&lt;p&gt;Sounds scary? Too vulnerable for you? Great! Do it anyway. It’ll be good for you, I promise.&lt;&#x2F;p&gt;
-&lt;h1 id=&quot;3-do-service-work-for-your-team&quot;&gt;(3) Do service work for your team&lt;a class=&quot;zola-anchor&quot; href=&quot;#3-do-service-work-for-your-team&quot; aria-label=&quot;Anchor link for: 3-do-service-work-for-your-team&quot;&gt;§&lt;&#x2F;a&gt;
-&lt;&#x2F;h1&gt;
-&lt;p&gt;I’m sure you know already know that it’s inappropriate to ask the one woman on your dev team to go get coffee. For everyone. Again.&lt;&#x2F;p&gt;
-&lt;p&gt;I’m sure you’re already woke to that injustice. Read on to learn how to level up.&lt;&#x2F;p&gt;
-&lt;p&gt;Show everyone that getting coffee and tidying up after a meeting isn’t “women’s work” by doing it yourself, you manly man!&lt;&#x2F;p&gt;
-&lt;h1 id=&quot;4-educate-yourself-on-other-perspectives&quot;&gt;(4) Educate yourself on other perspectives&lt;a class=&quot;zola-anchor&quot; href=&quot;#4-educate-yourself-on-other-perspectives&quot; aria-label=&quot;Anchor link for: 4-educate-yourself-on-other-perspectives&quot;&gt;§&lt;&#x2F;a&gt;
-&lt;&#x2F;h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;I really appreciate that the [burner] community
-has given me the space to explore my gender,
-but I’m actually very comfortable with being a white man.&lt;&#x2F;p&gt;
-&lt;p&gt;– a man who actually said this&lt;&#x2F;p&gt;
-&lt;&#x2F;blockquote&gt;
-&lt;p&gt;Put in the time to examine your own social identity – starting with your gender and race, starting with your childhood. Starting with &lt;em&gt;gasp&lt;&#x2F;em&gt; your privilege…&lt;&#x2F;p&gt;
-&lt;p&gt;When you were a kid, did you see folks in media that looked like you? Did you go to school surrounded by people that share your holiday traditions? Were you encouraged to play with the toys, wear the clothes, or take the classes that you wanted to? Did you feel safe walking around your neighborhood?&lt;&#x2F;p&gt;
-&lt;p&gt;Now think forward to the present day. Are you prohibited from speaking your cradle-language language at work? Do your kids (if you have them) go to a school where they learn about traditions that are foreign to you? Do you have to take time off work just to recognize the holidays that matter to you? Do you constantly devote mental attention to tracking every person near you on the street because that’s how you stay safe?&lt;&#x2F;p&gt;
-&lt;p&gt;No?&lt;&#x2F;p&gt;
-&lt;p&gt;It’s ok. I didn’t think so.&lt;&#x2F;p&gt;
-&lt;p&gt;You could learn so much from people of different backgrounds.&lt;&#x2F;p&gt;
-&lt;p&gt;There’s a little nuance in that sentence, so let me make it clear: learn from us, do not merely learn about us.&lt;&#x2F;p&gt;
-&lt;p&gt;And since you’re a great guy, I know you want to become a great manager!&lt;&#x2F;p&gt;
-&lt;p&gt;Make the time to listen to, and learn from, the experiences of folks who’ve survived things you never had to face.&lt;&#x2F;p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;I know I have life on easy mode, on the easiest mode.&lt;&#x2F;p&gt;
-&lt;p&gt;– guy who thinks he’s clever&lt;&#x2F;p&gt;
-&lt;&#x2F;blockquote&gt;
-&lt;h1 id=&quot;5-value-strengths-different-from-your-own&quot;&gt;(5) Value strengths different from your own&lt;a class=&quot;zola-anchor&quot; href=&quot;#5-value-strengths-different-from-your-own&quot; aria-label=&quot;Anchor link for: 5-value-strengths-different-from-your-own&quot;&gt;§&lt;&#x2F;a&gt;
-&lt;&#x2F;h1&gt;
-&lt;p&gt;If you don’t know what “privilege” means, or you feel like this word is thrown around as some sort of insult, then I offer you this &lt;em&gt;manalogy.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;If life were a video game, then privilege would be starting the game on “easy mode”.&lt;&#x2F;p&gt;
-&lt;p&gt;But there’s a twist: you aren’t allowed to know that until part-way through the game when (surprise!) it morphs from a single-player action game to a massively multiplayer online RPG, you meet other players, and they’ve developed a bunch of skills you never even thought about.&lt;&#x2F;p&gt;
-&lt;p&gt;When those players share stories of their journey and it sounds waaaaaay harder than your journey, well, they were born into a life on “hard” mode, banded together, and developed tactics you never had to.&lt;&#x2F;p&gt;
-&lt;p&gt;Your lack of those skills doesn’t make you a bad player – and it doesn’t mean they’re lying!&lt;&#x2F;p&gt;
-&lt;p&gt;It’s simply important to recognize the differences in your experiences.&lt;&#x2F;p&gt;
-&lt;p&gt;Just imagine how much better a player you’ll be after learning survival tips from folks that have been dominating the game on a higher difficulty setting!&lt;&#x2F;p&gt;
-&lt;h1 id=&quot;6-learn-from-your-mistakes&quot;&gt;(6) Learn from your mistakes&lt;a class=&quot;zola-anchor&quot; href=&quot;#6-learn-from-your-mistakes&quot; aria-label=&quot;Anchor link for: 6-learn-from-your-mistakes&quot;&gt;§&lt;&#x2F;a&gt;
-&lt;&#x2F;h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;You’re so much more interesting now…
-&lt;waves vaguely at my chest&gt;
-… that you’re not just another man in tech!&lt;&#x2F;p&gt;
-&lt;p&gt;– a very nice man who says nice things &lt;em&gt;while staring at women&#x27;s breasts&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
-&lt;&#x2F;blockquote&gt;
-&lt;p&gt;Yes, someone actually said that to me. &lt;&#x2F;p&gt;
-&lt;p&gt;If you’ve been avoiding the internet for several years and it’s not immediately clear why this is a gross thing to say to someone, regardless of how well you know them, well, go think about that for a while. The implication – I’ll spell it out in case it’s not obvious – is that I’m interesting now precisely &lt;strong&gt;because I’m T R A N S.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;So. First of all.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;em&gt;Don’t say shit like that!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;When you put your foot in your mouth (as we all do from time to time) and say something that offends a colleague, pray that they have the grace to gently tell you — &lt;em&gt;&lt;strong&gt;and then open your heart, close your mouth, and listen.&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;Earlier I pointed out that you can do a lot more than shutting up, but this – &lt;em&gt;this&lt;&#x2F;em&gt; – is a time to just listen.&lt;&#x2F;p&gt;
-&lt;p&gt;When you offend someone, and they are brave enough to tell you, &lt;em&gt;listen to them.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;Honor the gift they are offering, honor the emotional work they are doing, and receive what ever they choose to share in that moment of vulnerability.&lt;&#x2F;p&gt;
-&lt;p&gt;Listen when they tell you why those words stung them. What ever you do, &lt;em&gt;&lt;strong&gt;don’t try to minimize their feelings.&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;Just listen.&lt;&#x2F;p&gt;
-&lt;p&gt;Respect the growth opportunity that you’ve been given. Learn from their example.&lt;&#x2F;p&gt;
-&lt;p&gt;This will make you a better manager.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;em&gt;And a better human.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
-&lt;hr &#x2F;&gt;
-&lt;p&gt;Now go out there, be awesome, and make the world a little easier for someone playing the game on hard mode! &lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
