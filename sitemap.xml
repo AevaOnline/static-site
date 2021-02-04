@@ -1,125 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://aeva.online/</loc>
+        <loc>/</loc>
     </url>
     <url>
-        <loc>https://aeva.online/about/</loc>
+        <loc>/about/</loc>
     </url>
     <url>
-        <loc>https://aeva.online/blog/</loc>
+        <loc>/contact/</loc>
     </url>
     <url>
-        <loc>https://aeva.online/blog/2019-edge-of-clouds/</loc>
+        <loc>/journal/</loc>
     </url>
     <url>
-        <loc>https://aeva.online/blog/2019-gender-markers/</loc>
+        <loc>/journal/2019-edge-of-clouds/</loc>
+    </url>
+    <url>
+        <loc>/journal/2019-gender-markers/</loc>
         <lastmod>2019-08-13</lastmod>
     </url>
     <url>
-        <loc>https://aeva.online/blog/2019-hi-queer-trans/</loc>
+        <loc>/journal/2019-hi-queer-trans/</loc>
         <lastmod>2019-01-28</lastmod>
     </url>
     <url>
-        <loc>https://aeva.online/blog/2019-in-review/</loc>
+        <loc>/journal/2019-in-review/</loc>
         <lastmod>2019-12-31</lastmod>
     </url>
     <url>
-        <loc>https://aeva.online/blog/2019-jeeping-about/</loc>
+        <loc>/journal/2019-jeeping-about/</loc>
     </url>
     <url>
-        <loc>https://aeva.online/blog/2019-job-hunt-is-over/</loc>
+        <loc>/journal/2019-job-hunt-is-over/</loc>
         <lastmod>2019-10-05</lastmod>
     </url>
     <url>
-        <loc>https://aeva.online/blog/2019-politics-of-machine-learning/</loc>
+        <loc>/journal/2019-politics-of-machine-learning/</loc>
     </url>
     <url>
-        <loc>https://aeva.online/blog/2019-rebuilding-my-miniserver/</loc>
+        <loc>/journal/2019-rebuilding-my-miniserver/</loc>
         <lastmod>2019-05-29</lastmod>
     </url>
     <url>
-        <loc>https://aeva.online/blog/2019-transitioning-is-strength/</loc>
+        <loc>/journal/2019-transitioning-is-strength/</loc>
         <lastmod>2019-12-15</lastmod>
     </url>
     <url>
-        <loc>https://aeva.online/blog/2019-what-happened-openstack/</loc>
+        <loc>/journal/2019-what-happened-openstack/</loc>
         <lastmod>2019-03-02</lastmod>
     </url>
     <url>
-        <loc>https://aeva.online/blog/2019-whats-in-a-name/</loc>
+        <loc>/journal/2019-whats-in-a-name/</loc>
         <lastmod>2019-03-15</lastmod>
     </url>
     <url>
-        <loc>https://aeva.online/blog/2020-identity-vectors/</loc>
+        <loc>/journal/2020-identity-vectors/</loc>
         <lastmod>2020-09-27</lastmod>
     </url>
     <url>
-        <loc>https://aeva.online/blog/2020-six-to-eight-weeks/</loc>
+        <loc>/journal/2020-six-to-eight-weeks/</loc>
         <lastmod>2020-05-26</lastmod>
     </url>
     <url>
-        <loc>https://aeva.online/blog/2021-newsite/</loc>
+        <loc>/journal/2021-newsite/</loc>
         <lastmod>2021-02-01</lastmod>
     </url>
     <url>
-        <loc>https://aeva.online/blog/page/1/</loc>
+        <loc>/journal/page/1/</loc>
     </url>
     <url>
-        <loc>https://aeva.online/blog/page/2/</loc>
+        <loc>/journal/page/2/</loc>
     </url>
     <url>
-        <loc>https://aeva.online/blog/page/3/</loc>
+        <loc>/journal/page/3/</loc>
     </url>
     <url>
-        <loc>https://aeva.online/contact/</loc>
+        <loc>/media/</loc>
     </url>
     <url>
-        <loc>https://aeva.online/media/</loc>
+        <loc>/tags/</loc>
     </url>
     <url>
-        <loc>https://aeva.online/tags/</loc>
+        <loc>/tags/career/</loc>
     </url>
     <url>
-        <loc>https://aeva.online/tags/career/</loc>
+        <loc>/tags/cloud/</loc>
     </url>
     <url>
-        <loc>https://aeva.online/tags/cloud/</loc>
+        <loc>/tags/covid/</loc>
     </url>
     <url>
-        <loc>https://aeva.online/tags/covid/</loc>
+        <loc>/tags/friends/</loc>
     </url>
     <url>
-        <loc>https://aeva.online/tags/friends/</loc>
+        <loc>/tags/gender/</loc>
     </url>
     <url>
-        <loc>https://aeva.online/tags/gender/</loc>
+        <loc>/tags/job/</loc>
     </url>
     <url>
-        <loc>https://aeva.online/tags/job/</loc>
+        <loc>/tags/kubernetes/</loc>
     </url>
     <url>
-        <loc>https://aeva.online/tags/kubernetes/</loc>
+        <loc>/tags/legislation/</loc>
     </url>
     <url>
-        <loc>https://aeva.online/tags/legislation/</loc>
+        <loc>/tags/microsoft/</loc>
     </url>
     <url>
-        <loc>https://aeva.online/tags/microsoft/</loc>
+        <loc>/tags/new-years/</loc>
     </url>
     <url>
-        <loc>https://aeva.online/tags/new-years/</loc>
+        <loc>/tags/openstack/</loc>
     </url>
     <url>
-        <loc>https://aeva.online/tags/openstack/</loc>
+        <loc>/tags/trans/</loc>
     </url>
     <url>
-        <loc>https://aeva.online/tags/trans/</loc>
+        <loc>/tags/update/</loc>
     </url>
     <url>
-        <loc>https://aeva.online/tags/update/</loc>
-    </url>
-    <url>
-        <loc>https://aeva.online/tags/website/</loc>
+        <loc>/tags/website/</loc>
     </url>
 </urlset>

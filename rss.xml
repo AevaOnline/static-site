@@ -2,36 +2,48 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Adventures in Self</title>
-        <link>https://aeva.online/</link>
+        <link>/</link>
         <description>An Unfinished Story</description>
         <generator>Zola</generator>
         <language>en</language>
-        <atom:link href="https://aeva.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
         <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
         <item>
             <title>New Site, Who Dis?</title>
             <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-            <link>https://aeva.online/blog/2021-newsite/</link>
-            <guid>https://aeva.online/blog/2021-newsite/</guid>
-            <description>&lt;p&gt;Learning Rust is a great excuse to move to a static site gen! All posts before this post have been copied in from my last blog site, which was (though I&#x27;m ashamed to admit it) still running WordPress in 2020.&lt;&#x2F;p&gt;
-&lt;h1 id=&quot;rust-ifying-my-life&quot;&gt;Rust&#x27;ifying my life&lt;a class=&quot;zola-anchor&quot; href=&quot;#rust-ifying-my-life&quot; aria-label=&quot;Anchor link for: rust-ifying-my-life&quot;&gt;§&lt;&#x2F;a&gt;
-&lt;&#x2F;h1&gt;
-&lt;p&gt;So I&#x27;m finally making the time to learn another programming language -- Rust. At least that&#x27;s what I&#x27;m telling myself, even though most of my days are spent in back-to-back meetings.&lt;&#x2F;p&gt;
+            <link>/journal/2021-newsite/</link>
+            <guid>/journal/2021-newsite/</guid>
+            <description>&lt;p&gt;I thought that migrationg to a static site generator would be a good motivation to spend more time learning Rust ... but once I compiled Rust, and compiled Zola, everything else was just a matter of getting the templating to render well and fiddling with my build-publish workflow. Oh well. I still have a new site that I&#x27;m much happier with :)&lt;&#x2F;p&gt;
+&lt;p&gt;Oh, and I copied in most, but not quite all, of my previous blog&#x27;s posts.&lt;&#x2F;p&gt;
+&lt;p&gt;The build-publish workflow is pretty simple, and this should be much easier to maintain than my last site:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&#x27;Zola&#x27; for the templating engine and site generation, with the &#x27;Zerm&#x27; theme&lt;&#x2F;li&gt;
+&lt;li&gt;I simply edit a Markdown file for each post, maybe add some photos&lt;&#x2F;li&gt;
+&lt;li&gt;run a shell script which:
+&lt;ul&gt;
+&lt;li&gt;invokes &lt;code&gt;zola build&lt;&#x2F;code&gt; to render the static site&lt;&#x2F;li&gt;
+&lt;li&gt;copies the static site into a docker container for testing&lt;&#x2F;li&gt;
+&lt;li&gt;and copies it into another git repo that only holds the static site&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;I test locally using the container, and if I like it, push the static site to GitHub Pages, which renders it at https:&#x2F;&#x2F;aeva.online&#x2F;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;If I wanted to migrate off of GitHub Pages, it should be trivial: I could easily run this docker image on a RasPi, for instance, or on any VM.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>identity vectors</title>
             <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
-            <link>https://aeva.online/blog/2020-identity-vectors/</link>
-            <guid>https://aeva.online/blog/2020-identity-vectors/</guid>
+            <link>/journal/2020-identity-vectors/</link>
+            <guid>/journal/2020-identity-vectors/</guid>
             <description>&lt;p&gt;It’s hard to believe that I’ve been at Microsoft for almost a year now — and that I came down with COVID-19 six and a half months ago. When I look back at the tumultuous political landscape that is 2020, these two events will doubtless color my memories of this year in ways that I can not yet really understand.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Six to Eight Weeks</title>
             <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-            <link>https://aeva.online/blog/2020-six-to-eight-weeks/</link>
-            <guid>https://aeva.online/blog/2020-six-to-eight-weeks/</guid>
+            <link>/journal/2020-six-to-eight-weeks/</link>
+            <guid>/journal/2020-six-to-eight-weeks/</guid>
             <description>&lt;p&gt;The doctors told me that it takes six to eight weeks – on average – for healthy folks with my symptoms to recover. &lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;p&gt;Friday, April 10th, my work team had our first Virtual Happy Hour, so I was enjoying a little sun in my back yard and a tumbler of Scotch. We’re a relatively new team, and only had a few months to get to know each other before quarantine-in-place orders went into effect in Washington, so the social time together was very welcome.&lt;&#x2F;p&gt;
@@ -69,11 +81,11 @@
         <item>
             <title>2019 in Review</title>
             <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
-            <link>https://aeva.online/blog/2019-in-review/</link>
-            <guid>https://aeva.online/blog/2019-in-review/</guid>
+            <link>/journal/2019-in-review/</link>
+            <guid>/journal/2019-in-review/</guid>
             <description>&lt;p&gt;It&#x27;s been two years since I came out. So much has changed. So much has improved.&lt;&#x2F;p&gt;
 &lt;p&gt;If 2018 was about &lt;em&gt;accepting&lt;&#x2F;em&gt; that truth, 2019 was about &lt;em&gt;taking action on it&lt;&#x2F;em&gt;..&lt;&#x2F;p&gt;
-&lt;p&gt;For starters, I changed all my online profiles this year. I &lt;em&gt;&lt;a href=&quot;https:&#x2F;&#x2F;aeva.online&#x2F;blog&#x2F;2019-in-review&#x2F;whats-in-a-name.html&quot;&gt;changed my name&lt;&#x2F;a&gt;&lt;&#x2F;em&gt; this year.&lt;&#x2F;p&gt;
+&lt;p&gt;For starters, I changed all my online profiles this year. I &lt;em&gt;&lt;a href=&quot;&#x2F;journal&#x2F;2019-in-review&#x2F;whats-in-a-name.html&quot;&gt;changed my name&lt;&#x2F;a&gt;&lt;&#x2F;em&gt; this year.&lt;&#x2F;p&gt;
 &lt;p&gt;I realized that my career choices over the past several years had led me uncomfortably far from my ethics. (More on that later…)&lt;&#x2F;p&gt;
 &lt;p&gt;The result? I spent eight months of 2019 uninsured and underemployed, but still &lt;em&gt;very&lt;&#x2F;em&gt; busy.&lt;&#x2F;p&gt;
 &lt;p&gt;I interviewed at dozens of tech companies … and only got one offer.&lt;&#x2F;p&gt;
@@ -154,8 +166,8 @@
         <item>
             <title>Transitioning Is an Act of Strength</title>
             <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
-            <link>https://aeva.online/blog/2019-transitioning-is-strength/</link>
-            <guid>https://aeva.online/blog/2019-transitioning-is-strength/</guid>
+            <link>/journal/2019-transitioning-is-strength/</link>
+            <guid>/journal/2019-transitioning-is-strength/</guid>
             <description>&lt;blockquote&gt;
 &lt;p&gt;You gave up everything I’ve spent my life fighting for. I can’t imagine how much you must have been hurting inside to choose to do that.&lt;&#x2F;p&gt;
 &lt;p&gt;-&lt;em&gt;Sarah Novotny&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
@@ -219,8 +231,8 @@
         <item>
             <title>The Job Hunt Is Over</title>
             <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
-            <link>https://aeva.online/blog/2019-job-hunt-is-over/</link>
-            <guid>https://aeva.online/blog/2019-job-hunt-is-over/</guid>
+            <link>/journal/2019-job-hunt-is-over/</link>
+            <guid>/journal/2019-job-hunt-is-over/</guid>
             <description>&lt;p&gt;It’s been a month now since I signed an employment contract with Microsoft.&lt;&#x2F;p&gt;
 &lt;p&gt;You read that correctly — the giant tech company which I swore, back in the 90’s, I would never work for. Even though most of my colleagues have been very encouraging, even reminding me that Microsoft isn’t as monopolistic or walled-off as it once was, there are still some things which bear clarification (especially for any readers that have known me during the OpenStack or MySQL days).&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
@@ -242,8 +254,8 @@
         <item>
             <title>Gender Markers</title>
             <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
-            <link>https://aeva.online/blog/2019-gender-markers/</link>
-            <guid>https://aeva.online/blog/2019-gender-markers/</guid>
+            <link>/journal/2019-gender-markers/</link>
+            <guid>/journal/2019-gender-markers/</guid>
             <description>&lt;p&gt;&lt;em&gt;(content warning: gender issues and gender-based violence, no specifics but still may be difficult for some)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;p&gt;Yesterday, the Washington State Department of Licensing held a public hearing for comments on the proposed legislation to add an ‘X’ gender marker option on state-issued ID’s. I chose to go and stand up for all the non-binary, intersex, and transgender members of my communities.&lt;&#x2F;p&gt;
@@ -290,16 +302,16 @@ Thank you.
         <item>
             <title>Rebuilding my miniserver</title>
             <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
-            <link>https://aeva.online/blog/2019-rebuilding-my-miniserver/</link>
-            <guid>https://aeva.online/blog/2019-rebuilding-my-miniserver/</guid>
+            <link>/journal/2019-rebuilding-my-miniserver/</link>
+            <guid>/journal/2019-rebuilding-my-miniserver/</guid>
             <description>&lt;p&gt;CONTENT MISSING&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>What&#x27;s in a Name?</title>
             <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
-            <link>https://aeva.online/blog/2019-whats-in-a-name/</link>
-            <guid>https://aeva.online/blog/2019-whats-in-a-name/</guid>
+            <link>/journal/2019-whats-in-a-name/</link>
+            <guid>/journal/2019-whats-in-a-name/</guid>
             <description>&lt;p&gt;A MAN IN A frock held up his right hand and said a few words, and I got to fill out some paperwork. It is strange that this process makes me feel better about myself. I abhor paperwork.&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;p&gt;&lt;em&gt;Rites of Passage&lt;&#x2F;em&gt; have been sociologically and psychologically important to humans for, well, as long as recorded history. As someone who grew up without cultural roots (or rather, with roots in several different major world cultures) and never identified with any specific culture, I’ve often been a little jealous of folks who get to have a bar&#x2F;batmitzva, a big ol’ denominational wedding, or the like. I never had those. Heck, I didn’t even have a graduation ceremony!&lt;&#x2F;p&gt;
@@ -312,8 +324,8 @@ Thank you.
         <item>
             <title>What Happened To OpenStack</title>
             <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
-            <link>https://aeva.online/blog/2019-what-happened-openstack/</link>
-            <guid>https://aeva.online/blog/2019-what-happened-openstack/</guid>
+            <link>/journal/2019-what-happened-openstack/</link>
+            <guid>/journal/2019-what-happened-openstack/</guid>
             <description>&lt;p&gt;The project is still quite healthy and is following the usual hype curve: OpenStack is finally mature enough that it’s less interesting to talk about, so it’s understandable that people think &lt;em&gt;something&lt;&#x2F;em&gt; happened.&lt;&#x2F;p&gt;
 &lt;p&gt;The folks asking me this question are generally curios and good intentioned, and I think my answer says a lot about my professional background, so even during an interview I indulge in a short ramble.&lt;&#x2F;p&gt;
 &lt;p&gt;I know, I know … I should have written about it at the time, but I had other things going on and wasn’t making space in my life to write. So I’ve decided to revisit the topic today. Next time someone asks me, I’ll just point them here 😉&lt;&#x2F;p&gt;
@@ -355,8 +367,8 @@ Thank you.
         <item>
             <title>Hi, I&#x27;m queer and trans</title>
             <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
-            <link>https://aeva.online/blog/2019-hi-queer-trans/</link>
-            <guid>https://aeva.online/blog/2019-hi-queer-trans/</guid>
+            <link>/journal/2019-hi-queer-trans/</link>
+            <guid>/journal/2019-hi-queer-trans/</guid>
             <description>&lt;p&gt;There’s something I need to get off my chest.&lt;&#x2F;p&gt;
 &lt;p&gt;I’ve used a lot of different labels to describe myself over the years – geek, goth, autodidact, polyglot, kinkster, polyamorous, third-culture kid, dharma bum, database admin, software developer, cloud architect, VP. None feel as risky to claim as #trans, and yet, none of those other labels are as authentic, none require as much vulnerability to share.&lt;&#x2F;p&gt;
 &lt;p&gt;Reflecting on my childhood reveals a difficult truth: when I was in primary school, I was one of the girls. Everyone (except me) knew it, but in a small southern California town in 1992, none of us had the social vocabulary to talk about gender fluidity, least of all me. By the time I turned 16, I had figured out how to pass as though I was over 21, and very clearly “a man”, because this made it much safer to exist in public.&lt;&#x2F;p&gt;
