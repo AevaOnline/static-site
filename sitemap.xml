@@ -66,6 +66,10 @@
         <lastmod>2021-02-01</lastmod>
     </url>
     <url>
+        <loc>/journal/2021-osi-platform/</loc>
+        <lastmod>2021-02-21</lastmod>
+    </url>
+    <url>
         <loc>/journal/page/1/</loc>
     </url>
     <url>
@@ -79,6 +83,9 @@
     </url>
     <url>
         <loc>/tags/</loc>
+    </url>
+    <url>
+        <loc>/tags/boards/</loc>
     </url>
     <url>
         <loc>/tags/career/</loc>
@@ -109,6 +116,9 @@
     </url>
     <url>
         <loc>/tags/new-years/</loc>
+    </url>
+    <url>
+        <loc>/tags/opensource/</loc>
     </url>
     <url>
         <loc>/tags/openstack/</loc>

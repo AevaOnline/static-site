@@ -7,7 +7,115 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2021 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Open Source Initiative: 2021 Platform</title>
+            <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
+            <link>/journal/2021-osi-platform/</link>
+            <guid>/journal/2021-osi-platform/</guid>
+            <description>&lt;hr &#x2F;&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This post is shared on &lt;a href=&quot;https:&#x2F;&#x2F;aeva.online&#x2F;journal&#x2F;2021-osi-platform&#x2F;&quot;&gt;my personal site&lt;&#x2F;a&gt; and on the &lt;a href=&quot;https:&#x2F;&#x2F;wiki.opensource.org&#x2F;bin&#x2F;Main&#x2F;OSI%20Board%20of%20Directors&#x2F;Board%20Member%20Elections&#x2F;2021%20Individual%20and%20Affiliate%20Elections&#x2F;Black2021&#x2F;&quot;&gt;2021 OSI Board Elections page&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;about-me&quot;&gt;About Me&lt;a class=&quot;zola-anchor&quot; href=&quot;#about-me&quot; aria-label=&quot;Anchor link for: about-me&quot;&gt;§&lt;&#x2F;a&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;I am a software engineer, a buddhist, and a trans and non-binary person. Today,
+I work as the Open Source Program Manager for the Azure Confidential Compute
+team, for which I engage in technical and community building work in both the
+&lt;a href=&quot;https:&#x2F;&#x2F;confidentialcomputing.io&quot;&gt;Confiential Computing Consortium&lt;&#x2F;a&gt; (CCC) and
+&lt;a href=&quot;https:&#x2F;&#x2F;cncf.io&quot;&gt;Cloud Native Computing Foundation&lt;&#x2F;a&gt; (CNCF). I am also a member
+of the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;kubernetes&#x2F;community&#x2F;tree&#x2F;master&#x2F;committee-code-of-conduct&quot;&gt;Kubernetes Code of Conduct
+Committee&lt;&#x2F;a&gt;,
+to which I&#x27;ve brought a framework for Consent Culture and a Restorative
+approach to our incident handling procedures. I previously served on the
+&lt;a href=&quot;https:&#x2F;&#x2F;www.openstack.org&#x2F;blog&#x2F;open-mic-spotlight-devananda-van-der-veen&#x2F;&quot;&gt;OpenStack Technical
+Committee&lt;&#x2F;a&gt;,
+led the OpenStack Ironic project team, served as a board member for the
+&lt;a href=&quot;https:&#x2F;&#x2F;www.consent.academy&#x2F;&quot;&gt;Consent Academy&lt;&#x2F;a&gt;. I was an active participant in
+the MySQL community for years, and have contributed to many other projects,
+such as Ansible, Matrix, Mixxx, Elastic, and OpenVZ.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;views-on-open-source&quot;&gt;Views On Open Source&lt;a class=&quot;zola-anchor&quot; href=&quot;#views-on-open-source&quot; aria-label=&quot;Anchor link for: views-on-open-source&quot;&gt;§&lt;&#x2F;a&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;In 2021, open source software is used at every company and in many physical
+products we rely on, from phones to fridges to cars. As a result, some (mostly
+outside this community) now believe that &amp;quot;open source&amp;quot; is a business model (not
+true), or a that &amp;quot;open sourcing&amp;quot; something is a one-off event (also not true).
+This lexical confusion continues to pose a risk: views not grounded in
+experience and an understanding of the legal framework (licensing and
+governance) belie the complexity of choices which ultimately shape the
+communities of successful open source projects, and a proliferation of
+mismanaged open source software projects will create unnecessary security and
+legal risk for our institutions.&lt;&#x2F;p&gt;
+&lt;p&gt;To counter this, I believe we need to increase educational outreach, with
+specific focuses on:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;educating business leaders to empower them with the lexical tools to engage
+in nuanced discussions about open source strategy; &lt;&#x2F;li&gt;
+&lt;li&gt;encouraging lawyers to develop a deeper understanding at the intersection of
+data privacy, technology (ab)use, and international copyright;&lt;&#x2F;li&gt;
+&lt;li&gt;engaging in the discussion around open source software supply chain security
+as a community issue.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;I agree with the objectives others have stated in previous years, that the OSI
+be sufficiently funded that this work does not entirely fall on volunteers, and
+would like to see outreach to grow the affiliate network continue so we can
+support increasing staff dedicated to this mission.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;broader-concerns&quot;&gt;Broader Concerns&lt;a class=&quot;zola-anchor&quot; href=&quot;#broader-concerns&quot; aria-label=&quot;Anchor link for: broader-concerns&quot;&gt;§&lt;&#x2F;a&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;Our society is, once again, grappling with the realization that technology is
+not neutral: like any tool, software can be used for both good and evil, to
+uplift or to oppress. In 2015 I was confronted with this, called on to brief a
+foreign military on my open source contributions, it became clear they were
+using software I had built in ways I did not support. &lt;&#x2F;p&gt;
+&lt;p&gt;I appreciate the debate on ethical source licenses, and believe this comes from
+our reflexive care for the impact our work has on society, though I do not
+believe licenses are the right tool for this. We need better laws regulating
+the civil and military use of certain technologies, and for more lawyers to
+become educated in technology and its impact on privacy and civil rights. &lt;&#x2F;p&gt;
+&lt;p&gt;With the current spotlight on the (ab)uses of Facial Recognition Technology,
+which have already resulted in calls to ban FRT &lt;a href=&quot;https:&#x2F;&#x2F;www.banfacialrecognition.com&#x2F;&quot;&gt;in the
+House&lt;&#x2F;a&gt; and in &lt;a href=&quot;https:&#x2F;&#x2F;www.reuters.com&#x2F;article&#x2F;us-washington-tech-idUSKBN21I3AS&quot;&gt;some
+states&lt;&#x2F;a&gt;, I
+believe this will continue to be an important, and emotionally-charged,
+conversation, in the years ahead.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;my-background&quot;&gt;My Background&lt;a class=&quot;zola-anchor&quot; href=&quot;#my-background&quot; aria-label=&quot;Anchor link for: my-background&quot;&gt;§&lt;&#x2F;a&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;In 2003, before I knew about the OSI or OSD, I had an epiphany as I started my
+second job: I could no longer use tools I had built simply because that code
+was owned by my former (and already out of business) employer. That epiphany
+started me down the open source path, and I quickly came to see how this
+approach, if generalized, was more ethical than the alternative: if everyone
+could share their tools, we could all build better technolgy (and products)
+faster. Automation, the &lt;em&gt;building and sharing&lt;&#x2F;em&gt; of tools so that others may more
+quickly create better tools, is &lt;a href=&quot;https:&#x2F;&#x2F;aeon.co&#x2F;essays&#x2F;the-offloading-ape-the-human-is-the-beast-that-automates&quot;&gt;one of humanity&#x27;s greatest and most unique
+strengths&lt;&#x2F;a&gt;
+(not my article, but captures my views well). &lt;&#x2F;p&gt;
+&lt;p&gt;In the early 2010&#x27;s, while building OpenStack, I had the opportunity to work
+with several of OSI&#x27;s former board members, who helped me deepen my
+understanding of the effect which the OSD had had on my career (unbeknownst to
+me before that). I&#x27;ve come to value this framework and the thought and care that
+has gone into creating and sustaining it over the years. I would like the 
+opportunity to contribute back to the community.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-s-in-a-name&quot;&gt;What&#x27;s In A Name?&lt;a class=&quot;zola-anchor&quot; href=&quot;#what-s-in-a-name&quot; aria-label=&quot;Anchor link for: what-s-in-a-name&quot;&gt;§&lt;&#x2F;a&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;If you&#x27;ve known me for more than the last few years, you would have known me
+with a different name: &amp;quot;Devananda&amp;quot; never felt appropriate, only barely
+sufficient. The timing of the pandemic and the nature of
+open source community interaction means that I haven&#x27;t had the chance to
+connect with a lot of old colleagues and friends since changing my name. Humans
+are social by nature, and our identities, even our sense of self, is deeply
+connected to how our family, friends, and community know us. However, like open
+source software projects that sometimes must rebrand themselves, I found that I
+needed to change my name, no matter how disruptive it would be.  I mention this
+here in the hopes of connecting with folks who may not recognize &amp;quot;Aeva&amp;quot;, but
+who would recognize my previous name.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;contact&quot;&gt;Contact&lt;a class=&quot;zola-anchor&quot; href=&quot;#contact&quot; aria-label=&quot;Anchor link for: contact&quot;&gt;§&lt;&#x2F;a&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;You can reach me on &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;aevavoom&quot;&gt;Twitter at @aevavoom&lt;&#x2F;a&gt; or by
+email at &amp;quot;aeva at aeva dot online&amp;quot;. More ways to contact me can be &lt;a href=&quot;https:&#x2F;&#x2F;aeva.online&#x2F;contact&quot;&gt;found
+here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</description>
+        </item>
         <item>
             <title>New Site, Who Dis?</title>
             <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
