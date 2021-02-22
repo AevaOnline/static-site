@@ -25,7 +25,6 @@
     </url>
     <url>
         <loc>/journal/2019-in-review/</loc>
-        <lastmod>2019-12-31</lastmod>
     </url>
     <url>
         <loc>/journal/2019-jeeping-about/</loc>
@@ -43,7 +42,6 @@
     </url>
     <url>
         <loc>/journal/2019-transitioning-is-strength/</loc>
-        <lastmod>2019-12-15</lastmod>
     </url>
     <url>
         <loc>/journal/2019-what-happened-openstack/</loc>
@@ -70,6 +68,10 @@
         <lastmod>2021-02-21</lastmod>
     </url>
     <url>
+        <loc>/journal/2021-reflecting-on-2020/</loc>
+        <lastmod>2021-02-07</lastmod>
+    </url>
+    <url>
         <loc>/journal/page/1/</loc>
     </url>
     <url>
@@ -85,16 +87,10 @@
         <loc>/tags/</loc>
     </url>
     <url>
-        <loc>/tags/career/</loc>
-    </url>
-    <url>
         <loc>/tags/cloud/</loc>
     </url>
     <url>
         <loc>/tags/covid/</loc>
-    </url>
-    <url>
-        <loc>/tags/friends/</loc>
     </url>
     <url>
         <loc>/tags/gender/</loc>
