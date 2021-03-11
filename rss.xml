@@ -7,7 +7,16 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Sun, 21 Feb 2021 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Answers to Luis Villa&#x27;s Four Questions</title>
+            <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+            <link>/journal/2021-osi-four-questions/</link>
+            <guid>/journal/2021-osi-four-questions/</guid>
+            <description>&lt;p&gt;Luis Villa &lt;a href=&quot;https:&#x2F;&#x2F;opensource.com&#x2F;article&#x2F;21&#x2F;3&#x2F;board-elections-osi&quot;&gt;posted a series of questions on opensource.com&lt;&#x2F;a&gt; for this year&#x27;s OSI Board Nominees to answer.&lt;&#x2F;p&gt;
+&lt;p&gt;In this post, I share my thoughts.&lt;&#x2F;p&gt;
+</description>
+        </item>
         <item>
             <title>Open Source Initiative: 2021 Platform</title>
             <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
