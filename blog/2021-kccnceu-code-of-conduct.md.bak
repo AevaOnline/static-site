@@ -1,0 +1,113 @@
++++
+title = "Keynoting at KubeCon Cloud Native Con EU"
+description = "The Code of Conduct Committee and the Steering Committee gave a keynote together. It was inspired, if I dare say so mayself."
+
+date = 2020-05-26
+draft = true
+
+[taxonomies]
+tags = ["kubernetes", "conferences", "talks"]
++++
+
+## Deciding to do a Keynote
+
+About a month ago, while wrapping up an investigation  into a Code of Conduct Incident -- I've been a part of the Kubernetes CoC Committee for almost two years now -- it really felt important to bring a broader awareness to the community. All of the folks working behind the scenes to support our culture were starting to feel exhausted and simultaneously galvanized in the work we're doing.
+
+So I suggested that we do a Keynote on it. With the Kubernetes Steering Committee.
+
+For those that don't know (and we've written and talked about this a few times, but it's probably not common knowledge yet), these two bodies are intentionally set up to hold each other accountable while having independent authority within Kubernetes. Every SIG and WG in Kubernetes "reports" up to the Steering Committee -- but Code of Conduct does not. There are historical reasons, and there are practical reasons, why we're independent, but let's set that aside for now.
+
+When I suggested the Keynote, everyone was excited to help! And then it got announced. *\*gulp\**
+
+We sketched out the flow, wrote the talk, and after half a dozen takes felt that we had one that was good enough that we shipped it.
+
+And I was a nervous ball of nerves after that, because I chose to say something bold and potentially controversial.
+
+    "If you don't believe in our values, open source has a release valve. You're free to leave." 
+
+Over the week leading up to KubeCon, the Basecamp saga unfolded, and I became more certain that I had said the right thing.
+
+## Basecamp
+
+If you've been hiding under a rock (or just avoiding the internet DiScOuRsE for a while), here's what happened. DHH and Fried (the founders of Basecamp)  banned "political discussions" on any official company channels, while rejecting their employee's feedback that many of *their own* statements had been racist, then posted about it on Twitter, and then doubled (and tripled!) down on this stance publicly.
+
+And about 30% of the company left.
+
+I won't summarize more, but you can read all about it here:
+https://www.theverge.com/2021/5/4/22419799/basecamp-ceo-apologizes-staff-new-post
+
+
+You see, the problem with a 'no politics' policy is that it prevents speaking up about harms - unequal wages, maternity leave, racist jokes, *making fun of customer names*, exluding queer/trans folk, respecting people's pronouns, and countless other micro-aggressions that lead minorities to feel *othered* at work. When these are pejoratively labelled as 'political discourse' by people in positions of greater privilege, it prevents a community (or a workplace) from addressing inequality and leads those minorities to feel excluded, undervalued, and unwelcome.
+
+It's no surprise that so many people left Basecamp.
+
+Imagine that you're part of a group. People in the group are not aware that they keep stepping on your toes. But you're not allowed to tell them! You have no hope this situation will ever change. You leave.
+
+That's what micro-aggressions feel like.
+
+You see, when we are discouraged and prevented from discussing our "feelings", minorities have no hope of improving inequalities.
+
+"Turn the other cheek and the bully will stop" is something I heard growing up. It's completely terrible advice -- it places the responsibility on the victim of bullying, while absolving the bully from any accountability to the harms they cause.
+
+"No politics at work" is pretty similar. In the context this was said at Basecamp, it's clear this meant "stop speaking up when you see injustice and racism."
+
+But now I've grumped enough ... let's get back to Kubernetes and happier things :)
+
+## Our Values
+
+Kubernetes was founded on a set of values which might not seem typical for an open source technology project, but I believe these have been *the* key  
+
+Building inclusive communities requires us to be tolerant of differences, and to empathise with each other. 
+
+We don't have to agree, but we have to practice both consent and compassion in all our interactions.
+
+
+
+Have you heard of the Paradox of Tolerance? It says that a tolerant society MUST NOT tolerate intolerance.
+
+This is key to creating inclusive & diverse communities, companies, and societies.
+
+
+Oops! I said I wasn't going to give any spoilers, but I'm going to spill a few beans now ;)
+
+
+
+#Kubernetes is widely known to be a diverse and inclusive community! It's pretty dang awesome that way.
+
+This isn't an accident - our community leadership has put a lot of thought (and hard work!) into building an inclusive and diverse community.
+
+
+Our community leaders - from Steering and Code of Conduct and SIG chairs, to our GitHub and Slack admins, to ContribEx members, and even our KubeCon Track Chairs - everyone works behind the scenes to embody our cultural values.
+
+
+A lot of that work goes unnoticed. We no longer believe that the community is best served by us keeping the amount of incidents we handle hidden from you.
+
+
+
+
+
+
+
+Yesterday, they posted an empty apology.
+
+I say "empty" b/c Fried said "sorry" but didnt address what he did wrong. 
+
+https://world.hey.com/jason/an-update-303f2f99
+
+
+"I'm sorry you're upset" is not an effective apology. There are lots of great resources for how to apologize. Here's one:
+
+https://greatergood.berkeley.edu/article/item/the_three_parts_of_an_effective_apology
+
+
+
+Fried's post stops after at step 1. It doesn't admit the mistake or the impact it had to employees (he only admits the impact it had to *him* and *his company*). It doesn't include any reparations for employees who chose to stay.
+
+
+
+
+
+
+
+
+

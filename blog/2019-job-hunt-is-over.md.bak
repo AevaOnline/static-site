@@ -1,0 +1,41 @@
++++
+title = "The Job Hunt Is Over"
+description = "It’s been a month now since I signed an employment contract with Microsoft."
+date = 2019-10-05
+
+[taxonomies]
+tags = ["job", "update", "microsoft"]
++++
+
+It’s been a month now since I signed an employment contract with Microsoft.
+
+You read that correctly — the giant tech company which I swore, back in the 90’s, I would never work for. Even though most of my colleagues have been very encouraging, even reminding me that Microsoft isn’t as monopolistic or walled-off as it once was, there are still some things which bear clarification (especially for any readers that have known me during the OpenStack or MySQL days).
+<!-- more -->
+
+---
+
+First off, no, I’m not leaving open source. I believe that _humanity’s growth accelerates by sharing our tools_. For any business, it is important to delineate which software provides specific & unique value, and then to weigh the cost of privately maintaining those tools vs. the cost of participating in shared development of those tools. In my experience, it’s almost always better to share the tools.
+
+I look forward to bringing this view with me to work every day, and (as far as I can tell) my current employer appreciates this view more than many other companies I’ve worked for in the past.
+
+---
+
+Since the end of 2016, I haven’t been active in any particular upstream community. Between trying to run an OpenStack-based cloud hosting company, the end of that position, _coming out as trans_, and my dreadful job hunt ever since (which I _rarely talk about_) … I haven’t had the funding to travel to a lot of conferences that I used to.
+
+I am exceedingly grateful to travel support programs and generous friends that gave me places to crash so I could get to #LesbiansWhoTech, #ML4ALL, #OpenStackSummit, and #DEFCON this year. And it was delightful to see friends when I made it out to OpenStack Denver, even if I’m not an active contributor any longer. <3’s to you all!
+
+In this time, my focus has shifted away from “do F/OSS for F/OSS’s sake” to accommodate a more nuanced view of the impact we – software developers – have. I spent a lot of time reflecting on how ML/AI is reshaping our society, and on how cloud technology already has.
+
+I’ve seen OpenStack Ironic used in places that I would never have wanted my creations to be: surveillance industries and even a foreign military.
+
+I also have the incredible satisfaction of knowing some amazing scientific research powered by that same code: Ironic is enabling scientists to study particle collisions and work on cancer cures.
+
+---
+
+So anyway… my attention has shifted towards social and societal issues: trans rights, surveillance capitalism, digital freedoms, the right of all humans to self-determination and self-expression. I’m trying to catch up and learning a lot from others’ research in this area, and have begun giving talks on the impact of Machine Learning. I also hold a seat on the board of a non-profit that teaches about consent culture, and I was just elected to a seat on the Kubernetes Code of Conduct Committee.
+
+Being paid specifically to build open source software is just one way I can work to make the world more open and inclusive. Having enough money and time that I can support causes is another path, as is advocating for change from within a large organization.
+
+2020 is going to see me doing all three of these…
+
+__Wish me luck!__

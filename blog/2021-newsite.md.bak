@@ -1,0 +1,25 @@
++++
+title = "New Site, Who Dis?"
+date = 2021-02-01
+
+[taxonomies]
+tags = ["website", "update"]
++++
+
+I thought that migrationg to a static site generator would be a good motivation to spend more time learning Rust ... but once I compiled Rust, and compiled Zola, everything else was just a matter of getting the templating to render well and fiddling with my build-publish workflow. Oh well. I still have a new site that I'm much happier with :)
+<!-- more -->
+
+Oh, and I copied in most, but not quite all, of my previous blog's posts.
+
+The build-publish workflow is pretty simple, and this should be much easier to maintain than my last site:
+
+- 'Zola' for the templating engine and site generation, with the 'Zerm' theme
+- I simply edit a Markdown file for each post, maybe add some photos
+- run a shell script which:
+  - invokes `zola build` to render the static site
+  - copies the static site into a docker container for testing
+  - and copies it into another git repo that only holds the static site
+- I test locally using the container, and if I like it, push the static site to GitHub Pages, which renders it at https://aeva.online/
+
+If I wanted to migrate off of GitHub Pages, it should be trivial: I could easily run this docker image on a RasPi, for instance, or on any VM.
+
