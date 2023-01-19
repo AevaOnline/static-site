@@ -7,7 +7,15 @@
         <generator>Zola</generator>
         <language>en</language>
         <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Open Source Security Policy Conundrum</title>
+            <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+            <link>/blog/2023-oss-security-conundrum/</link>
+            <guid>/blog/2023-oss-security-conundrum/</guid>
+            <description>&lt;p&gt;Policy makers in both the US and the EU are currently debating several efforts to improve the security of digital infrastructure, including broad new regulations such as &lt;a href=&quot;https:&#x2F;&#x2F;www.congress.gov&#x2F;bill&#x2F;117th-congress&#x2F;senate-bill&#x2F;4913&quot;&gt;SOSSA&lt;&#x2F;a&gt; and the &lt;a href=&quot;https:&#x2F;&#x2F;digital-strategy.ec.europa.eu&#x2F;en&#x2F;library&#x2F;cyber-resilience-act&quot;&gt;CRA&lt;&#x2F;a&gt;. In light of high profile recent events, we are all aware that open source software is a critical part of software infrastructure as a whole. Security issues related to popular open source projects are in the news and in policy conversations. As open source professionals, we hope that policy makers carefully consider the distinction between open source projects and products. &lt;&#x2F;p&gt;
+</description>
+        </item>
         <item>
             <title>Answers to Luis Villa&#x27;s Four Questions</title>
             <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>

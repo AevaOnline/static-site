@@ -83,6 +83,10 @@
         <loc>/blog/2021-story-changes-culture-orig-unpub/</loc>
     </url>
     <url>
+        <loc>/blog/2023-oss-security-conundrum/</loc>
+        <lastmod>2023-01-19</lastmod>
+    </url>
+    <url>
         <loc>/blog/page/1/</loc>
     </url>
     <url>
@@ -141,6 +145,12 @@
     </url>
     <url>
         <loc>/tags/openstack/</loc>
+    </url>
+    <url>
+        <loc>/tags/policy/</loc>
+    </url>
+    <url>
+        <loc>/tags/security/</loc>
     </url>
     <url>
         <loc>/tags/trans/</loc>
