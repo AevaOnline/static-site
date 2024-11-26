@@ -2,86 +2,78 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Aeva :: Online</title>
-      <link>/</link>
-      <description>A Brief History of A Road Less Travelled</description>
-      <generator>Zola</generator>
-      <language>en</language>
-      <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
-      <item>
-          <title>Open Source Security Policy Conundrum</title>
-          <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>/blog/2023-oss-security-conundrum/</link>
-          <guid>/blog/2023-oss-security-conundrum/</guid>
-          <description xml:base="/blog/2023-oss-security-conundrum/">&lt;p&gt;Policy makers in both the US and the EU are currently debating several efforts to improve the security of digital infrastructure, including broad new regulations such as &lt;a href=&quot;https:&#x2F;&#x2F;www.congress.gov&#x2F;bill&#x2F;117th-congress&#x2F;senate-bill&#x2F;4913&quot;&gt;SOSSA&lt;&#x2F;a&gt; and the &lt;a href=&quot;https:&#x2F;&#x2F;digital-strategy.ec.europa.eu&#x2F;en&#x2F;library&#x2F;cyber-resilience-act&quot;&gt;CRA&lt;&#x2F;a&gt;. In light of high profile recent events, we are all aware that open source software is a critical part of software infrastructure as a whole. Security issues related to popular open source projects are in the news and in policy conversations. As open source professionals, we hope that policy makers carefully consider the distinction between open source projects and products. &lt;&#x2F;p&gt;
+        <link>/</link>
+        <description>A Brief History of A Road Less Travelled</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Open Source Security Policy Conundrum</title>
+            <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+            <link>/blog/2023-oss-security-conundrum/</link>
+            <guid>/blog/2023-oss-security-conundrum/</guid>
+            <description>&lt;p&gt;Policy makers in both the US and the EU are currently debating several efforts to improve the security of digital infrastructure, including broad new regulations such as &lt;a href=&quot;https:&#x2F;&#x2F;www.congress.gov&#x2F;bill&#x2F;117th-congress&#x2F;senate-bill&#x2F;4913&quot;&gt;SOSSA&lt;&#x2F;a&gt; and the &lt;a href=&quot;https:&#x2F;&#x2F;digital-strategy.ec.europa.eu&#x2F;en&#x2F;library&#x2F;cyber-resilience-act&quot;&gt;CRA&lt;&#x2F;a&gt;. In light of high profile recent events, we are all aware that open source software is a critical part of software infrastructure as a whole. Security issues related to popular open source projects are in the news and in policy conversations. As open source professionals, we hope that policy makers carefully consider the distinction between open source projects and products. &lt;&#x2F;p&gt;
 </description>
-      </item>
-      <item>
-          <title>Answers to Luis Villa&#x27;s Four Questions</title>
-          <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>/blog/2021-osi-four-questions/</link>
-          <guid>/blog/2021-osi-four-questions/</guid>
-          <description xml:base="/blog/2021-osi-four-questions/">&lt;p&gt;Luis Villa &lt;a href=&quot;https:&#x2F;&#x2F;opensource.com&#x2F;article&#x2F;21&#x2F;3&#x2F;board-elections-osi&quot;&gt;posted a series of questions on opensource.com&lt;&#x2F;a&gt; for this year&#x27;s OSI Board Nominees to answer.&lt;&#x2F;p&gt;
+        </item>
+        <item>
+            <title>Answers to Luis Villa&#x27;s Four Questions</title>
+            <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+            <link>/blog/2021-osi-four-questions/</link>
+            <guid>/blog/2021-osi-four-questions/</guid>
+            <description>&lt;p&gt;Luis Villa &lt;a href=&quot;https:&#x2F;&#x2F;opensource.com&#x2F;article&#x2F;21&#x2F;3&#x2F;board-elections-osi&quot;&gt;posted a series of questions on opensource.com&lt;&#x2F;a&gt; for this year&#x27;s OSI Board Nominees to answer.&lt;&#x2F;p&gt;
 &lt;p&gt;In this post, I share my thoughts.&lt;&#x2F;p&gt;
 </description>
-      </item>
-      <item>
-          <title>Open Source Initiative: 2021 Platform</title>
-          <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>/blog/2021-osi-platform/</link>
-          <guid>/blog/2021-osi-platform/</guid>
-          <description xml:base="/blog/2021-osi-platform/">&lt;blockquote&gt;
+        </item>
+        <item>
+            <title>Open Source Initiative: 2021 Platform</title>
+            <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
+            <link>/blog/2021-osi-platform/</link>
+            <guid>/blog/2021-osi-platform/</guid>
+            <description>&lt;blockquote&gt;
 &lt;p&gt;This is my official announcement post for my candidacy for the OSI Board of Directors in 2021. Read on for the description of my platform and goals.
 This post is shared on &lt;a href=&quot;https:&#x2F;&#x2F;aeva.online&#x2F;journal&#x2F;2021-osi-platform&#x2F;&quot;&gt;my personal site&lt;&#x2F;a&gt; and on the &lt;a href=&quot;https:&#x2F;&#x2F;wiki.opensource.org&#x2F;bin&#x2F;Main&#x2F;OSI%20Board%20of%20Directors&#x2F;Board%20Member%20Elections&#x2F;2021%20Individual%20and%20Affiliate%20Elections&#x2F;Black2021&#x2F;&quot;&gt;2021 OSI Board Elections page&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 </description>
-      </item>
-      <item>
-          <title>An overdue reflection on 2020</title>
-          <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>/blog/2021-reflecting-on-2020/</link>
-          <guid>/blog/2021-reflecting-on-2020/</guid>
-          <description xml:base="/blog/2021-reflecting-on-2020/">&lt;p&gt;I try to journal around New Years every year. I&#x27;m running late this year, but with good reason - I had top surgery in December and wasn&#x27;t able to sit at my desk and comfortably write for a few weeks. By the time I could, I was swamped at work and focusing on that. Check back for a follow-up to this post when I get around to actually writing it 😅&lt;&#x2F;p&gt;
+        </item>
+        <item>
+            <title>An overdue reflection on 2020</title>
+            <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+            <link>/blog/2021-reflecting-on-2020/</link>
+            <guid>/blog/2021-reflecting-on-2020/</guid>
+            <description>&lt;p&gt;I try to journal around New Years every year. I&#x27;m running late this year, but with good reason - I had top surgery in December and wasn&#x27;t able to sit at my desk and comfortably write for a few weeks. By the time I could, I was swamped at work and focusing on that. Check back for a follow-up to this post when I get around to actually writing it 😅&lt;&#x2F;p&gt;
 </description>
-      </item>
-      <item>
-          <title>New Site, Who Dis?</title>
-          <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>/blog/2021-newsite/</link>
-          <guid>/blog/2021-newsite/</guid>
-          <description xml:base="/blog/2021-newsite/">&lt;p&gt;I thought that migrationg to a static site generator would be a good motivation to spend more time learning Rust ... but once I compiled Rust, and compiled Zola, everything else was just a matter of getting the templating to render well and fiddling with my build-publish workflow. Oh well. I still have a new site that I&#x27;m much happier with :)&lt;&#x2F;p&gt;
+        </item>
+        <item>
+            <title>New Site, Who Dis?</title>
+            <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+            <link>/blog/2021-newsite/</link>
+            <guid>/blog/2021-newsite/</guid>
+            <description>&lt;p&gt;I thought that migrationg to a static site generator would be a good motivation to spend more time learning Rust ... but once I compiled Rust, and compiled Zola, everything else was just a matter of getting the templating to render well and fiddling with my build-publish workflow. Oh well. I still have a new site that I&#x27;m much happier with :)&lt;&#x2F;p&gt;
 </description>
-      </item>
-      <item>
-          <title>Identity Vectors</title>
-          <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>/blog/2020-identity-vectors/</link>
-          <guid>/blog/2020-identity-vectors/</guid>
-          <description xml:base="/blog/2020-identity-vectors/">&lt;p&gt;It’s hard to believe that I’ve been at Microsoft for almost a year now — and that I came down with COVID-19 six and a half months ago. When I look back at the tumultuous political landscape that is 2020, these two events will doubtless color my memories of this year in ways that I can not yet really understand.&lt;&#x2F;p&gt;
+        </item>
+        <item>
+            <title>Identity Vectors</title>
+            <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+            <link>/blog/2020-identity-vectors/</link>
+            <guid>/blog/2020-identity-vectors/</guid>
+            <description>&lt;p&gt;It’s hard to believe that I’ve been at Microsoft for almost a year now — and that I came down with COVID-19 six and a half months ago. When I look back at the tumultuous political landscape that is 2020, these two events will doubtless color my memories of this year in ways that I can not yet really understand.&lt;&#x2F;p&gt;
 </description>
-      </item>
-      <item>
-          <title>Six to Eight Weeks</title>
-          <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>/blog/2020-six-to-eight-weeks/</link>
-          <guid>/blog/2020-six-to-eight-weeks/</guid>
-          <description xml:base="/blog/2020-six-to-eight-weeks/">&lt;p&gt;The doctors told me that it takes six to eight weeks – on average – for healthy folks with my symptoms to recover. It took more than six months.&lt;&#x2F;p&gt;
+        </item>
+        <item>
+            <title>Six to Eight Weeks</title>
+            <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+            <link>/blog/2020-six-to-eight-weeks/</link>
+            <guid>/blog/2020-six-to-eight-weeks/</guid>
+            <description>&lt;p&gt;The doctors told me that it takes six to eight weeks – on average – for healthy folks with my symptoms to recover. It took more than six months.&lt;&#x2F;p&gt;
 </description>
-      </item>
-      <item>
-          <title>Transitioning Is an Act of Strength</title>
-          <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>/blog/2019-transitioning-is-strength/</link>
-          <guid>/blog/2019-transitioning-is-strength/</guid>
-          <description xml:base="/blog/2019-transitioning-is-strength/">&lt;blockquote&gt;
+        </item>
+        <item>
+            <title>Transitioning Is an Act of Strength</title>
+            <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+            <link>/blog/2019-transitioning-is-strength/</link>
+            <guid>/blog/2019-transitioning-is-strength/</guid>
+            <description>&lt;blockquote&gt;
 &lt;p&gt;You gave up everything I’ve spent my life fighting for.
 I can’t imagine how much you must have been hurting inside to choose to do that.&lt;&#x2F;p&gt;
 &lt;ul&gt;
@@ -89,66 +81,60 @@ I can’t imagine how much you must have been hurting inside to choose to do tha
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;blockquote&gt;
 </description>
-      </item>
-      <item>
-          <title>The Job Hunt Is Over</title>
-          <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>/blog/2019-job-hunt-is-over/</link>
-          <guid>/blog/2019-job-hunt-is-over/</guid>
-          <description xml:base="/blog/2019-job-hunt-is-over/">&lt;p&gt;It’s been a month now since I signed an employment contract with Microsoft.&lt;&#x2F;p&gt;
+        </item>
+        <item>
+            <title>The Job Hunt Is Over</title>
+            <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
+            <link>/blog/2019-job-hunt-is-over/</link>
+            <guid>/blog/2019-job-hunt-is-over/</guid>
+            <description>&lt;p&gt;It’s been a month now since I signed an employment contract with Microsoft.&lt;&#x2F;p&gt;
 &lt;p&gt;You read that correctly — the giant tech company which I swore, back in the 90’s, I would never work for. Even though most of my colleagues have been very encouraging, even reminding me that Microsoft isn’t as monopolistic or walled-off as it once was, there are still some things which bear clarification (especially for any readers that have known me during the OpenStack or MySQL days).&lt;&#x2F;p&gt;
 </description>
-      </item>
-      <item>
-          <title>Gender Markers</title>
-          <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>/blog/2019-gender-markers/</link>
-          <guid>/blog/2019-gender-markers/</guid>
-          <description xml:base="/blog/2019-gender-markers/">&lt;p&gt;&lt;em&gt;(content warning: gender issues and gender-based violence, no specifics but still may be difficult for some)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+        </item>
+        <item>
+            <title>Gender Markers</title>
+            <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+            <link>/blog/2019-gender-markers/</link>
+            <guid>/blog/2019-gender-markers/</guid>
+            <description>&lt;p&gt;&lt;em&gt;(content warning: gender issues and gender-based violence, no specifics but still may be difficult for some)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;p&gt;Yesterday, the Washington State Department of Licensing held a public hearing for comments on the proposed legislation to add an ‘X’ gender marker option on state-issued ID’s. I chose to go and stand up for all the non-binary, intersex, and transgender members of my communities.&lt;&#x2F;p&gt;
 </description>
-      </item>
-      <item>
-          <title>Rebuilding my miniserver</title>
-          <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>/blog/2019-rebuilding-my-miniserver/</link>
-          <guid>/blog/2019-rebuilding-my-miniserver/</guid>
-          <description xml:base="/blog/2019-rebuilding-my-miniserver/">&lt;p&gt;CONTENT MISSING&lt;&#x2F;p&gt;
+        </item>
+        <item>
+            <title>Rebuilding my miniserver</title>
+            <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+            <link>/blog/2019-rebuilding-my-miniserver/</link>
+            <guid>/blog/2019-rebuilding-my-miniserver/</guid>
+            <description>&lt;p&gt;CONTENT MISSING&lt;&#x2F;p&gt;
 </description>
-      </item>
-      <item>
-          <title>What&#x27;s in a Name?</title>
-          <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>/blog/2019-whats-in-a-name/</link>
-          <guid>/blog/2019-whats-in-a-name/</guid>
-          <description xml:base="/blog/2019-whats-in-a-name/">&lt;p&gt;A MAN IN A frock held up his right hand and said a few words, and I got to fill out some paperwork. It is strange that this process makes me feel better about myself. I abhor paperwork.&lt;&#x2F;p&gt;
+        </item>
+        <item>
+            <title>What&#x27;s in a Name?</title>
+            <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+            <link>/blog/2019-whats-in-a-name/</link>
+            <guid>/blog/2019-whats-in-a-name/</guid>
+            <description>&lt;p&gt;A MAN IN A frock held up his right hand and said a few words, and I got to fill out some paperwork. It is strange that this process makes me feel better about myself. I abhor paperwork.&lt;&#x2F;p&gt;
 </description>
-      </item>
-      <item>
-          <title>What Happened To OpenStack</title>
-          <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>/blog/2019-what-happened-openstack/</link>
-          <guid>/blog/2019-what-happened-openstack/</guid>
-          <description xml:base="/blog/2019-what-happened-openstack/">&lt;p&gt;The project is still quite healthy and is following the usual hype curve: OpenStack is finally mature enough that it’s less interesting to talk about, so it’s understandable that people think &lt;em&gt;something&lt;&#x2F;em&gt; happened.&lt;&#x2F;p&gt;
+        </item>
+        <item>
+            <title>What Happened To OpenStack</title>
+            <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+            <link>/blog/2019-what-happened-openstack/</link>
+            <guid>/blog/2019-what-happened-openstack/</guid>
+            <description>&lt;p&gt;The project is still quite healthy and is following the usual hype curve: OpenStack is finally mature enough that it’s less interesting to talk about, so it’s understandable that people think &lt;em&gt;something&lt;&#x2F;em&gt; happened.&lt;&#x2F;p&gt;
 &lt;p&gt;The folks asking me this question are generally curios and good intentioned, and I think my answer says a lot about my professional background, so even during an interview I indulge in a short ramble.&lt;&#x2F;p&gt;
 &lt;p&gt;I know, I know … I should have written about it at the time, but I had other things going on and wasn’t making space in my life to write. So I’ve decided to revisit the topic today. Next time someone asks me, I’ll just point them here 😉&lt;&#x2F;p&gt;
 </description>
-      </item>
-      <item>
-          <title>Hi, I&#x27;m queer and trans</title>
-          <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
-          <author>Unknown</author>
-          <link>/blog/2019-hi-queer-trans/</link>
-          <guid>/blog/2019-hi-queer-trans/</guid>
-          <description xml:base="/blog/2019-hi-queer-trans/">&lt;p&gt;There’s something I need to get off my chest.&lt;&#x2F;p&gt;
+        </item>
+        <item>
+            <title>Hi, I&#x27;m queer and trans</title>
+            <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+            <link>/blog/2019-hi-queer-trans/</link>
+            <guid>/blog/2019-hi-queer-trans/</guid>
+            <description>&lt;p&gt;There’s something I need to get off my chest.&lt;&#x2F;p&gt;
 &lt;p&gt;I’ve used a lot of different labels to describe myself over the years – geek, goth, autodidact, polyglot, kinkster, polyamorous, third-culture kid, dharma bum, database admin, software developer, cloud architect, VP. None feel as risky to claim as #trans, and yet, none of those other labels are as authentic, none require as much vulnerability to share.&lt;&#x2F;p&gt;
 </description>
-      </item>
+        </item>
     </channel>
 </rss>
