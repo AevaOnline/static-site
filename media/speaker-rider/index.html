@@ -1,137 +1,244 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-    <head>
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
-      <!-- Enable responsiveness on mobile devices-->
-      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-
-      <title>Aeva :: Online</title>
+    <!-- Enable responsiveness on mobile devices-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
       
-        <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml">
-      
 
-      
-          <link rel="stylesheet" href="/site.css">
-      
-
-      
-      
-    </head>
-
-    <body class="hack dark main container">
-        
+    <title>
     
+    Speaker&#x27;s Rider
+    
+</title>
+
+    
+    <link
+      rel="alternate"
+      type="application/atom+xml"
+      title="RSS"
+      href="/atom.xml"
+    />
+     
+    <link
+      rel="stylesheet"
+      href="/site.css"
+    />
+      
+  </head>
+
+  <body class="hack dark main container">
+    
+    
+         
+    <header class="nav-header">
+      <nav
+        itemscope
+        itemtype="http://schema.org/SiteNavigationElement"
+        class="navbar"
+      >
+        <div class="nav-links">
+          
+          <a
+            itemprop="url"
+            class=""
+            href="/about/"
+          >
+            <span itemprop="name">Home</span></a
+          >
+          
+          <a
+            itemprop="url"
+            class=""
+            href="/blog/"
+          >
+            <span itemprop="name">Blog</span></a
+          >
+          
+          <a
+            itemprop="url"
+            class=""
+            href="/media/"
+          >
+            <span itemprop="name">Media</span></a
+          >
+          
+          <a
+            itemprop="url"
+            class=""
+            href="/contact/"
+          >
+            <span itemprop="name">Contact Me</span></a
+          >
+          
+        </div>
+      </nav>
+      <div class="user-actions-container">
         
-                
-                    <header>
-                        <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
-                        
-                            <a itemprop="url"
-                               class=""
-                               href="&#x2F;about&#x2F;">
-                                <span itemprop="name">| intro |
-                                </span></a>
-                        
-                            <a itemprop="url"
-                               class=""
-                               href="&#x2F;blog&#x2F;">
-                                <span itemprop="name">blog |
-                                </span></a>
-                        
-                            <a itemprop="url"
-                               class=""
-                               href="&#x2F;media&#x2F;">
-                                <span itemprop="name">media listing |
-                                </span></a>
-                        
-                            <a itemprop="url"
-                               class=""
-                               href="&#x2F;media&#x2F;speaker-rider">
-                                <span itemprop="name">speaker&#x27;s rider |
-                                </span></a>
-                        
-                            <a itemprop="url"
-                               class=""
-                               href="&#x2F;contact&#x2F;">
-                                <span itemprop="name">contact |
-                                </span></a>
-                        
-                            <a itemprop="url"
-                               class=""
-                               href="&#x2F;tags&#x2F;">
-                                <span itemprop="name">search |
-                                </span></a>
-                        
-                        </nav>
-                    </header>
-                    <br><br>
-                
-            
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke-width="1.5"
+          class="search-icon"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z"
+          />
+        </svg>
+        <input type="text" id="search" placeholder="Search..." />
+        <div class="search-results">
+          <div class="search-results__items"></div>
+        </div>
+         
+        <a
+          href="/atom.xml"
+          class="feed-icon"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="/icons/rss.svg"
+            id="rss-icon"
+            alt="RSS feed"
+            class="social-icon"
+          />
+        </a>
+         
+        <a
+          href="https:&#x2F;&#x2F;github.com&#x2F;AevaOnline"
+          class="feed-icon"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="/icons/github.svg"
+            id="github-icon"
+            alt="GitHub"
+            class="social-icon"
+          />
+        </a>
+         
+        <a
+          href="https:&#x2F;&#x2F;linkedin.com&#x2F;in&#x2F;AevaOnline"
+          class="feed-icon"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="/icons/linkedin.svg"
+            id="linkedin-icon"
+            alt="LinkedIn"
+            class="social-icon"
+          />
+        </a>
+         
+        <a
+          href="https:&#x2F;&#x2F;bsky.app&#x2F;profile&#x2F;aeva.online"
+          class="feed-icon"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="/icons/bluesky.svg"
+            id="bluesky-icon"
+            alt="Bluesky"
+            class="social-icon"
+          />
+        </a>
+          | 
+        <a
+          id="dark-mode-toggle"
+          onclick="toggleTheme(); event.preventDefault();"
+          href="#"
+        >
+          <img
+            src="/icons/sun.svg"
+            id="sun-icon"
+            style="filter: invert(1)"
+            alt="Light mode"
+          />
+          <img
+            src="/icons/moon.svg"
+            id="moon-icon"
+            alt="Dark mode"
+          />
+        </a>
+         
+      </div>
+
+      
+      <!-- Set the correct theme in the script -->
+      <script src="/js/toggle-theme.js"></script>
+      
+      <script>
+        setTheme(getSavedTheme());
+      </script>
+      
+    </header>
+     
     
 
 <article itemscope itemtype="http://schema.org/BlogPosting">
     <header>
         <h1 itemprop="headline">Speaker&#x27;s Rider</h1>
         <span class="muted">
-    <svg style="margin-bottom:-3px" class="i-clock" viewBox="0 0 32 32"
-         width="16" height="16" fill="none" stroke="currentcolor"
-         stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-        <circle cx="16" cy="16" r="14"/>
-        <path d="M16 8 L16 16 20 20"/>
-    </svg>
-    <span>7 minute read</span>
-    <svg style="margin-bottom: -3px" class="i-edit" viewBox="0 0 32 32"
-         width="16" height="16" fill="none" stroke="currentcolor"
-         stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
-        <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z"/>
-    </svg>
-
     
 </span>
     </header>
+    
     <div itemprop="articleBody">
-      <h2 id="intro">Intro</h2>
+        
+            <h2 id="intro">Intro</h2>
 <p>Hi there! First, I'm delighted that you're interested in having me speak at your event. I truly love what I do, and I'm always excited for another opportunity to share my knowledge and viewpoints with others. That said, I do have some requirements and standards for accepting an offered speaking slot, submitting to an open CFP, or engaging in any kind of promotion for an event (yes, including retweets).</p>
 <h3 id="code-of-conduct">Code of Conduct</h3>
-<p>Your event must have an explicitly-defined, enforced Code of Conduct linked publicly on your event's website, preferably as a top-level menu item. It should include a clear, readable description of what behavior is and is not acceptable, as well as at least one way for someone to report a violation. A paragraph of legalese buried in the Terms of Use is not sufficient to meet this requirement. If you're looking for inspiration, the <a href="https://github.com/cncf/foundation/blob/master/code-of-conduct.md">CNCF Code of Conduct</a> is a great place to start.</p>
+<p>Your event must have an explicitly-defined, enforced Code of Conduct, which must be linked publicly on your event's website. It should include a clear, readable description of what behavior is and is not acceptable, at least one way for someone to report a violation, and should document the adjudication process. A paragraph of legalese buried in the Terms of Use is not sufficient to meet this requirement. If you're looking for inspiration, the <a href="https://www.kubernetes.dev/community/code-of-conduct/">Kubernetes Code of Conduct</a> is a great place to start.</p>
 <h3 id="speaker-diversity">Speaker Diversity</h3>
 <p>Across your entire event, there must be adequate representation of races, gender identities, and expressions. The exact requirements fluctuate a bit based on the size of the event, but generally, at least 30% of your total speaker lineup should be people who are not cisgender white men. I would strongly prefer not to see singular representation (i.e., only one Black speaker). Making room for new speakers is also important to me; I want to see at least one slot reserved for a person who is not already well-known on the speaking circuit.</p>
 <p>For panels, Birds of a Feather, or any other speaking arrangement consisting of three or more people on stage at a time, there must be at least one speaker who is not a cisgender white male. All male or all white speaking groups are not acceptable.</p>
-<p>I strongly prefer events that clearly communicate each speaker's preferred pronouns, both on the conference website and on badges. </p>
+<p>I strongly prefer events that clearly communicate each speaker's preferred pronouns, both on the conference website and on badges.</p>
 <h3 id="accessibility">Accessibility</h3>
-<p>All areas of the event (including any auxiliary events like official afterparties or co-located events) must be accessible to those who require mobility aids, including stages. </p>
-<p>Captioning should be provided, ideally live by a trained professional. If there is absolutely no other option, auto-generated captioning is not the greatest but will suffice. </p>
+<p>All areas of the event (including any auxiliary events like official afterparties or co-located events) must be accessible to those who require mobility aids, including stages.</p>
+<p>Captioning should be provided, ideally live by a trained professional. If there is absolutely no other option, auto-generated captioning is not the greatest but will suffice.</p>
 <h3 id="costs-for-speakers">Costs for Speakers</h3>
 <p>No part of the cost of speaking at your event should lie with the speaker. My employer will cover airfare and hotel for an event, plus a day on either side of the event dates, if the conference theme or attendee demographic is one that aligns with their goals. If your event does not fit (most do, though!), you must cover a hotel near the conference venue, airfare (preferably on Delta or one of their partner airlines, as I do have status with them), and transportation between the airport and the hotel. Regardless of whether or not my employer covers the cost of my appearance at your event, you must provide me with a full pass for the event.</p>
-<p>If your event is a significant time zone change from me (US Pacific time), I do ask that my arrival flight be booked to arrive a day or two before my speaking slot. </p>
+<p>If your event is a significant time zone change from me (US Pacific time), I do ask that my arrival flight be booked to arrive a day or two before my speaking slot.</p>
 <p>This policy applies to <em>all</em> speakers at an event.</p>
 <h3 id="speaking-fees-and-honorariums">Speaking Fees and Honorariums</h3>
 <p>Since speaking at events like yours is a large part of my job, I do not generally require a speaking fee or an honorarium. This is especially true for non-profits, community events, or events where the cost of attending is heavily reduced.</p>
 <p>For large-scale, corporate event where the organizing company stands to make a profit, or private internal corporate events: in both of these cases, my fee is negotiable based on the size of the event and whether or not I am a keynote speaker. If I am being paid, all other speakers should be paid as well.</p>
 <p>For smaller events, such as non-profits or educational institutions, I may choose to waive my speaking fee, or ask that any honorarium be instead donated to a non-profit that supports civil rights on my behalf.</p>
 <h3 id="intellectual-property">Intellectual Property</h3>
-<p>You may record or stream my event, but I retain ownership over the content of the talk and the right to give the talk at other events at my discretion. If you record or stream a presentation, ensure that it is captioned. Recordings cannot be paywalled (unless I give express, written permission, such as if you have paid me for a private corporate event), and I reserve the right to ask that any recording, audio or video, as well as my likeness, be taken down at any point in the future for any reason of my choosing.</p>
-<p>I can't believe I have to say this, but you absolutely may not use my photo, voice, or any piece of my presentation to mint an NFT.</p>
+<p>You may record or stream my event, but I retain ownership over the content of the talk and the right to give the talk at other events at my discretion. Recordings cannot be paywalled (unless I give express, written permission, such as if you have paid me for a private corporate event), and I reserve the right to ask that any recording, audio or video, as well as my likeness, be taken down at any point in the future for any reason of my choosing.</p>
+<p>If you record or stream a presentation, ensure that it is captioned.</p>
+<p>You MAY NOT use my photo, voice, or any piece of my presentation to train a generative AI or LLM.</p>
 <h3 id="location-policies">Location Policies</h3>
-<p>Your event <em>must</em> be held in a location that is safe for gay and transgender people to attend. This is non-negotiable. </p>
+<p>Your event MUST be held in a location that is safe for gay and transgender people to travel to and attend. This is non-negotiable.</p>
 <p>Your event <em>should</em> be held in a location that is supportive of women's reproductive rights and of all LGBTQI+ people's right to privacy and equality. I may elect to speak at events in unsupportive locations, though in such situations I am more likely to give talks about privacy and security and the importance of diversity in open source communities.</p>
 <h3 id="covid-policies">COVID Policies</h3>
-<p>Your event must require masks, verified proof of vaccination, and on-site daily check-ins (such as a temperature check at the door) for me to appear in person. Masking should be actively enforced by conference staff.  Ideally, on-site testing should be provided, but it is not required. </p>
-<p>I understand that some local jurisdictions within the US have made it illegal to require masks or proof of vaccination; if your event is in such a jurisdiction, I will be happy to present my talk remotely. If your event is in a place where case rates are extremely low (for example, New Zealand), this requirement is negotiable, but I will impose increased testing and isolation requirements upon myself for safety.</p>
+<p>Your event <em>should</em> require masks. Yes, even in 2025. I prefer to speak at events that require proof of vaccination, and provide on-site daily check-ins (such as a temperature check at the door). Masking should be actively enforced by conference staff.  Ideally, on-site testing should be provided, but it is not required.</p>
+<p>I understand that some local jurisdictions within the US have made it illegal to require masks or proof of vaccination. If your event is in a place where case rates are extremely low (for example, New Zealand), this requirement is negotiable, but I will impose increased testing and isolation requirements upon myself for safety.</p>
 <p>Personally, I will take a rapid test at least once before entering the conference, and I will wear a KN-95 or better mask at all times (when inside a public area, and not eating or on stage) during my trip.</p>
 <h3 id="cancellations">Cancellations</h3>
 <p>Cancelling a speaking engagement is something I try very, very hard to avoid. That said, the ongoing global pandemic means that a cancellation is more likely than ever before. In the case of a surge, either globally or locally, as a result of a new variant or not, I reserve the right to pull out of your event for my own safety and the safety of others. In that case, I will make my best effort to offer a remote presentation. If that is not possible and it is appropriate to do so, I may suggest an alternate speaker take my slot.</p>
 <h3 id="contacting-me">Contacting Me</h3>
-<p>Want to have me speak? Cool! Reach out to me via <a href="mailto:aeva@aeva.online">email</a> with the name, dates, and website for your event, as well as any confirmed speakers and an idea of what you want me to talk about. If your event fits into the corporate events category, please also include your speaker budget.</p>
+<p>Want to have me speak? Cool! Reach out to me via <a href="mailto:speaking@aeva.online">email</a> with the name, dates, and website for your event, as well as any confirmed speakers and an idea of what you want me to talk about. If your event fits into the corporate events category, please also include your speaker budget.</p>
 <p>Thanks for reading!</p>
 <p>// Derived from Kat Cosgrove's Speaker's Rider. //</p>
 <p>// Original source: <a href="https://github.com/katcosgrove/katcosgrove/blob/main/speaking.md">github.com/katcosgrove/katcosgrove/blob/main/speaking.md</a> //</p>
 <p>// Licensed under the Creative Commons Attribution-ShareAlike 4.0 International Public License //</p>
 
+            
+            
+            
+            <!-- Render the rest of the content after removing the summary portion -->
+            <span id="continue-reading"></span>
+
+
+        
     </div>
+
 
     
         <footer>
@@ -148,6 +255,14 @@
 </article>
 
 
-    </body>
 
+    <!-- optional scripts -->
+      
+    <script src="/js/toggle-theme.js"></script>
+     
+ 
+<script type="text/javascript" src="/elasticlunr.min.js"></script>
+<script type="text/javascript" src="/js/search.js"></script>
+ 
+  </body>
 </html>

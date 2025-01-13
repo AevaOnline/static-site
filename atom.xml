@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Æva :: Online</title>
+    <link rel="self" type="application/atom+xml" href="/atom.xml"/>
+    <link rel="alternate" type="text/html" href="/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-01-20T00:00:00+00:00</updated>
+    <id>/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Recent Talks, Public Appearances, and Notable Media</title>
+        <published>2025-01-20T00:00:00+00:00</published>
+        <updated>2025-01-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Æva Black
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="/media/"/>
+        <id>/media/</id>
+        
+        <summary type="html">&lt;p&gt;&lt;strong&gt;Q&lt;&#x2F;strong&gt;: Aeva, are you available to speak at ______ ? &lt;br&gt;
+&lt;strong&gt;A&lt;&#x2F;strong&gt;: Probably. Please review &lt;a href=&quot;&#x2F;media&#x2F;speaker-rider&quot;&gt;my speaker&#x27;s rider&lt;&#x2F;a&gt;. My contact info is available on that page.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Q&lt;&#x2F;strong&gt;: Aeva, do you have a bio or headshot we can use? &lt;br&gt;
+&lt;strong&gt;A&lt;&#x2F;strong&gt;: Yes, which you can find on &lt;a href=&quot;&#x2F;about&#x2F;bios&quot;&gt;this page&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Q&lt;&#x2F;strong&gt;: Aeva, do you have recordings of past talks for us to review? &lt;br&gt;
+&lt;strong&gt;A&lt;&#x2F;strong&gt;: Lots of them. See the table below :)&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;upcoming-appearances&quot;&gt;Upcoming Appearances&lt;&#x2F;h1&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Date&lt;&#x2F;th&gt;&lt;th&gt;Event &#x2F; Publication&lt;&#x2F;th&gt;&lt;th&gt;Details&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Feb 1 - 3&lt;&#x2F;td&gt;&lt;td&gt;Europe Open Source Week&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Feb 5 - 6&lt;&#x2F;td&gt;&lt;td&gt;State of Open Con&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Feb ??&lt;&#x2F;td&gt;&lt;td&gt;Paris AI Security Summit&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>What&#x27;s After CISA?</title>
+        <published>2025-01-13T00:00:00+00:00</published>
+        <updated>2025-01-13T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Æva Black
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="/blog/2025-january-note/"/>
+        <id>/blog/2025-january-note/</id>
+        
+        <summary type="html">&lt;p&gt;Well hello there, internet friends... It&#x27;s been a while since I posted here, so
+I want to share a quick note ...&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Speaker Bios</title>
+        <published>2024-08-01T00:00:00+00:00</published>
+        <updated>2024-08-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Æva Black
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="/about/bios/"/>
+        <id>/about/bios/</id>
+        
+        <summary type="html">&lt;p&gt;Use with permission.&lt;&#x2F;p&gt;
+&lt;p&gt;Choose your own adventure: &lt;strong&gt;Hacker&lt;&#x2F;strong&gt; or &lt;strong&gt;Executive&lt;&#x2F;strong&gt;?&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;hacker&quot;&gt;Hacker&lt;&#x2F;h1&gt;
+&lt;img src=&quot;moto_profile.png&quot; width=&quot;200&quot; style=&quot;float: right;&quot;&gt;
+Aeva Black is a non-binary hacker, public speaker, and open source software
+developer, who currently serves as the Section Chief for Open Source Software
+Security at the U.S. Cybersecurity and Infrastructure Security Agency (CISA).
+They previously held roles at several non-profits -- including the Open Source
+Initiative, the Open Source Security Foundation, and the OpenStack Foundation
+-- and led development teams at a few companies -- including Microsoft, Hewlett
+Packard Enterprise, and IBM.
+&lt;h1 id=&quot;executive&quot;&gt;Executive&lt;&#x2F;h1&gt;
+&lt;img src=&quot;profile_500.jpeg&quot; width=&quot;200&quot; style=&quot;float: right;&quot;&gt;
+Aeva Black brings a wealth of knowledge from both the private sector and
+government. They are an international thought leader on open source security,
+with over 25 years of experience building digital infrastructure and leading
+open source projects at companies like Microsoft. At CISA, Aeva is involved in
+ensuring the security of open source software within critical national
+infrastructure, a mission that aligns directly with the topic. Aeva’s expertise
+will offer a crucial perspective on how the government can support the safety
+of communal code.
+&lt;hr &#x2F;&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Open Source Security Policy Conundrum</title>
+        <published>2023-01-19T00:00:00+00:00</published>
+        <updated>2023-01-19T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Æva Black
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="/blog/2023-oss-security-conundrum/"/>
+        <id>/blog/2023-oss-security-conundrum/</id>
+        
+        <summary type="html">&lt;p&gt;Policy makers in both the US and the EU are currently debating several efforts to improve the security of digital infrastructure, including broad new regulations such as &lt;a href=&quot;https:&#x2F;&#x2F;www.congress.gov&#x2F;bill&#x2F;117th-congress&#x2F;senate-bill&#x2F;4913&quot;&gt;SOSSA&lt;&#x2F;a&gt; and the &lt;a href=&quot;https:&#x2F;&#x2F;digital-strategy.ec.europa.eu&#x2F;en&#x2F;library&#x2F;cyber-resilience-act&quot;&gt;CRA&lt;&#x2F;a&gt;. In light of high profile recent events, we are all aware that open source software is a critical part of software infrastructure as a whole. Security issues related to popular open source projects are in the news and in policy conversations. As open source professionals, we hope that policy makers carefully consider the distinction between open source projects and products.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Answers to Luis Villa&#x27;s Four Questions</title>
+        <published>2021-03-11T00:00:00+00:00</published>
+        <updated>2021-03-11T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Æva Black
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="/blog/2021-osi-four-questions/"/>
+        <id>/blog/2021-osi-four-questions/</id>
+        
+        <summary type="html">&lt;p&gt;Luis Villa &lt;a href=&quot;https:&#x2F;&#x2F;opensource.com&#x2F;article&#x2F;21&#x2F;3&#x2F;board-elections-osi&quot;&gt;posted a series of questions on opensource.com&lt;&#x2F;a&gt; for this year&#x27;s OSI Board Nominees to answer.&lt;&#x2F;p&gt;
+&lt;p&gt;In this post, I share my thoughts.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Open Source Initiative: 2021 Platform</title>
+        <published>2021-02-21T00:00:00+00:00</published>
+        <updated>2021-02-21T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Æva Black
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="/blog/2021-osi-platform/"/>
+        <id>/blog/2021-osi-platform/</id>
+        
+        <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;This is my official announcement post for my candidacy for the OSI Board of Directors in 2021. Read on for the description of my platform and goals.
+This post is shared on &lt;a href=&quot;https:&#x2F;&#x2F;aeva.online&#x2F;journal&#x2F;2021-osi-platform&#x2F;&quot;&gt;my personal site&lt;&#x2F;a&gt; and on the &lt;a href=&quot;https:&#x2F;&#x2F;wiki.opensource.org&#x2F;bin&#x2F;Main&#x2F;OSI%20Board%20of%20Directors&#x2F;Board%20Member%20Elections&#x2F;2021%20Individual%20and%20Affiliate%20Elections&#x2F;Black2021&#x2F;&quot;&gt;2021 OSI Board Elections page&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>An overdue reflection on 2020</title>
+        <published>2021-02-07T00:00:00+00:00</published>
+        <updated>2021-02-07T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Æva Black
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="/blog/2021-reflecting-on-2020/"/>
+        <id>/blog/2021-reflecting-on-2020/</id>
+        
+        <summary type="html">&lt;p&gt;I try to journal around New Years every year. I&#x27;m running late this year, but with good reason - I had top surgery in December and wasn&#x27;t able to sit at my desk and comfortably write for a few weeks. By the time I could, I was swamped at work and focusing on that. Check back for a follow-up to this post when I get around to actually writing it 😅&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>New Site, Who Dis?</title>
+        <published>2021-02-01T00:00:00+00:00</published>
+        <updated>2021-02-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Æva Black
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="/blog/2021-newsite/"/>
+        <id>/blog/2021-newsite/</id>
+        
+        <summary type="html">&lt;p&gt;I thought that migrationg to a static site generator would be a good motivation to spend more time learning Rust ... but once I compiled Rust, and compiled Zola, everything else was just a matter of getting the templating to render well and fiddling with my build-publish workflow. Oh well. I still have a new site that I&#x27;m much happier with :)&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Identity Vectors</title>
+        <published>2020-09-27T00:00:00+00:00</published>
+        <updated>2020-09-27T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Æva Black
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="/blog/2020-identity-vectors/"/>
+        <id>/blog/2020-identity-vectors/</id>
+        
+        <summary type="html">&lt;p&gt;It’s hard to believe that I’ve been at Microsoft for almost a year now — and that I came down with COVID-19 six and a half months ago. When I look back at the tumultuous political landscape that is 2020, these two events will doubtless color my memories of this year in ways that I can not yet really understand.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Six to Eight Weeks</title>
+        <published>2020-05-26T00:00:00+00:00</published>
+        <updated>2020-05-26T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Æva Black
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="/blog/2020-six-to-eight-weeks/"/>
+        <id>/blog/2020-six-to-eight-weeks/</id>
+        
+        <summary type="html">&lt;p&gt;The doctors told me that it takes six to eight weeks – on average – for healthy folks with my symptoms to recover. It took more than six months.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>2019 in Review</title>
+        <published>2019-12-31T00:00:00+00:00</published>
+        <updated>2019-12-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Æva Black
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="/blog/2019-in-review/"/>
+        <id>/blog/2019-in-review/</id>
+        
+        <summary type="html">&lt;p&gt;It&#x27;s been two years since I came out. So much has changed. So much has improved.&lt;&#x2F;p&gt;
+&lt;p&gt;If 2018 was about &lt;em&gt;accepting&lt;&#x2F;em&gt; that truth, 2019 was about &lt;em&gt;taking action on it&lt;&#x2F;em&gt;..&lt;&#x2F;p&gt;
+&lt;p&gt;For starters, I changed all my online profiles this year. I &lt;em&gt;&lt;a href=&quot;&#x2F;blog&#x2F;2019-in-review&#x2F;whats-in-a-name.html&quot;&gt;changed my name&lt;&#x2F;a&gt;&lt;&#x2F;em&gt; this year.&lt;&#x2F;p&gt;
+&lt;p&gt;I realized that my career choices over the past several years had led me uncomfortably far from my ethics. (More on that later…)&lt;&#x2F;p&gt;
+&lt;p&gt;The result? I spent eight months of 2019 uninsured and underemployed, but still &lt;em&gt;very&lt;&#x2F;em&gt; busy.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Transitioning Is an Act of Strength</title>
+        <published>2019-12-15T00:00:00+00:00</published>
+        <updated>2019-12-15T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Æva Black
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="/blog/2019-transitioning-is-strength/"/>
+        <id>/blog/2019-transitioning-is-strength/</id>
+        
+        <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;You gave up everything I’ve spent my life fighting for.
+I can’t imagine how much you must have been hurting inside to choose to do that.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sarah Novotny&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>The Job Hunt Is Over</title>
+        <published>2019-10-05T00:00:00+00:00</published>
+        <updated>2019-10-05T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Æva Black
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="/blog/2019-job-hunt-is-over/"/>
+        <id>/blog/2019-job-hunt-is-over/</id>
+        
+        <summary type="html">&lt;p&gt;It’s been a month now since I signed an employment contract with Microsoft.&lt;&#x2F;p&gt;
+&lt;p&gt;You read that correctly — the giant tech company which I swore, back in the 90’s, I would never work for. Even though most of my colleagues have been very encouraging, even reminding me that Microsoft isn’t as monopolistic or walled-off as it once was, there are still some things which bear clarification (especially for any readers that have known me during the OpenStack or MySQL days).&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Gender Markers</title>
+        <published>2019-08-13T00:00:00+00:00</published>
+        <updated>2019-08-13T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Æva Black
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="/blog/2019-gender-markers/"/>
+        <id>/blog/2019-gender-markers/</id>
+        
+        <summary type="html">&lt;p&gt;&lt;em&gt;(content warning: gender issues and gender-based violence, no specifics but still may be difficult for some)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Yesterday, the Washington State Department of Licensing held a public hearing for comments on the proposed legislation to add an ‘X’ gender marker option on state-issued ID’s. I chose to go and stand up for all the non-binary, intersex, and transgender members of my communities.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>What&#x27;s in a Name?</title>
+        <published>2019-03-15T00:00:00+00:00</published>
+        <updated>2019-03-15T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Æva Black
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="/blog/2019-whats-in-a-name/"/>
+        <id>/blog/2019-whats-in-a-name/</id>
+        
+        <summary type="html">&lt;p&gt;A MAN IN A frock held up his right hand and said a few words, and I got to fill out some paperwork. It is strange that this process makes me feel better about myself. I abhor paperwork.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>What Happened To OpenStack</title>
+        <published>2019-03-02T00:00:00+00:00</published>
+        <updated>2019-03-02T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Æva Black
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="/blog/2019-what-happened-openstack/"/>
+        <id>/blog/2019-what-happened-openstack/</id>
+        
+        <summary type="html">&lt;p&gt;The project is still quite healthy and is following the usual hype curve: OpenStack is finally mature enough that it’s less interesting to talk about, so it’s understandable that people think &lt;em&gt;something&lt;&#x2F;em&gt; happened.&lt;&#x2F;p&gt;
+&lt;p&gt;The folks asking me this question are generally curios and good intentioned, and I think my answer says a lot about my professional background, so even during an interview I indulge in a short ramble.&lt;&#x2F;p&gt;
+&lt;p&gt;I know, I know … I should have written about it at the time, but I had other things going on and wasn’t making space in my life to write. So I’ve decided to revisit the topic today. Next time someone asks me, I’ll just point them here 😉&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Hi, I&#x27;m queer and trans</title>
+        <published>2019-01-28T00:00:00+00:00</published>
+        <updated>2019-01-28T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Æva Black
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="/blog/2019-hi-queer-trans/"/>
+        <id>/blog/2019-hi-queer-trans/</id>
+        
+        <summary type="html">&lt;p&gt;There’s something I need to get off my chest.&lt;&#x2F;p&gt;
+&lt;p&gt;I’ve used a lot of different labels to describe myself over the years – geek, goth, autodidact, polyglot, kinkster, polyamorous, third-culture kid, dharma bum, database admin, software developer, cloud architect, VP. None feel as risky to claim as #trans, and yet, none of those other labels are as authentic, none require as much vulnerability to share.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

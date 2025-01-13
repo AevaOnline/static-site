@@ -8,12 +8,10 @@
     </url>
     <url>
         <loc>/about/bios/</loc>
+        <lastmod>2024-08-01</lastmod>
     </url>
     <url>
         <loc>/blog/</loc>
-    </url>
-    <url>
-        <loc>/blog/2019-edge-of-clouds/</loc>
     </url>
     <url>
         <loc>/blog/2019-gender-markers/</loc>
@@ -25,20 +23,11 @@
     </url>
     <url>
         <loc>/blog/2019-in-review/</loc>
-    </url>
-    <url>
-        <loc>/blog/2019-jeeping-about/</loc>
+        <lastmod>2019-12-31</lastmod>
     </url>
     <url>
         <loc>/blog/2019-job-hunt-is-over/</loc>
         <lastmod>2019-10-05</lastmod>
-    </url>
-    <url>
-        <loc>/blog/2019-politics-of-machine-learning/</loc>
-    </url>
-    <url>
-        <loc>/blog/2019-rebuilding-my-miniserver/</loc>
-        <lastmod>2019-05-29</lastmod>
     </url>
     <url>
         <loc>/blog/2019-transitioning-is-strength/</loc>
@@ -61,9 +50,6 @@
         <lastmod>2020-05-26</lastmod>
     </url>
     <url>
-        <loc>/blog/2021-2020-the-year-that-happened/</loc>
-    </url>
-    <url>
         <loc>/blog/2021-newsite/</loc>
         <lastmod>2021-02-01</lastmod>
     </url>
@@ -80,11 +66,12 @@
         <lastmod>2021-02-07</lastmod>
     </url>
     <url>
-        <loc>/blog/2021-story-changes-culture-orig-unpub/</loc>
-    </url>
-    <url>
         <loc>/blog/2023-oss-security-conundrum/</loc>
         <lastmod>2023-01-19</lastmod>
+    </url>
+    <url>
+        <loc>/blog/2025-january-note/</loc>
+        <lastmod>2025-01-13</lastmod>
     </url>
     <url>
         <loc>/blog/page/1/</loc>
@@ -96,6 +83,12 @@
         <loc>/blog/page/3/</loc>
     </url>
     <url>
+        <loc>/categories/</loc>
+    </url>
+    <url>
+        <loc>/categories/blog/</loc>
+    </url>
+    <url>
         <loc>/contact/</loc>
     </url>
     <url>
@@ -103,6 +96,7 @@
     </url>
     <url>
         <loc>/media/</loc>
+        <lastmod>2025-01-20</lastmod>
     </url>
     <url>
         <loc>/media/speaker-rider/</loc>

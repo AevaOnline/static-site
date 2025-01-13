@@ -1,100 +1,215 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-    <head>
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
-      <!-- Enable responsiveness on mobile devices-->
-      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-
-      <title>Aeva :: Online</title>
+    <!-- Enable responsiveness on mobile devices-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
       
-        <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml">
-      
 
-      
-          <link rel="stylesheet" href="/site.css">
-      
-
-      
-      
-    </head>
-
-    <body class="hack dark main container">
-        
+    <title>
     
+    Identity Vectors
+    
+</title>
+
+    
+    <link
+      rel="alternate"
+      type="application/atom+xml"
+      title="RSS"
+      href="/atom.xml"
+    />
+     
+    <link
+      rel="stylesheet"
+      href="/site.css"
+    />
+      
+  </head>
+
+  <body class="hack dark main container">
+    
+    
+         
+    <header class="nav-header">
+      <nav
+        itemscope
+        itemtype="http://schema.org/SiteNavigationElement"
+        class="navbar"
+      >
+        <div class="nav-links">
+          
+          <a
+            itemprop="url"
+            class=""
+            href="/about/"
+          >
+            <span itemprop="name">Home</span></a
+          >
+          
+          <a
+            itemprop="url"
+            class=""
+            href="/blog/"
+          >
+            <span itemprop="name">Blog</span></a
+          >
+          
+          <a
+            itemprop="url"
+            class=""
+            href="/media/"
+          >
+            <span itemprop="name">Media</span></a
+          >
+          
+          <a
+            itemprop="url"
+            class=""
+            href="/contact/"
+          >
+            <span itemprop="name">Contact Me</span></a
+          >
+          
+        </div>
+      </nav>
+      <div class="user-actions-container">
         
-                
-                    <header>
-                        <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
-                        
-                            <a itemprop="url"
-                               class=""
-                               href="&#x2F;about&#x2F;">
-                                <span itemprop="name">| intro |
-                                </span></a>
-                        
-                            <a itemprop="url"
-                               class=""
-                               href="&#x2F;blog&#x2F;">
-                                <span itemprop="name">blog |
-                                </span></a>
-                        
-                            <a itemprop="url"
-                               class=""
-                               href="&#x2F;media&#x2F;">
-                                <span itemprop="name">media listing |
-                                </span></a>
-                        
-                            <a itemprop="url"
-                               class=""
-                               href="&#x2F;media&#x2F;speaker-rider">
-                                <span itemprop="name">speaker&#x27;s rider |
-                                </span></a>
-                        
-                            <a itemprop="url"
-                               class=""
-                               href="&#x2F;contact&#x2F;">
-                                <span itemprop="name">contact |
-                                </span></a>
-                        
-                            <a itemprop="url"
-                               class=""
-                               href="&#x2F;tags&#x2F;">
-                                <span itemprop="name">search |
-                                </span></a>
-                        
-                        </nav>
-                    </header>
-                    <br><br>
-                
-            
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke-width="1.5"
+          class="search-icon"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z"
+          />
+        </svg>
+        <input type="text" id="search" placeholder="Search..." />
+        <div class="search-results">
+          <div class="search-results__items"></div>
+        </div>
+         
+        <a
+          href="/atom.xml"
+          class="feed-icon"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="/icons/rss.svg"
+            id="rss-icon"
+            alt="RSS feed"
+            class="social-icon"
+          />
+        </a>
+         
+        <a
+          href="https:&#x2F;&#x2F;github.com&#x2F;AevaOnline"
+          class="feed-icon"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="/icons/github.svg"
+            id="github-icon"
+            alt="GitHub"
+            class="social-icon"
+          />
+        </a>
+         
+        <a
+          href="https:&#x2F;&#x2F;linkedin.com&#x2F;in&#x2F;AevaOnline"
+          class="feed-icon"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="/icons/linkedin.svg"
+            id="linkedin-icon"
+            alt="LinkedIn"
+            class="social-icon"
+          />
+        </a>
+         
+        <a
+          href="https:&#x2F;&#x2F;bsky.app&#x2F;profile&#x2F;aeva.online"
+          class="feed-icon"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="/icons/bluesky.svg"
+            id="bluesky-icon"
+            alt="Bluesky"
+            class="social-icon"
+          />
+        </a>
+          | 
+        <a
+          id="dark-mode-toggle"
+          onclick="toggleTheme(); event.preventDefault();"
+          href="#"
+        >
+          <img
+            src="/icons/sun.svg"
+            id="sun-icon"
+            style="filter: invert(1)"
+            alt="Light mode"
+          />
+          <img
+            src="/icons/moon.svg"
+            id="moon-icon"
+            alt="Dark mode"
+          />
+        </a>
+         
+      </div>
+
+      
+      <!-- Set the correct theme in the script -->
+      <script src="/js/toggle-theme.js"></script>
+      
+      <script>
+        setTheme(getSavedTheme());
+      </script>
+      
+    </header>
+     
     
 
 <article itemscope itemtype="http://schema.org/BlogPosting">
     <header>
         <h1 itemprop="headline">Identity Vectors</h1>
         <span class="muted">
-    <svg style="margin-bottom:-3px" class="i-clock" viewBox="0 0 32 32"
+     
+    <svg class="icon i-clock" viewBox="0 0 32 32"
          width="16" height="16" fill="none" stroke="currentcolor"
          stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
         <circle cx="16" cy="16" r="14"/>
         <path d="M16 8 L16 16 20 20"/>
     </svg>
     <span>4 minute read</span>
-    <svg style="margin-bottom: -3px" class="i-edit" viewBox="0 0 32 32"
+    <svg class="icon i-edit" viewBox="0 0 32 32"
          width="16" height="16" fill="none" stroke="currentcolor"
          stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
         <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z"/>
     </svg>
-
     Published: 2020-09-27
 </span>
     </header>
+    
     <div itemprop="articleBody">
-      <p>It’s hard to believe that I’ve been at Microsoft for almost a year now — and that I came down with COVID-19 six and a half months ago. When I look back at the tumultuous political landscape that is 2020, these two events will doubtless color my memories of this year in ways that I can not yet really understand.</p>
-<span id="continue-reading"></span>
+        
+            <p>It’s hard to believe that I’ve been at Microsoft for almost a year now — and that I came down with COVID-19 six and a half months ago. When I look back at the tumultuous political landscape that is 2020, these two events will doubtless color my memories of this year in ways that I can not yet really understand.</p>
+
+            
+            
+            
+            <!-- Render the rest of the content after removing the summary portion -->
+            <span id="continue-reading"></span>
 <p>Eighteen months ago, in the summer of 2019, I doubted whether I would ever work in the tech industry again.</p>
 <p>Eighteen months ago, I was in the best shape I’d been in ever since a fateful tick bite I got while backpacking Germany in 2001. This led to a rapid decline in my health over the coming years, which I spent in and out of hospitals, and eventually doctors reached a determination that I was infected with a trifecta of bacteria – Babesia, Ehrlichia, and Borrelia. A decade later, I put that all behind me and swore to maintain better health and be more cautious outdoors. By 2015 I was fit, if not athletic, running 5k’s and even hiking small mountains now and then.</p>
 <p>The summer months of 2019 saw me doing a little off-roading, move across town to save on rent, camp at a regional burn (Critical Northwest), build one of the most intense camps at the big burn (Suspended Animation), <em>and then</em> go to DefCon!</p>
@@ -113,7 +228,11 @@
 <p><em>And I love it.</em></p>
 <p>🙏</p>
 
+
+
+        
     </div>
+
 
     
         <footer>
@@ -122,7 +241,8 @@
                 
                 
                 
-                    and tagged
+                    
+                    tagged
                     
                         <a href="/tags/covid/">covid</a>
                         
@@ -156,6 +276,14 @@
 </article>
 
 
-    </body>
 
+    <!-- optional scripts -->
+      
+    <script src="/js/toggle-theme.js"></script>
+     
+ 
+<script type="text/javascript" src="/elasticlunr.min.js"></script>
+<script type="text/javascript" src="/js/search.js"></script>
+ 
+  </body>
 </html>

@@ -1,104 +1,221 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-    <head>
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
-      <!-- Enable responsiveness on mobile devices-->
-      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <!-- Enable responsiveness on mobile devices-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-      <title>Aeva :: Online</title>
+     
+    <meta name="description" content="The project is still quite healthy and is following the usual hype curve: OpenStack is finally mature enough that it’s less interesting to talk about, so it’s understandable that people think something happened." />
+     
 
-      
-        <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml">
-      
-
-      
-          <link rel="stylesheet" href="/site.css">
-      
-
-      
-      
-    </head>
-
-    <body class="hack dark main container">
-        
+    <title>
     
+    What Happened To OpenStack
+    
+</title>
+
+    
+    <link
+      rel="alternate"
+      type="application/atom+xml"
+      title="RSS"
+      href="/atom.xml"
+    />
+     
+    <link
+      rel="stylesheet"
+      href="/site.css"
+    />
+      
+  </head>
+
+  <body class="hack dark main container">
+    
+    
+         
+    <header class="nav-header">
+      <nav
+        itemscope
+        itemtype="http://schema.org/SiteNavigationElement"
+        class="navbar"
+      >
+        <div class="nav-links">
+          
+          <a
+            itemprop="url"
+            class=""
+            href="/about/"
+          >
+            <span itemprop="name">Home</span></a
+          >
+          
+          <a
+            itemprop="url"
+            class=""
+            href="/blog/"
+          >
+            <span itemprop="name">Blog</span></a
+          >
+          
+          <a
+            itemprop="url"
+            class=""
+            href="/media/"
+          >
+            <span itemprop="name">Media</span></a
+          >
+          
+          <a
+            itemprop="url"
+            class=""
+            href="/contact/"
+          >
+            <span itemprop="name">Contact Me</span></a
+          >
+          
+        </div>
+      </nav>
+      <div class="user-actions-container">
         
-                
-                    <header>
-                        <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
-                        
-                            <a itemprop="url"
-                               class=""
-                               href="&#x2F;about&#x2F;">
-                                <span itemprop="name">| intro |
-                                </span></a>
-                        
-                            <a itemprop="url"
-                               class=""
-                               href="&#x2F;blog&#x2F;">
-                                <span itemprop="name">blog |
-                                </span></a>
-                        
-                            <a itemprop="url"
-                               class=""
-                               href="&#x2F;media&#x2F;">
-                                <span itemprop="name">media listing |
-                                </span></a>
-                        
-                            <a itemprop="url"
-                               class=""
-                               href="&#x2F;media&#x2F;speaker-rider">
-                                <span itemprop="name">speaker&#x27;s rider |
-                                </span></a>
-                        
-                            <a itemprop="url"
-                               class=""
-                               href="&#x2F;contact&#x2F;">
-                                <span itemprop="name">contact |
-                                </span></a>
-                        
-                            <a itemprop="url"
-                               class=""
-                               href="&#x2F;tags&#x2F;">
-                                <span itemprop="name">search |
-                                </span></a>
-                        
-                        </nav>
-                    </header>
-                    <br><br>
-                
-            
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke-width="1.5"
+          class="search-icon"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z"
+          />
+        </svg>
+        <input type="text" id="search" placeholder="Search..." />
+        <div class="search-results">
+          <div class="search-results__items"></div>
+        </div>
+         
+        <a
+          href="/atom.xml"
+          class="feed-icon"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="/icons/rss.svg"
+            id="rss-icon"
+            alt="RSS feed"
+            class="social-icon"
+          />
+        </a>
+         
+        <a
+          href="https:&#x2F;&#x2F;github.com&#x2F;AevaOnline"
+          class="feed-icon"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="/icons/github.svg"
+            id="github-icon"
+            alt="GitHub"
+            class="social-icon"
+          />
+        </a>
+         
+        <a
+          href="https:&#x2F;&#x2F;linkedin.com&#x2F;in&#x2F;AevaOnline"
+          class="feed-icon"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="/icons/linkedin.svg"
+            id="linkedin-icon"
+            alt="LinkedIn"
+            class="social-icon"
+          />
+        </a>
+         
+        <a
+          href="https:&#x2F;&#x2F;bsky.app&#x2F;profile&#x2F;aeva.online"
+          class="feed-icon"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="/icons/bluesky.svg"
+            id="bluesky-icon"
+            alt="Bluesky"
+            class="social-icon"
+          />
+        </a>
+          | 
+        <a
+          id="dark-mode-toggle"
+          onclick="toggleTheme(); event.preventDefault();"
+          href="#"
+        >
+          <img
+            src="/icons/sun.svg"
+            id="sun-icon"
+            style="filter: invert(1)"
+            alt="Light mode"
+          />
+          <img
+            src="/icons/moon.svg"
+            id="moon-icon"
+            alt="Dark mode"
+          />
+        </a>
+         
+      </div>
+
+      
+      <!-- Set the correct theme in the script -->
+      <script src="/js/toggle-theme.js"></script>
+      
+      <script>
+        setTheme(getSavedTheme());
+      </script>
+      
+    </header>
+     
     
 
 <article itemscope itemtype="http://schema.org/BlogPosting">
     <header>
         <h1 itemprop="headline">What Happened To OpenStack</h1>
         <span class="muted">
-    <svg style="margin-bottom:-3px" class="i-clock" viewBox="0 0 32 32"
+     
+    <svg class="icon i-clock" viewBox="0 0 32 32"
          width="16" height="16" fill="none" stroke="currentcolor"
          stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
         <circle cx="16" cy="16" r="14"/>
         <path d="M16 8 L16 16 20 20"/>
     </svg>
     <span>8 minute read</span>
-    <svg style="margin-bottom: -3px" class="i-edit" viewBox="0 0 32 32"
+    <svg class="icon i-edit" viewBox="0 0 32 32"
          width="16" height="16" fill="none" stroke="currentcolor"
          stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
         <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z"/>
     </svg>
-
     Published: 2019-03-02
 </span>
     </header>
+    
     <div itemprop="articleBody">
-      <p>The project is still quite healthy and is following the usual hype curve: OpenStack is finally mature enough that it’s less interesting to talk about, so it’s understandable that people think <em>something</em> happened.</p>
+        
+            <p>The project is still quite healthy and is following the usual hype curve: OpenStack is finally mature enough that it’s less interesting to talk about, so it’s understandable that people think <em>something</em> happened.</p>
 <p>The folks asking me this question are generally curios and good intentioned, and I think my answer says a lot about my professional background, so even during an interview I indulge in a short ramble.</p>
 <p>I know, I know … I should have written about it at the time, but I had other things going on and wasn’t making space in my life to write. So I’ve decided to revisit the topic today. Next time someone asks me, I’ll just point them here 😉</p>
-<span id="continue-reading"></span>
+
+            
+            
+            
+            <!-- Render the rest of the content after removing the summary portion -->
+            <span id="continue-reading"></span>
 <p>We all knew that, for the long-term success of the OpenStack ecosystem, we needed a hyper-scale OpenStack public cloud to succeed, and a healthy set of SaaS applications to be built upon the IaaS/PaaS layers that we had. We knew there needed to be at more than one hyperscale implementation to avoid a gravity problem (in the early days, that was RackSpace).</p>
-<p>Publicly, lots of folks were talking about this; common headlines compared <a href="http://blogs.forrester.com/press-newsroom/openstack-is-positioned-to-become-one-of-five-public-cloud-camps/">OpenStack to AWS</a>, and every VC and analyst <a href="https://superuser.openstack.org/articles/forrester-says-ready-set-openstack/">wanted to know</a> <a href="https://www.zdnet.com/article/getting-openstack-ready-for-the-enterprise/">if it was ready</a> for <a href="https://redhatstackblog.redhat.com/2014/11/10/openstack-2015-the-year-of-the-enterprise/">the Enterprise</a> <a href="https://www.mirantis.com/blog/ask-whether-openstack-ready-enterprise/">yet</a>. I even <a href="https://youtu.be/KX1AQCJrhQs">sat on a panel to discuss this</a> very question! <em>(edit: updated with link)</em> </p>
+<p>Publicly, lots of folks were talking about this; common headlines compared <a href="http://blogs.forrester.com/press-newsroom/openstack-is-positioned-to-become-one-of-five-public-cloud-camps/">OpenStack to AWS</a>, and every VC and analyst <a href="https://superuser.openstack.org/articles/forrester-says-ready-set-openstack/">wanted to know</a> <a href="https://www.zdnet.com/article/getting-openstack-ready-for-the-enterprise/">if it was ready</a> for <a href="https://redhatstackblog.redhat.com/2014/11/10/openstack-2015-the-year-of-the-enterprise/">the Enterprise</a> <a href="https://www.mirantis.com/blog/ask-whether-openstack-ready-enterprise/">yet</a>. I even <a href="https://youtu.be/KX1AQCJrhQs">sat on a panel to discuss this</a> very question! <em>(edit: updated with link)</em></p>
 <p>But over time, this key component of our success never materialized. Why was that?</p>
 <p>Back in 2014 I was working at HP Cloud. Money was pouring into OpenStack and we were all riding high on that. This was the year that OpenStack hype peaked, and I will never forget the Carnival at the Paris Summit. <em>Tre magnifique!</em> From outside, however, it may not have been obvious that this was coming from Telcos and Hardware Vendors seeking to influence the direction of OpenStack. Specifically, these companies wanted to create the technological basis for integrated private cloud solutions they could take to market quickly.</p>
 <p>Privately, we could see that these market forces were opposed to actually achieving hyperscale. <a href="https://docs.openstack.org/project-team-guide/introduction.html#the-project-structure-reform-a-k-a-the-big-tent">The Big Tent</a> was a bold move to try and address some of these issues. We (that is, the Technical Committee) did what we could, but in the end we couldn’t fix the problem because we didn’t control the purse strings.</p>
@@ -130,7 +247,11 @@
 <p>If you do that, please drop me a line.</p>
 <p>I’d love to help.</p>
 
+
+
+        
     </div>
+
 
     
         <footer>
@@ -139,7 +260,8 @@
                 
                 
                 
-                    and tagged
+                    
+                    tagged
                     
                         <a href="/tags/openstack/">openstack</a>
                         
@@ -173,6 +295,14 @@
 </article>
 
 
-    </body>
 
+    <!-- optional scripts -->
+      
+    <script src="/js/toggle-theme.js"></script>
+     
+ 
+<script type="text/javascript" src="/elasticlunr.min.js"></script>
+<script type="text/javascript" src="/js/search.js"></script>
+ 
+  </body>
 </html>

@@ -1,114 +1,232 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-    <head>
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
-      <!-- Enable responsiveness on mobile devices-->
-      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-
-      <title>Aeva :: Online</title>
+    <!-- Enable responsiveness on mobile devices-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
       
-        <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml">
-      
 
-      
-          <link rel="stylesheet" href="/site.css">
-      
-
-      
-      
-    </head>
-
-    <body class="hack dark main container">
-        
+    <title>
     
+    Recent Talks, Public Appearances, and Notable Media
+    
+</title>
+
+    
+    <link
+      rel="alternate"
+      type="application/atom+xml"
+      title="RSS"
+      href="/atom.xml"
+    />
+     
+    <link
+      rel="stylesheet"
+      href="/site.css"
+    />
+      
+  </head>
+
+  <body class="hack dark main container">
+    
+    
+         
+    <header class="nav-header">
+      <nav
+        itemscope
+        itemtype="http://schema.org/SiteNavigationElement"
+        class="navbar"
+      >
+        <div class="nav-links">
+          
+          <a
+            itemprop="url"
+            class=""
+            href="/about/"
+          >
+            <span itemprop="name">Home</span></a
+          >
+          
+          <a
+            itemprop="url"
+            class=""
+            href="/blog/"
+          >
+            <span itemprop="name">Blog</span></a
+          >
+          
+          <a
+            itemprop="url"
+            class="active"
+            href="/media/"
+          >
+            <span itemprop="name">Media</span></a
+          >
+          
+          <a
+            itemprop="url"
+            class=""
+            href="/contact/"
+          >
+            <span itemprop="name">Contact Me</span></a
+          >
+          
+        </div>
+      </nav>
+      <div class="user-actions-container">
         
-                
-                    <header>
-                        <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
-                        
-                            <a itemprop="url"
-                               class=""
-                               href="&#x2F;about&#x2F;">
-                                <span itemprop="name">| intro |
-                                </span></a>
-                        
-                            <a itemprop="url"
-                               class=""
-                               href="&#x2F;blog&#x2F;">
-                                <span itemprop="name">blog |
-                                </span></a>
-                        
-                            <a itemprop="url"
-                               class="active"
-                               href="&#x2F;media&#x2F;">
-                                <span itemprop="name">media listing |
-                                </span></a>
-                        
-                            <a itemprop="url"
-                               class=""
-                               href="&#x2F;media&#x2F;speaker-rider">
-                                <span itemprop="name">speaker&#x27;s rider |
-                                </span></a>
-                        
-                            <a itemprop="url"
-                               class=""
-                               href="&#x2F;contact&#x2F;">
-                                <span itemprop="name">contact |
-                                </span></a>
-                        
-                            <a itemprop="url"
-                               class=""
-                               href="&#x2F;tags&#x2F;">
-                                <span itemprop="name">search |
-                                </span></a>
-                        
-                        </nav>
-                    </header>
-                    <br><br>
-                
-            
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke-width="1.5"
+          class="search-icon"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z"
+          />
+        </svg>
+        <input type="text" id="search" placeholder="Search..." />
+        <div class="search-results">
+          <div class="search-results__items"></div>
+        </div>
+         
+        <a
+          href="/atom.xml"
+          class="feed-icon"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="/icons/rss.svg"
+            id="rss-icon"
+            alt="RSS feed"
+            class="social-icon"
+          />
+        </a>
+         
+        <a
+          href="https:&#x2F;&#x2F;github.com&#x2F;AevaOnline"
+          class="feed-icon"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="/icons/github.svg"
+            id="github-icon"
+            alt="GitHub"
+            class="social-icon"
+          />
+        </a>
+         
+        <a
+          href="https:&#x2F;&#x2F;linkedin.com&#x2F;in&#x2F;AevaOnline"
+          class="feed-icon"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="/icons/linkedin.svg"
+            id="linkedin-icon"
+            alt="LinkedIn"
+            class="social-icon"
+          />
+        </a>
+         
+        <a
+          href="https:&#x2F;&#x2F;bsky.app&#x2F;profile&#x2F;aeva.online"
+          class="feed-icon"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="/icons/bluesky.svg"
+            id="bluesky-icon"
+            alt="Bluesky"
+            class="social-icon"
+          />
+        </a>
+          | 
+        <a
+          id="dark-mode-toggle"
+          onclick="toggleTheme(); event.preventDefault();"
+          href="#"
+        >
+          <img
+            src="/icons/sun.svg"
+            id="sun-icon"
+            style="filter: invert(1)"
+            alt="Light mode"
+          />
+          <img
+            src="/icons/moon.svg"
+            id="moon-icon"
+            alt="Dark mode"
+          />
+        </a>
+         
+      </div>
+
+      
+      <!-- Set the correct theme in the script -->
+      <script src="/js/toggle-theme.js"></script>
+      
+      <script>
+        setTheme(getSavedTheme());
+      </script>
+      
+    </header>
+     
     
 
 <article itemscope itemtype="http://schema.org/BlogPosting">
     <header>
         <h1 itemprop="headline">Recent Talks, Public Appearances, and Notable Media</h1>
         <span class="muted">
-    <svg style="margin-bottom:-3px" class="i-clock" viewBox="0 0 32 32"
+     
+    <svg class="icon i-clock" viewBox="0 0 32 32"
          width="16" height="16" fill="none" stroke="currentcolor"
          stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
         <circle cx="16" cy="16" r="14"/>
         <path d="M16 8 L16 16 20 20"/>
     </svg>
     <span>10 minute read</span>
-    <svg style="margin-bottom: -3px" class="i-edit" viewBox="0 0 32 32"
+    <svg class="icon i-edit" viewBox="0 0 32 32"
          width="16" height="16" fill="none" stroke="currentcolor"
          stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
         <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z"/>
     </svg>
-
-    
+    Published: 2025-01-20
 </span>
     </header>
+    
     <div itemprop="articleBody">
-      <p><strong>Q</strong>: Aeva, are you available to speak at ______ ? <br>
-<strong>A</strong>: Probably. Please review <a href="speaker-rider">my speaker's rider</a>. My contact info is available on that page.</p>
+        
+            <p><strong>Q</strong>: Aeva, are you available to speak at ______ ? <br>
+<strong>A</strong>: Probably. Please review <a href="/media/speaker-rider">my speaker's rider</a>. My contact info is available on that page.</p>
 <p><strong>Q</strong>: Aeva, do you have a bio or headshot we can use? <br>
 <strong>A</strong>: Yes, which you can find on <a href="/about/bios">this page</a>.</p>
 <p><strong>Q</strong>: Aeva, do you have recordings of past talks for us to review? <br>
 <strong>A</strong>: Lots of them. See the table below :)</p>
 <h1 id="upcoming-appearances">Upcoming Appearances</h1>
 <table><thead><tr><th>Date</th><th>Event / Publication</th><th>Details</th></tr></thead><tbody>
+<tr><td>Feb 1 - 3</td><td>Europe Open Source Week</td><td></td></tr>
+<tr><td>Feb 5 - 6</td><td>State of Open Con</td><td></td></tr>
+<tr><td>Feb ??</td><td>Paris AI Security Summit</td><td></td></tr>
 </tbody></table>
-<h1 id="past-appearances">Past Appearances</h1>
+
+            
+            
+            
+            <!-- Render the rest of the content after removing the summary portion -->
+            <span id="continue-reading"></span><h1 id="past-appearances">Past Appearances</h1>
 <h2 id="2024">2024</h2>
 <table><thead><tr><th>Date</th><th>Event / Publication</th><th>Details</th></tr></thead><tbody>
 <tr><td>11/22</td><td>Linux Foundation Member Summit</td><td>Unrecorded: moderated discussion on software curation</td></tr>
-<tr><td>10/30</td><td>TechCrunch Disrupt</td><td><a href="https://techcrunch.com/2024/11/01/how-to-make-open-source-software-more-secure/">Panel: &quot;Free but not cheap: the OSS dilemma&quot;</a> and <a href="https://www.youtube.com/watch?v=5bQ1XPtyo0M">YouTube recording</a></td></tr>
+<tr><td>10/30</td><td>TechCrunch Disrupt</td><td><a href="https://techcrunch.com/2024/11/01/how-to-make-open-source-software-more-secure/">Panel: "Free but not cheap: the OSS dilemma"</a> and <a href="https://www.youtube.com/watch?v=5bQ1XPtyo0M">YouTube recording</a></td></tr>
 <tr><td>10/17</td><td>DHS S&amp;T Industry Day</td><td>Host &amp; Plenary Speaker</td></tr>
-<tr><td>10/7</td><td>Apache &quot;Community Over Code&quot;</td><td>Keynote</td></tr>
+<tr><td>10/7</td><td>Apache "Community Over Code"</td><td>Keynote</td></tr>
 <tr><td>9/17</td><td>Open Source Summit Europe</td><td><a href="https://sched.co/1ej3E">Panel: Improving Software Supply Chain Security</a></td></tr>
 <tr><td>9/11</td><td>RustConf</td><td>Keynote</td></tr>
 <tr><td>9/7</td><td>BlueTeamCon</td><td>Keynote</td></tr>
@@ -150,7 +268,7 @@
 <tr><td>6/21</td><td><a href="https://events.linuxfoundation.org/open-source-summit-north-america/">Open Source Summit NA</a></td><td><a href="https://sched.co/11Njh">GitBOM: repurposing Git's graph for supply chain security</a></td></tr>
 <tr><td>6/20</td><td>TechStrong</td><td><a href="https://www.youtube.com/watch?v=0MuXecLsT_4">Interview on Open Source Software Security</a></td></tr>
 <tr><td>6/7</td><td><a href="https://upstream.live/">Tidelift's Upstream</a></td><td><a href="https://youtu.be/DJci2G227KY">Trust: Visible and Invisible</a></td></tr>
-<tr><td>5/25</td><td><a href="https://swampup.jfrog.com/agenda/">SwampUp</a></td><td>Live panel: &quot;Securing the DevOps Pipeline&quot;</td></tr>
+<tr><td>5/25</td><td><a href="https://swampup.jfrog.com/agenda/">SwampUp</a></td><td>Live panel: "Securing the DevOps Pipeline"</td></tr>
 <tr><td>5/16</td><td><a href="https://sched.co/zsUV">Cloud Native Security Conference</a></td><td><a href="https://youtu.be/2SSkNLWL4UM">Repurposed Purpose: using git's DAG for supply chain artifact resolution</a></td></tr>
 <tr><td>5/5</td><td>O'Reilly SuperStream</td><td><a href="https://www.oreilly.com/products/superstreams.htm">https://www.oreilly.com/products/superstreams.html</a></td></tr>
 <tr><td>4/6</td><td>The CTO Advisor: GitBOM</td><td><a href="https://thectoadvisor.com/gitbom-podcast/">https://thectoadvisor.com/gitbom-podcast/</a></td></tr>
@@ -162,7 +280,7 @@
 <tr><td>6 Nov</td><td><a href="https://seagl.org/news/2021/11/06/day-2-schedule.html">SeaGL</a></td><td><a href="https://youtu.be/1GiwoMkuSHg?t=10747">Computing Confidentially in the Clouds</a></td></tr>
 <tr><td>3 Nov</td><td><a href="https://events.linuxfoundation.org/lf-member-summit/">Linux Foundation Member Summit</a></td><td><a href="https://sched.co/nDn3">Walking the Cultural Tightrope: Why We Need Codes of Conduct, and Why They're Not Enough</a> (no recording)</td></tr>
 <tr><td>27 Oct</td><td><a href="https://github.com/danpopnyc/popcast">PopCast</a></td><td><a href="https://popcast-d9f7b6dc.simplecast.com/episodes/episode-91-microsoft-azures-aeva-black-an-open-source-dragon">Microsoft Azure's Aeva Black an Open Source Dragon</a></td></tr>
-<tr><td>15 Oct</td><td><a href="https://cncf.io">Cloud Native Computing Foundation</a></td><td><a href="https://www.cncf.io/announcements/2021/10/15/cloud-native-computing-foundation-announces-2021-community-awards-winners/">2021 Community &quot;Chop Wood Carry Water&quot; award</a></td></tr>
+<tr><td>15 Oct</td><td><a href="https://cncf.io">Cloud Native Computing Foundation</a></td><td><a href="https://www.cncf.io/announcements/2021/10/15/cloud-native-computing-foundation-announces-2021-community-awards-winners/">2021 Community "Chop Wood Carry Water" award</a></td></tr>
 <tr><td>11 Oct</td><td><a href="https://supplychainsecurityconna21.sched.com/">Supply Chain Security Con</a></td><td><a href="https://sched.co/n00A">Finding Your Way: a Survey of Supply Chains</a></td></tr>
 <tr><td>19 Oct</td><td><a href="https://secdev.ieee.org/2021/home">IEEE-SecDev</a></td><td><a href="https://secdev.ieee.org/2021/software-supply-chain/">Panel: Understanding and Mitigating Software Supply Chain Security Risks</a></td></tr>
 <tr><td>27 Sept</td><td><a href="https://events.linuxfoundation.org/open-source-summit-north-america">Open Source Summit (OSSNA)</a></td><td><a href="https://sched.co/lAUA">Evolving the Confidential Computing Consortium</a></td></tr>
@@ -179,9 +297,9 @@
 <table><thead><tr><th>Date</th><th>Event</th><th>Session</th></tr></thead><tbody>
 <tr><td>4 December</td><td><a href="https://confidentialcomputing.io/webinars/">Confidential Computing Webinars</a></td><td><a href="https://youtu.be/LdN3R7zDuaA">Introduction: Protecting Data In Use</a></td></tr>
 <tr><td>19 November</td><td>KubeCon North America</td><td><a href="https://kccncna20.sched.com/event/ekH7/what-is-the-kubernetes-code-of-conduct-committee-and-what-is-it-working-on-karen-chu-aeva-black-microsoft">Community Update: Code of Conduct Committee</a> (<a href="https://youtu.be/EOTvshd04Cg">video</a>)</td></tr>
-<tr><td>14 November</td><td><a href="seagl.org/">SeaGL</a></td><td><a href="https://osem.seagl.org/conferences/seagl2020/program/proposals/788">Crossing the Gender Divide</a></td></tr>
+<tr><td>14 November</td><td><a href="/media/seagl.org/">SeaGL</a></td><td><a href="https://osem.seagl.org/conferences/seagl2020/program/proposals/788">Crossing the Gender Divide</a></td></tr>
 <tr><td>2 October</td><td>Azure Security Podcast</td><td><a href="https://rss.com/podcasts/azsecpodcast/80509/">Confidential Computing</a></td></tr>
-<tr><td>28 September</td><td>Microsoft invited presentation</td><td>&quot;Crossing the Gender Divide&quot;</td></tr>
+<tr><td>28 September</td><td>Microsoft invited presentation</td><td>"Crossing the Gender Divide"</td></tr>
 <tr><td>22 August</td><td><a href="https://www.dianainitiative.org/">Diana Initiative</a></td><td><a href="https://tdi2020.sched.com/event/dh1D">How to See Your Own Perception Bias</a> (<a href="https://youtu.be/4nqesG4_ma0">video</a>)</td></tr>
 <tr><td>20 August</td><td>KubeCon Europe</td><td><a href="https://kccnceu20.sched.com/event/Zerz">Panel: Security is not a Unicorn</a> (<a href="https://youtu.be/4uZWm3OmxK0">video</a>)</td></tr>
 <tr><td>29 June</td><td>Open Source Summit</td><td><a href="https://ossna2020.sched.com/event/dd98c514e2fca9d8ebafc6b8dab9b1ac">How to See Your Own Perception Bias</a></td></tr>
@@ -193,15 +311,15 @@
 </tbody></table>
 <h1 id="2019">2019</h1>
 <table><thead><tr><th>Date</th><th>Event</th><th>Session</th></tr></thead><tbody>
-<tr><td>15 November</td><td><a href="seagl.org/">SeaGL</a></td><td><a href="https://osem.seagl.org/conferences/seagl2019/program/proposals/665">DIY Decentralization</a></td></tr>
+<tr><td>15 November</td><td><a href="/media/seagl.org/">SeaGL</a></td><td><a href="https://osem.seagl.org/conferences/seagl2019/program/proposals/665">DIY Decentralization</a></td></tr>
 <tr><td>October 3</td><td><a href="https://igniteseattle.com/">Ignite Seattle</a></td><td><a href="https://igniteseattle.com/2019/09/25/aeva-black-how-to-see-your-own-perception-bias-ignite-seattle-40/">How to See Your Own Bias</a> (<a href="https://youtu.be/Dag_WbZmMKU">video</a>)</td></tr>
 <tr><td>28 June</td><td><a href="https://www.aasect.org/">AASECT</a> Training</td><td>Educational Panel - perspective on queer and trans experience</td></tr>
 <tr><td>1 May</td><td>OpenStack Summit</td><td><a href="https://www.openstack.org/summit/denver-2019/summit-schedule/events/23374/accessible-ml-combining-open-source-and-open-data">Accessible ML: Combining Open Source and Open Data</a> (<a href="https://youtu.be/erUUWctIdeM">video</a>)</td></tr>
-<tr><td>29 April</td><td><a href="http://ml4all.org/">ML4ALL</a></td><td>&quot;Gaming Rigs &amp; ML Pipelines: Getting Started with the Tools You Already Have&quot;</td></tr>
+<tr><td>29 April</td><td><a href="http://ml4all.org/">ML4ALL</a></td><td>"Gaming Rigs &amp; ML Pipelines: Getting Started with the Tools You Already Have"</td></tr>
 </tbody></table>
 <h1 id="2018">2018</h1>
 <table><thead><tr><th>Date</th><th>Event</th><th>Session</th></tr></thead><tbody>
-<tr><td>28 May</td><td><a href="http://ml4all.org/">ML4ALL</a></td><td>Lightning Talk: &quot;Using Open Data for Good: how LANDSAT Data Could Predict Forest Fires&quot;</td></tr>
+<tr><td>28 May</td><td><a href="http://ml4all.org/">ML4ALL</a></td><td>Lightning Talk: "Using Open Data for Good: how LANDSAT Data Could Predict Forest Fires"</td></tr>
 <tr><td>20 May</td><td>OpenStack Summit</td><td><a href="https://www.openstack.org/summit/vancouver-2018/summit-schedule/events/21013/so-many-features-so-little-time">So Many Features, So Little Time</a></td></tr>
 </tbody></table>
 <h1 id="pre-history">Pre-History</h1>
@@ -209,7 +327,11 @@
 <p><strong>2011 - 2017</strong>: Many talks about OpenStack and Bare Metal Clouds at events around the world.</p>
 <p><strong>2005 - 2011</strong>: Semi-annual talks about MySQL Replication and Scalability.</p>
 
+
+
+        
     </div>
+
 
     
         <footer>
@@ -226,6 +348,14 @@
 </article>
 
 
-    </body>
 
+    <!-- optional scripts -->
+      
+    <script src="/js/toggle-theme.js"></script>
+     
+ 
+<script type="text/javascript" src="/elasticlunr.min.js"></script>
+<script type="text/javascript" src="/js/search.js"></script>
+ 
+  </body>
 </html>
