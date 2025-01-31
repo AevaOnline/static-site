@@ -77,7 +77,7 @@ I want to share a quick note ...&lt;&#x2F;p&gt;
         <summary type="html">&lt;p&gt;Use with permission.&lt;&#x2F;p&gt;
 &lt;p&gt;Choose your own adventure: &lt;strong&gt;Hacker&lt;&#x2F;strong&gt; or &lt;strong&gt;Executive&lt;&#x2F;strong&gt;?&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;hacker&quot;&gt;Hacker&lt;&#x2F;h1&gt;
-&lt;img src=&quot;moto_profile.png&quot; width=&quot;200&quot; style=&quot;float: right;&quot;&gt;
+&lt;img src=&quot;&#x2F;about&#x2F;moto_profile.png&quot; width=&quot;200&quot; style=&quot;float: right;&quot;&gt;
 Aeva Black is a non-binary hacker, public speaker, and open source software
 developer, who currently serves as the Section Chief for Open Source Software
 Security at the U.S. Cybersecurity and Infrastructure Security Agency (CISA).
@@ -86,7 +86,7 @@ Initiative, the Open Source Security Foundation, and the OpenStack Foundation
 -- and led development teams at a few companies -- including Microsoft, Hewlett
 Packard Enterprise, and IBM.
 &lt;h1 id=&quot;executive&quot;&gt;Executive&lt;&#x2F;h1&gt;
-&lt;img src=&quot;profile_500.jpeg&quot; width=&quot;200&quot; style=&quot;float: right;&quot;&gt;
+&lt;img src=&quot;&#x2F;about&#x2F;profile_500.jpeg&quot; width=&quot;200&quot; style=&quot;float: right;&quot;&gt;
 Aeva Black brings a wealth of knowledge from both the private sector and
 government. They are an international thought leader on open source security,
 with over 25 years of experience building digital infrastructure and leading
